@@ -1,5 +1,5 @@
 # Warning: This config does not include keys that have an unset value
-format = '😾🐟 $all'
+format = '👽😾🐟 $all'
 scan_timeout = 0
 command_timeout = 0
 add_newline = false
@@ -372,7 +372,7 @@ disabled = false
 [nodejs]
 format = 'via [$symbol($version )]($style)'
 version_format = 'v${raw}'
-symbol = '🧶 '
+symbol = '🪢 '
 style = 'bold green'
 disabled = false
 not_capable_style = 'bold red'
