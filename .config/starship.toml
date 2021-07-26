@@ -179,7 +179,7 @@ disabled = false
 
 [git_branch]
 format = 'on [$symbol$branch]($style)(:[$remote]($style)) '
-symbol = '🌱 '
+symbol = '🌿 '
 style = 'bold purple'
 truncation_length = 9223372036854775807
 truncation_symbol = '…'
