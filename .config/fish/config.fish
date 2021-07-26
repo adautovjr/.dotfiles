@@ -10,6 +10,7 @@ alias pull='git pull '
 #alias mastersetup='cd $HOME/.config && ./mastersetup.sh && cd'
 alias config='vi $HOME/.config/fish/config.fish'
 alias vim='vi '
+alias c='clear'
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias dot='dotfiles'
 
