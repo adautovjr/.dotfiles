@@ -7,3 +7,4 @@ check dev1/front
 fetch
 pull
 merge origin/stag/front
+push
