@@ -8,3 +8,6 @@ fetch
 pull
 merge origin/stag/front
 push
+if [ (count $argv) -gt 0 ] 
+	check -b $argv[1]
+end
