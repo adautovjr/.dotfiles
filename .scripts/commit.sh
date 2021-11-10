@@ -15,6 +15,7 @@ cm $argv[1]
 push --set-upstream origin $CURRENT_BRANCH
 check dev1/front
 merge $CURRENT_BRANCH
+push
 check $CURRENT_BRANCH
 set PR_LINK (gh pr create --title "$argv[2]" --body "" -B "stag/front")
 set SLACK_MESSAGE "[PR Open] $argv[2]  $PR_LINK"
