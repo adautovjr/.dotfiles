@@ -14,6 +14,7 @@ set CURRENT_BRANCH (git rev-parse --abbrev-ref HEAD)
 cm $argv[1]
 push --set-upstream origin $CURRENT_BRANCH
 check dev1/front
+pull
 merge $CURRENT_BRANCH
 push
 check $CURRENT_BRANCH
