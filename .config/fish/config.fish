@@ -31,6 +31,7 @@ alias cl='clear'
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias dot='dotfiles'
 alias tm='bpytop'
+alias nx='cd $HOME/Documentos/SysDVR-Client && dotnet SysDVR-Client.dll bridge 192.168.0.108 & disown'
 
 alias folio='cd $HOME/Documentos/folio' 
 alias front='folio && check dev1/front'
