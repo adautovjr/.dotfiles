@@ -1,5 +1,5 @@
 set -x fish_greeting ''
-source .profile
-source .alias
+source ~/.profile
+source ~/.alias
 
 starship init fish | source

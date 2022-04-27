@@ -1,0 +1,6 @@
+[user]
+name = Adauto Guedes
+email = 103547648+arctouch-adautoguedes@users.noreply.github.com
+
+[core]
+sshCommand = ssh -i ~/.ssh/id_at_rsa

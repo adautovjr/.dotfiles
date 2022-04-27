@@ -1,0 +1,6 @@
+[user]
+name = adautovjr
+email = 26850257+adautovjr@users.noreply.github.com
+
+[core]
+sshCommand = ssh -i ~/.ssh/id_rsa
