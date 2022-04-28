@@ -1,3 +1,4 @@
+tap "clintmod/formulas"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
@@ -9,8 +10,8 @@ brew "fish"
 brew "openjdk"
 # Java-based project management
 brew "maven"
-# Platform built on V8 to build network applications
-brew "node"
+# Node version management
+brew "n"
 # Powerful, clean, object-oriented scripting language
 brew "ruby"
 # Cross-shell prompt for astronauts
