@@ -2,3 +2,5 @@
   path = ~/.gitconfig-personal
 [includeIf "gitdir:~/Documents/projects/workplace/"]
   path = ~/.gitconfig-at
+[includeIf "gitdir:~/Documents/projects/hp/"]
+  path = ~/.gitconfig-hp
