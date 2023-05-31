@@ -1,7 +1,6 @@
 alias f='fuck'
 alias fk='fuck'
 alias personal='cd $HOME/Documents/projects/personal && ls'
-alias workplace='cd $HOME/Documents/projects/workplace && ls'
 alias st='git status'
 alias ys='yarn start'
 alias yd='yarn dev'

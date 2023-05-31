@@ -11,6 +11,10 @@ chmod +x slack
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-brew bundle -file $HOME/.dotfiles/Brewfile
+eval "$(/opt/homebrew/bin/brew shellenv)"
 
-xcode-select --install
+brew install bundle
+
+brew bundle -file $HOME/Brewfile
+
+# xcode-select --install
