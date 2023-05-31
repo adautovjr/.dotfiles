@@ -2,23 +2,17 @@
 
 source ~/.alias
 
-if [ $# -lt 2 ]; then
+if [ $# -lt 5 ]; then
 	echo "Use this syntax:"
-	echo "commit <COMMIT-MESSAGE> <PR-TITLE>"
+	echo "commit-hp <PR-ID> <PR-TITLE> <FLOW-TYPE> <BRANCH-NAME> <COMMIT-MESSAGE>"
   exit 1
 fi
 
-# add .
-# st
-# set CURRENT_BRANCH (git rev-parse --abbrev-ref HEAD)
-# cm $argv[1]
-# push --set-upstream origin $CURRENT_BRANCH
-# check dev1/front
-# pull
-# merge $CURRENT_BRANCH
-# push
-# check $CURRENT_BRANCH
-# set PR_LINK (gh pr create --title "$argv[2]" --body "" -B "stag/front")
-# set SLACK_MESSAGE "[PR Open] $argv[2]  $PR_LINK"
-# echo $SLACK_MESSAGE
-#slack --text "$SLACK_MESSAGE" --channel '#folio-all-devs'
+stash
+pull
+git flow $3 start $1/$4
+stash pop
+add .
+cm "$5"
+git flow $3 publish $1/$4
+echo "$1 :: $2"
