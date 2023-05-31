@@ -1,0 +1,24 @@
+{
+    AddressMapping =     {
+        "9D52CB81-D063-42F6-9BC2-B3E92C536F66" = "DC:9B:9C:7D:6A:1A";
+        "A0B806C8-E487-46D2-9D83-80DCF6105D0C" = "DC:9B:9C:7D:6A:1A";
+        "A5299902-86D6-4FDF-9F84-29007FB2DAFB" = "DC:9B:9C:7D:6A:1A";
+        "B0100BD7-89D0-45E4-97AE-A48D4ED18DBD" = "70:22:FE:5D:CA:EF";
+        "C7C45704-B1C2-4F11-8776-E56060571A27" = "08:25:73:A0:AB:84";
+        "F6D40F3F-40B6-4859-B9F7-AAADC0E6FAF3" = "9C:E6:5E:C1:A5:BD";
+        "FE2A4B9B-4082-41EB-9601-33C3502EB70C" = "08:66:98:C9:B0:3B";
+    };
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585404;
+    CloudKitAccountInfoCache =     {
+        93cedf8dc5e2da24722a5fd62a3f32f2eac5f17d773a719a16bee77f72b9f5a3 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+        b0c03395fcf5253a819962ed0f9115aae914afac3fbe9ba7e6becdc98ea8e11b = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    MagicCloudPairingAccessorySubscriptionID = "0D985E54-794F-4CEA-986D-AD422D035B43";
+    MagicCloudPairingAccessorySubscriptionManateeID = "D509F4E9-4481-46F3-A352-239FAD24A146";
+    MagicCloudPairingManateeUpgradedAccount = 1;
+    MagicCloudPairingMasterSubscriptionID = "EB69A9C4-40BF-4D9A-A7D3-7AF9072DB87B";
+    MagicCloudPairingMasterSubscriptionManateeID = "CBF1BCB5-2CC0-4A0B-B50F-4BB6BF103985";
+}

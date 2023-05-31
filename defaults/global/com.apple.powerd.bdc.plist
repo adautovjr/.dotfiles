@@ -1,0 +1,20 @@
+{
+    "BDC_Daily_LastLoggedTimeStamp" = "2023-05-31 00:25:09 +0000";
+    "BDC_Daily_LastUsedFileName" = "/var/db/Battery/BDC/BDC_Daily_version1.7_2023-05-15_15:20:06.csv";
+    "BDC_OBC_LastLoggedTimeStamp" = "2023-05-30 17:44:56 +0000";
+    "BDC_OBC_LastUsedFileName" = "/var/db/Battery/BDC/BDC_OBC_version1.7_2023-05-23_22:08:56.csv";
+    "BDC_Once_LastLoggedTimeStamp" = "2022-04-11 17:00:17 +0000";
+    "BDC_Once_LastUsedFileName" = "/var/db/Battery/BDC/BDC_Once_version1.7_2022-04-11_17:00:17.csv";
+    "BDC_SBC_LastLoggedTimeStamp" = "2023-05-30 19:25:09 +0000";
+    "BDC_SBC_LastUsedFileName" = "/var/db/Battery/BDC/BDC_SBC_version1.7_2023-05-29_19:40:09.csv";
+    "BDC_Weekly_LastLoggedTimeStamp" = "2023-05-24 12:53:32 +0000";
+    "BDC_Weekly_LastUsedFileName" = "/var/db/Battery/BDC/BDC_Weekly_version1.7_2023-05-03_12:53:33.csv";
+    BatterySerialNumber = F8Y201401690J9TAQ;
+    DataFormatVersion = "1.7";
+    LastConnectedState = 2;
+    LastKnownRTCTicks = "42691600.461288";
+    LastKnownWalltime = "2023-05-31 00:23:48 +0000";
+    RTCTicksDelta = 0;
+    ReferenceRTCTicks = "214041.325454";
+    ReferenceWalltime = "2022-01-24 09:05:50 +0000";
+}

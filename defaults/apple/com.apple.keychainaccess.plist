@@ -1,0 +1,16 @@
+{
+    "Item Preview Closed" = 0;
+    "Keychain Item List Sort Descending" = 0;
+    "Keychain Item List Sorting" = name;
+    "Keychains List Closed" = 0;
+    "Last Selected Category" = "My Certificates";
+    "Last Selected Keychain" = "/Users/adautoguedes/Library/Keychains/login.keychain-db";
+    "NSSplitView Subview Frames KeychainAccessMainWindowHostingView, SidebarNavigationView" =     (
+        "0.000000, 0.000000, 140.000000, 533.000000, NO, NO",
+        "141.000000, 0.000000, 736.000000, 533.000000, NO, NO"
+    );
+    "NSTableView Columns v3 Item List Settings" = {length = 686, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001ce };
+    "NSTableView Sort Ordering v2 Item List Settings" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b5 };
+    "NSTableView Supports v2 Item List Settings" = 1;
+    "NSWindow Frame Keychain Access Window" = "182 336 877 533 0 0 1728 1079 ";
+}

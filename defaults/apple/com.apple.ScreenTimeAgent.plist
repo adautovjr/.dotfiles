@@ -1,0 +1,12 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585405;
+    CloudKitAccountInfoCache =     {
+        b5608a0941d37c31da87222c1ad6248ba72d4870279c3aaecef367bb337157b5 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    GenesisCloudMirroringImportOccurred = 0;
+    LastTimeZoneName = "America/Fortaleza";
+    UsageGenesisDate = "2022-04-05 20:29:04 +0000";
+}

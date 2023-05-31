@@ -1,0 +1,16 @@
+{
+    "books-migrated" = 1;
+    "books-persistent-id" = "-1770586512774382148";
+    debugAssertCategoriesEnabled = 0;
+    debugAssertCategoriesVersion = 3;
+    "devices-persistent-id" = "-7227516668919285912";
+    "have-shown-cloud-UI" = 1;
+    "imported-media-domains" = 15;
+    "imported-media-domains-modification-date" = "Mon, 11 Apr 2022 16:04:17 GMT";
+    "podcasts-migrated" = 1;
+    "podcasts-persistent-id" = 4296469627923333227;
+    storeMediaTypeFlags = 3398;
+    storeSupportsPasswordSettings = 1;
+    storeSupportsPreviousPurchases = 1;
+    storeSupportsUPP = 1;
+}

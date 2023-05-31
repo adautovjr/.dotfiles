@@ -1,0 +1,5 @@
+{
+    SCRCUserDefaultsAllowAirPlay = 0;
+    SCRCUserDefaultsPlannedShutdownSuccessful = 1;
+    SCRCUserDefaultsUnplannedShutdownCount = 0;
+}

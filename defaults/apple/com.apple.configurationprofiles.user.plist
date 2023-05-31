@@ -1,0 +1,18 @@
+{
+    "APNSTokens_Production" =     {
+        "EF6D8B23-47FC-5385-983E-2593AC89A71A" =         {
+            "00000000-0000-0000-A000-4A414D460004__https://achp.jamfcloud.com/mdm/ServerURL" =             {
+                ProfileUUID = "00000000-0000-0000-A000-4A414D460003";
+                PushMagic = "0149A193-2A31-42B9-9F1F-249E53154CA1";
+                PushToken = {length = 32, bytes = 0xfb08ac50 29a5ad8d 8ced1484 362e4a46 ... 79191c90 7655b4a2 };
+            };
+        };
+    };
+    "MDM_Persist" =     {
+        "EF6D8B23-47FC-5385-983E-2593AC89A71A" =         {
+            "com.apple.mdmconfig.mdm" =             {
+                NeedsPoll = 1;
+            };
+        };
+    };
+}

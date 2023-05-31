@@ -1,0 +1,89 @@
+{
+    "CBUser-0" =     {
+        CBBlueReductionStatus =         {
+            AutoBlueReductionEnabled = 1;
+            BlueLightReductionSchedule =             {
+                DayStartHour = 7;
+                DayStartMinute = 0;
+                NightStartHour = 22;
+                NightStartMinute = 0;
+            };
+            BlueReductionAvailable = 1;
+            BlueReductionEnabled = 0;
+            BlueReductionMode = 0;
+            BlueReductionSunScheduleAllowed = 1;
+            Version = 1;
+        };
+    };
+    "CBUser-3666A50A-63CA-43B6-8D12-19C62299283F" =     {
+        CBBlueReductionStatus =         {
+            AutoBlueReductionEnabled = 1;
+            BlueLightReductionSchedule =             {
+                DayStartHour = 7;
+                DayStartMinute = 0;
+                NightStartHour = 22;
+                NightStartMinute = 0;
+            };
+            BlueReductionAvailable = 1;
+            BlueReductionEnabled = 0;
+            BlueReductionMode = 0;
+            BlueReductionSunScheduleAllowed = 1;
+            Version = 1;
+        };
+    };
+    "CBUser-4DBAA6F7-37C5-4970-AB44-66523BE4F598" =     {
+        CBBlueReductionStatus =         {
+            AutoBlueReductionEnabled = 1;
+            BlueLightReductionSchedule =             {
+                DayStartHour = 7;
+                DayStartMinute = 0;
+                NightStartHour = 22;
+                NightStartMinute = 0;
+            };
+            BlueReductionAvailable = 1;
+            BlueReductionEnabled = 0;
+            BlueReductionMode = 0;
+            BlueReductionSunScheduleAllowed = 1;
+            Version = 1;
+        };
+    };
+    CoreAnalyticsTimestamps =     {
+        "com.apple.corebrightness.harmony.state" = "2023-05-30 17:42:22 +0000";
+    };
+    DisplayPreferences =     {
+        "37D8832A-2D66-02CA-B9F7-8F30A301B230" =         {
+            AutoBrightnessCurve =             {
+                Backlight1 = "-1.098979";
+                Backlight2 = "1.428571";
+                Lux1 = 0;
+                Lux2 = "1547.912";
+                LuxThreshold = "78.5";
+                Version = 2;
+            };
+            AutoBrightnessEnable = 0;
+            BrightnessLevelNits = "499.9999";
+        };
+    };
+    "Keyboard Dim Time" = 0;
+    KeyboardBacklight =     {
+        95159107 =         {
+            KeyboardBacklightAdjustedBrightnessCurve =             {
+                KeyboardCurveX1 = 0;
+                KeyboardCurveX2 = 70;
+                KeyboardCurveX3 = 160;
+                KeyboardCurveX4 = 300;
+                KeyboardCurveY1 = "3.594111";
+                KeyboardCurveY2 = "10.09949";
+                KeyboardCurveY3 = "10.17037";
+                KeyboardCurveY4 = "0.1466";
+            };
+            KeyboardBacklightMaxUser = "14.66";
+        };
+        KeyboardBacklightABEnabled = 1;
+        KeyboardBacklightIdleDimTime = 0;
+        KeyboardBacklightManualBrightness = "0.2451644";
+        KeyboardBacklightMuted = 0;
+        KeyboardBacklightPrefVersion = 1;
+        KeyboardBacklightUserOffset = 0;
+    };
+}

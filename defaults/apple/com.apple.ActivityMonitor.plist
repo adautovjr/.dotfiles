@@ -1,0 +1,78 @@
+{
+    "Column Width" =     {
+        CPU =         {
+            12HRPower = 80;
+            AppSleep = 70;
+            Architecture = 88;
+            AveragePowerScore = 120;
+            CPUTime = 70;
+            CPUUsage = 75;
+            Command = 200;
+            GPUTime = 75;
+            GPUUsage = 75;
+            IdleWakeUps = 98;
+            InstantOff = 86;
+            PID = 40;
+            Ports = 48;
+            PowerScore = 100;
+            Private = 88;
+            PurgeableMem = 104;
+            ResidentSize = 72;
+            Sandbox = 58;
+            Shared = 88;
+            Threads = 60;
+            UID = 80;
+            anonymousMemory = 64;
+            bytesRead = 92;
+            bytesWritten = 92;
+            compressedMemory = 110;
+            powerAssertion = 96;
+            restricted = 96;
+            rxBytes = 70;
+            rxPackets = 80;
+            txBytes = 80;
+            txPackets = 80;
+        };
+    };
+    "NSTableView Columns v3 ProcessViewerColumns" = {length = 3211, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 0000091b };
+    "NSTableView Columns v3 cacheTableColumns" = {length = 827, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000025f };
+    "NSTableView Sort Ordering v2 ProcessViewerColumns" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b5 };
+    "NSTableView Sort Ordering v2 cacheTableColumns" = {length = 413, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    "NSTableView Supports v2 ProcessViewerColumns" = 1;
+    "NSTableView Supports v2 cacheTableColumns" = 1;
+    "NSWindow Frame main window" = "384 220 960 640 0 0 1728 1079 ";
+    OpenMainWindow = 0;
+    SelectedTab = 0;
+    ShowCategory = 102;
+    UserColumnSortPerTab =     {
+        0 =         {
+            direction = 0;
+            sort = CPUUsage;
+        };
+        1 =         {
+            direction = 0;
+            sort = anonymousMemory;
+        };
+        2 =         {
+            direction = 0;
+            sort = 12HRPower;
+        };
+        3 =         {
+            direction = 0;
+            sort = CPUUsage;
+        };
+        4 =         {
+            direction = 0;
+            sort = txBytes;
+        };
+        5 =         {
+            direction = 0;
+            sort = Name;
+        };
+        6 =         {
+            direction = 0;
+            sort = GPUUsage;
+        };
+    };
+    cacheTableSortDescriptors = {length = 400, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000122 };
+}

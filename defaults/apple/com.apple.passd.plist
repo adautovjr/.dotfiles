@@ -1,0 +1,13 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585404;
+    CloudKitAccountInfoCache =     {
+        452c17c6297a814f998da682b85c3a9285ec8372e520366e4cbe8569e5d032fb = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+        487b961eaffa7672aee4b3bc01b69c10b98d8b6bc65051b2ff51ef9d3721a307 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+        52e929331b4fec47aba391a1186b852b82e6756bcb2f8b236e880b232b3948ef = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+        c89801ca6cc87d34f1cf0589eb8e9b7be92ac09e8d83386534beebc056693bd8 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    PDLastLogDate = "2023-05-19 21:16:50 +0000";
+}

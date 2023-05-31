@@ -1,0 +1,15 @@
+{
+    CloudAccountID = "adautovjr@yahoo.com";
+    GlobalAllowSpatial = on;
+    MajorOSVersion = 12;
+    OSBuildVersion = 21F79;
+    SignInstatus = SignedIn;
+    SpatialModeDict =     {
+        global =         {
+            kCBMsgArgParamSpatialHeadTracking = 1;
+            kCBMsgArgParamSpatialMode = 2;
+        };
+    };
+    defaultAirplaneModePowerState = on;
+    defaultPoweredState = on;
+}

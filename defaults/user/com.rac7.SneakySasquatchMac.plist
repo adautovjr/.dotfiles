@@ -1,0 +1,22 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1650925632;
+    "Screenmanager Fullscreen mode" = 1;
+    "Screenmanager Fullscreen mode Default" = 1;
+    "Screenmanager Resolution Height" = 2234;
+    "Screenmanager Resolution Height Default" = 768;
+    "Screenmanager Resolution Use Native" = 1;
+    "Screenmanager Resolution Use Native Default" = 1;
+    "Screenmanager Resolution Width" = 3456;
+    "Screenmanager Resolution Width Default" = 1024;
+    "__lbc0" = 12;
+    "__llb0" = 1651111491;
+    "_ssss" = 1;
+    "last_used_slot" = 0;
+    "p31-was-iCloud-enabled-last-launch" = 1;
+    "samsquanch_uuid.txt" = J0HH53sNi1;
+    "unity.player_session_count" = 18;
+    "unity.player_sessionid" = 3231251394062168556;
+}

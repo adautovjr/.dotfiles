@@ -1,0 +1,198 @@
+{
+    MRU =     {
+        Photoshop =         {
+            files =             (
+                                {
+                    "file-alias" = {length = 1168, bytes = 0x626f6f6b 90040000 00000410 30000000 ... 6c020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/doomsdayarmsdealer/assets/background.png";
+                    "file-time" = {length = 8, bytes = 0x5916a60ea012c541};
+                },
+                                {
+                    "file-alias" = {length = 992, bytes = 0x626f6f6b e0030000 00000410 30000000 ... d4010000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Desktop/Screen Shot 2023-05-29 at 16.39.05.PNG";
+                    "file-time" = {length = 8, bytes = 0x43e49e07a012c541};
+                },
+                                {
+                    "file-alias" = {length = 1160, bytes = 0x626f6f6b 88040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/doomsdayarmsdealer/assets/title.png";
+                    "file-time" = {length = 8, bytes = 0x3fe2a54c9f12c541};
+                },
+                                {
+                    "file-alias" = {length = 1160, bytes = 0x626f6f6b 88040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/doomsdayarmsdealer/assets/GameIcon.png";
+                    "file-time" = {length = 8, bytes = 0xd907556c9c12c541};
+                },
+                                {
+                    "file-alias" = {length = 1176, bytes = 0x626f6f6b 98040000 00000410 30000000 ... 70020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/doomsdayarmsdealer/assets/loading_screen.png";
+                    "file-time" = {length = 8, bytes = 0x2c292fb69b12c541};
+                },
+                                {
+                    "file-alias" = {length = 1168, bytes = 0x626f6f6b 90040000 00000410 30000000 ... 6c020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/doomsdayarmsdealer/assets/howtoplay.PNG";
+                    "file-time" = {length = 8, bytes = 0x5f79b6479912c541};
+                },
+                                {
+                    "file-alias" = {length = 1176, bytes = 0x626f6f6b 98040000 00000410 30000000 ... 70020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/doomsdayarmsdealer/assets/background-ui.png";
+                    "file-time" = {length = 8, bytes = 0x81234d419912c541};
+                },
+                                {
+                    "file-alias" = {length = 1232, bytes = 0x626f6f6b d0040000 00000410 30000000 ... ac020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/apotiguar_app/src/assets/images/logo.png";
+                    "file-time" = {length = 8, bytes = 0xf297d01bf209c541};
+                },
+                                {
+                    "file-alias" = {length = 976, bytes = 0x626f6f6b d0030000 00000410 30000000 ... cc010000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/Passaporte Adauto Guedes.pdf";
+                    "file-time" = {length = 8, bytes = 0xf33804c0d17cc441};
+                },
+                                {
+                    "file-alias" = {length = 1264, bytes = 0x626f6f6b f0040000 00000410 30000000 ... cc020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/hit.png";
+                    "file-time" = {length = 8, bytes = 0x19ca1f7d532cc441};
+                },
+                                {
+                    "file-alias" = {length = 1152, bytes = 0x626f6f6b 80040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ships/ship (13).png";
+                    "file-time" = {length = 8, bytes = 0x2e539d02122cc441};
+                },
+                                {
+                    "file-alias" = {length = 1152, bytes = 0x626f6f6b 80040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ships/ship (14).png";
+                    "file-time" = {length = 8, bytes = 0x11a79b02122cc441};
+                },
+                                {
+                    "file-alias" = {length = 1152, bytes = 0x626f6f6b 80040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ships/ship (15).png";
+                    "file-time" = {length = 8, bytes = 0xb2129902122cc441};
+                },
+                                {
+                    "file-alias" = {length = 1152, bytes = 0x626f6f6b 80040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ships/ship (16).png";
+                    "file-time" = {length = 8, bytes = 0x23869702122cc441};
+                },
+                                {
+                    "file-alias" = {length = 1152, bytes = 0x626f6f6b 80040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ships/ship (17).png";
+                    "file-time" = {length = 8, bytes = 0x15fd9502122cc441};
+                },
+                                {
+                    "file-alias" = {length = 1152, bytes = 0x626f6f6b 80040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ships/ship (18).png";
+                    "file-time" = {length = 8, bytes = 0xd8809402122cc441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/down/ship2.png";
+                    "file-time" = {length = 8, bytes = 0x2ec59dd8112cc441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/down/ship3.png";
+                    "file-time" = {length = 8, bytes = 0x5f799ad8112cc441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/down/ship4.png";
+                    "file-time" = {length = 8, bytes = 0x71af98d8112cc441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/down/ship5.png";
+                    "file-time" = {length = 8, bytes = 0x030a97d8112cc441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/down/ship6.png";
+                    "file-time" = {length = 8, bytes = 0x021295d8112cc441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/down/ship1.png";
+                    "file-time" = {length = 8, bytes = 0xca8a93d8112cc441};
+                },
+                                {
+                    "file-alias" = {length = 1156, bytes = 0x626f6f6b 84040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/crew (1).png";
+                    "file-time" = {length = 8, bytes = 0xf50e2bd3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1156, bytes = 0x626f6f6b 84040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/crew (2).png";
+                    "file-time" = {length = 8, bytes = 0x0c3c21d3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1156, bytes = 0x626f6f6b 84040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/crew (3).png";
+                    "file-time" = {length = 8, bytes = 0x0a2b1fd3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1156, bytes = 0x626f6f6b 84040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/crew (5).png";
+                    "file-time" = {length = 8, bytes = 0x50fe1cd3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1156, bytes = 0x626f6f6b 84040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/crew (4).png";
+                    "file-time" = {length = 8, bytes = 0x20d51ad3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1156, bytes = 0x626f6f6b 84040000 00000410 30000000 ... 68020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/crew (6).png";
+                    "file-time" = {length = 8, bytes = 0x359818d3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1172, bytes = 0x626f6f6b 94040000 00000410 30000000 ... 70020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/hullLarge (1).png";
+                    "file-time" = {length = 8, bytes = 0x69fe14d3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1172, bytes = 0x626f6f6b 94040000 00000410 30000000 ... 70020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/hullLarge (2).png";
+                    "file-time" = {length = 8, bytes = 0x1de512d3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1172, bytes = 0x626f6f6b 94040000 00000410 30000000 ... 70020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/hullLarge (3).png";
+                    "file-time" = {length = 8, bytes = 0x86ae10d3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1172, bytes = 0x626f6f6b 94040000 00000410 30000000 ... 70020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Downloads/kenney_piratepack/PNG/Retina/Ship parts/hullLarge (4).png";
+                    "file-time" = {length = 8, bytes = 0x6d3c0ed3fd2bc441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/left/ship2.png";
+                    "file-time" = {length = 8, bytes = 0xb0008af58027c441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/left/ship3.png";
+                    "file-time" = {length = 8, bytes = 0x4a4171f58027c441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/left/ship4.png";
+                    "file-time" = {length = 8, bytes = 0xdb4f6ef58027c441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/left/ship5.png";
+                    "file-time" = {length = 8, bytes = 0x5ce36bf58027c441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/left/ship6.png";
+                    "file-time" = {length = 8, bytes = 0x392a69f58027c441};
+                },
+                                {
+                    "file-alias" = {length = 1312, bytes = 0x626f6f6b 20050000 00000410 30000000 ... f4020000 00000000 };
+                    "file-path" = "/Users/adautoguedes/Documents/projects/personal/naval_svelte/src/lib/assets/images/left/ship1.png";
+                    "file-time" = {length = 8, bytes = 0x448645f58027c441};
+                }
+            );
+        };
+    };
+}

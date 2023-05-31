@@ -1,0 +1,7 @@
+{
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavLastRootDirectory = "~/Documents";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    NSTreatUnknownArgumentsAsOpen = NO;
+    "NSWindow Frame NSNavPanelAutosaveName" = "464 473 800 448 0 0 1728 1079 ";
+}

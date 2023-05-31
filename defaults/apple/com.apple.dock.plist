@@ -1,0 +1,192 @@
+{
+    autohide = 1;
+    "autohide-delay" = 0;
+    largesize = 128;
+    "last-analytics-stamp" =     (
+        "706883043.089563"
+    );
+    lastShowIndicatorTime = "671391166.509589";
+    loc = "en_US:BR";
+    mineffect = genie;
+    "mod-count" = 69;
+    "mru-spaces" = 0;
+    orientation = left;
+    "persistent-apps" =     (
+                {
+            GUID = 3676132091;
+            "tile-data" =             {
+                book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.iCal";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Calendar.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Calendar;
+                "file-mod-date" = 3734976648;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3734976648;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3676132093;
+            "tile-data" =             {
+                book = {length = 584, bytes = 0x626f6f6b 48020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.reminders";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Reminders.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Reminders;
+                "file-mod-date" = 3731124073;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3731124073;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3676132094;
+            "tile-data" =             {
+                book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.Notes";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Notes.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Notes;
+                "file-mod-date" = 3734976648;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3734976648;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3676132102;
+            "tile-data" =             {
+                book = {length = 584, bytes = 0x626f6f6b 48020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.AppStore";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/App%20Store.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "App Store";
+                "file-mod-date" = 3731124073;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3731124073;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2288259907;
+            "tile-data" =             {
+                book = {length = 564, bytes = 0x626f6f6b 34020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.google.Chrome";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Google%20Chrome.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Google Chrome";
+                "file-mod-date" = 3764620756;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 11024651959054;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3246667620;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.tinyspeck.slackmacgap";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Slack.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Slack;
+                "file-mod-date" = 14619512969523;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 236742340423880;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3246667622;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "desktop.WhatsApp";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/WhatsApp.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = WhatsApp;
+                "file-mod-date" = 88471502240546;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 11024651959054;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3246667623;
+            "tile-data" =             {
+                book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.mail";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Mail.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Mail;
+                "file-mod-date" = 3731124073;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3731124073;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3676132103;
+            "tile-data" =             {
+                book = {length = 592, bytes = 0x626f6f6b 50020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.systempreferences";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/System%20Preferences.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "System Preferences";
+                "file-mod-date" = 3734976648;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3734976648;
+            };
+            "tile-type" = "file-tile";
+        }
+    );
+    "persistent-others" =     (
+    );
+    "recent-apps" =     (
+    );
+    region = BR;
+    "show-process-indicators" = 1;
+    "show-recents" = 0;
+    tilesize = 51;
+    "trash-full" = 1;
+    version = 1;
+    "wvous-br-corner" = 1;
+    "wvous-br-modifier" = 1048576;
+    "wvous-tl-corner" = 11;
+    "wvous-tl-modifier" = 1048576;
+}

@@ -1,0 +1,11 @@
+{
+    FirstLaunch = 0;
+    "NSToolbar Configuration com.apple.DirectoryAccess.toolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame DU" = "200 138 809 577 0 0 1728 1079 ";
+    "NSWindow Frame MainWindow1" = "200 138 809 577 0 0 1728 1079 ";
+}

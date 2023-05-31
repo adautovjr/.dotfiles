@@ -1,0 +1,14 @@
+{
+    CachedWarrantyLastUpdatedDate = "2023-05-20 12:33:20 +0000";
+    CachedWarrantyLocale = "en_BR";
+    CachedWarrantyValidityDuration = 28800;
+    CachedWarrantyVersion = 2;
+    ConversionOutreachScheduledDate = "2023-04-05 00:00:00 +0000";
+    PostUpgradeActivityCompleted = 1;
+    PostUpgradeOSVersionKey = "12.4";
+    ServerVersionCache =     {
+        HighServerVersion = 3;
+        LowServerVersion = 2;
+    };
+    "com.apple.ndoagent.conversionoutreach.TargetDate" = "2023-04-05 00:00:00 +0000";
+}

@@ -1,0 +1,54 @@
+{
+    "Palo Alto Networks" =     {
+        GlobalProtect =         {
+            PanMSAgent =             {
+                "Client.DebugLevel" = 5;
+                PanGPS = 5;
+                SearchOrder = 1;
+                "Service.DebugLevel" = 5;
+            };
+            Settings =             {
+                ConfFromPortal = 39980;
+                ConfFromPortal3 = 1512856249;
+                Configurations = 24;
+                Configurations2 = 47;
+                Configurations3 = 1;
+                DisallowLocalAccess = 0;
+                DisplayTrafficBlockingMsg = 1;
+                DisplayWelcome = 1;
+                HipCheckInterval = 0;
+                InitRun = 0;
+                LastUrl = "GP-SDG04-01.ams.hp.net";
+                LocalBioEnabled = 0;
+                LocalSSLEnabled = 0;
+                OtherDisableStarted = 0;
+                OverrideMethod = allowed;
+                UserOverrides = 0;
+                WasOD = 1;
+                "agent-user-override-timeout" = 0;
+                "mfa-prompt-suppress-time" = 0;
+                "ssl-only-selection" = 0;
+            };
+            "Settings\\\\GP-SDG04-01.ams.hp.net" =             {
+                AuthTypes = 45;
+                ConfFromPortal = 39980;
+                ConfFromPortal3 = 1512856249;
+                Configurations = 24;
+                Configurations2 = 47;
+                Configurations3 = 1;
+                DisplayTrafficBlockingMsg = 1;
+                DisplayWelcome = 1;
+                HipCheckInterval = 0;
+                LocalBioEnabled = 0;
+                LocalSSLEnabled = 0;
+                OtherDisableStarted = 0;
+                OverrideMethod = allowed;
+                UserOverrides = 0;
+                WasOD = 1;
+                "agent-user-override-timeout" = 0;
+                "mfa-prompt-suppress-time" = 0;
+                "ssl-only-selection" = 0;
+            };
+        };
+    };
+}

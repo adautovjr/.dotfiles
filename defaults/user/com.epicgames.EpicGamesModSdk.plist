@@ -1,0 +1,6 @@
+{
+    ModSdkAppToCheck = "EpicGamesLauncher-Mac-Shipping";
+    ModSdkArguments = "--args -ApplicationMode=ModSdk";
+    ModSdkCommand = "/Applications/Epic Games Launcher.app/Contents/MacOS/EpicGamesLauncher-Mac-Shipping";
+    ModSdkMetadataDir = "/Users/adautoguedes/Library/Application Support/Epic/EpicGamesLauncher/Data/Manifests";
+}

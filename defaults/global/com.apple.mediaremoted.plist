@@ -1,0 +1,6 @@
+{
+    LastNowPlayingAppIsPlayingState = 0;
+    MRDBrowsableContentAPICoordinatorStoredCaseSensitive = 1;
+    "_MRDActivePlayerPathDateDefaultsKey" = {length = 112, bytes = 0x0a25121d 61646175 746f6775 65646573 ... 506c6179 65723000 };
+    "_MRDAnyNowPlayingAppIsPlayingDefaultsKey" = 0;
+}

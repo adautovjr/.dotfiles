@@ -1,0 +1,10 @@
+{
+    BugsnagUserName = "E34B5334-139C-4087-BEC8-38995772A6C1";
+    BugsnagUserUserId = "E34B5334-139C-4087-BEC8-38995772A6C1";
+    SUAutomaticallyUpdate = 1;
+    SUEnableAutomaticChecks = 0;
+    SUHasLaunchedBefore = 1;
+    SULastCheckTime = "2022-04-19 21:18:45 +0000";
+    SUScheduledCheckInterval = 21600;
+    SUUpdateRelaunchingMarker = 0;
+}

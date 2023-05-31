@@ -1,0 +1,10 @@
+{
+    AutoStartSettingIsHidden = 1;
+    NSFullScreenMenuItemEverywhere = 0;
+    NSIsFullScreen = 1;
+    NSNavLastRootDirectory = "~/Downloads";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    "NSWindow Frame NSNavPanelAutosaveName" = "-250 -248 800 448 0 0 1728 1079 ";
+    "NSWindow Frame com.spotify.client.mainwindow" = "2048 70 1600 928 1728 37 1920 1055 ";
+    "run_mode" = "clean_quit";
+}

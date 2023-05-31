@@ -1,0 +1,8 @@
+{
+    DictationIMCorrectionCount = 0;
+    DictationIMIntroMessagePresented = 1;
+    DictationIMLastDictationDate = "692524965.586755";
+    DictationIMMessageTracesSinceLastReport = 1;
+    "DictationIMUpgradedTo10_15" = 1;
+    "DictationIMUpgradedTo10_16" = 1;
+}

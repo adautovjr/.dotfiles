@@ -1,0 +1,15 @@
+{
+    ModelName = Canned;
+    SPMessageTracingWindowHideCount = 327;
+    SPMessageTracingWindowShowCount = 327;
+    "__NSEnableTSMDocumentWindowLevel" = 1;
+    "engagementCount-com.apple.Spotlight" = 2;
+    "engagementCount-com.apple.Spotlight.suggestions" = 0;
+    "engagementCount-com.apple.mail" = 0;
+    lastVisibleScreenRect = "{{0, 0}, {1728, 1079}}";
+    lastWindowPosition = "{{465, 447}, {680, 430}}";
+    showedFTE = 1;
+    startTime = "706278238.975229";
+    useCount = 3;
+    userHasMovedWindow = 1;
+}

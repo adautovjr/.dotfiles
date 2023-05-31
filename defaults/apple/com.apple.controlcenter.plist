@@ -1,0 +1,29 @@
+{
+    "NSStatusItem Preferred Position Battery" = 173;
+    "NSStatusItem Preferred Position BentoBox" = 141;
+    "NSStatusItem Preferred Position Bluetooth" = 287;
+    "NSStatusItem Preferred Position FocusModes" = 351;
+    "NSStatusItem Preferred Position NowPlaying" = 319;
+    "NSStatusItem Preferred Position ScreenMirroring" = 378;
+    "NSStatusItem Preferred Position Sound" = 251;
+    "NSStatusItem Preferred Position WiFi" = 215;
+    "NSStatusItem Visible Battery" = 1;
+    "NSStatusItem Visible BentoBox" = 1;
+    "NSStatusItem Visible Bluetooth" = 1;
+    "NSStatusItem Visible Clock" = 1;
+    "NSStatusItem Visible FocusModes" = 0;
+    "NSStatusItem Visible Item-0" = 0;
+    "NSStatusItem Visible Item-1" = 0;
+    "NSStatusItem Visible Item-2" = 0;
+    "NSStatusItem Visible Item-3" = 0;
+    "NSStatusItem Visible Item-4" = 0;
+    "NSStatusItem Visible Item-5" = 0;
+    "NSStatusItem Visible Item-6" = 0;
+    "NSStatusItem Visible Item-7" = 0;
+    "NSStatusItem Visible Item-8" = 0;
+    "NSStatusItem Visible NowPlaying" = 1;
+    "NSStatusItem Visible ScreenMirroring" = 0;
+    "NSStatusItem Visible Shortcuts" = 0;
+    "NSStatusItem Visible Sound" = 1;
+    "NSStatusItem Visible WiFi" = 1;
+}

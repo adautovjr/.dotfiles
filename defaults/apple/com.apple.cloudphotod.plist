@@ -1,0 +1,25 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585406;
+    "CPLEngineParameters-SystemLibrary" =     {
+        clientLibraryBasePath = "/Users/adautoguedes/Pictures/Photos Library.photoslibrary/resources/cpl/cloudsync.noindex";
+        cloudLibraryResourceStoragePath = "/Users/adautoguedes/Pictures/Photos Library.photoslibrary/resources/cpl/cloudsync.noindex/storage";
+        cloudLibraryStateStoragePath = "/Users/adautoguedes/Pictures/Photos Library.photoslibrary/resources/cpl/cloudsync.noindex/storage";
+        libraryIdentifier = SystemLibrary;
+        options = 5;
+    };
+    CloudKitAccountInfoCache =     {
+        545a8ae14a5a36fe11b82043acc98a06cd84f50cc77848d294c41d87ac3c955b = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+        d3c1041b244408dda39bdc2ac16bb9a6c09d7d7182bcbe9c788a30fc1702a788 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    "_CPLUpgradeHistory-SystemLibrary" =     {
+        lastCPLUpgradeDate = "2022-07-17 03:05:48 +0000";
+        lastOSBuildUpgradeDate = "2022-07-17 03:05:48 +0000";
+        lastSeenCPLVersion = "CloudPhotoLibrary-450.0.160";
+        lastSeenOSBuildVersion = 21F79;
+        previousCPLVersion = "CloudPhotoLibrary-441.0.120";
+        previousOSBuildVersion = 21E258;
+    };
+}

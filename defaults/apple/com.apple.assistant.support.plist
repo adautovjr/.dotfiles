@@ -1,0 +1,145 @@
+{
+    "Assistant Enabled" = 1;
+    "Dictation Enabled" = 1;
+    "Offline Dictation Status" =     {
+        "ar-SA" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "de-DE" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "en-AU" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "en-CA" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 1;
+            "On Device Search" = 1;
+        };
+        "en-GB" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 1;
+            "On Device Search" = 1;
+        };
+        "en-IN" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "en-SG" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "en-US" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 1;
+            "On Device Search" = 1;
+        };
+        "es-ES" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "es-MX" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "es-US" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "fr-CA" =         {
+            "Continuous Listening" = 0;
+            "High Quality" = 0;
+            Installed = 0;
+            "On Device Search" = 0;
+        };
+        "fr-FR" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "it-IT" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "ja-JP" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "ko-KR" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "pt-BR" =         {
+            "Continuous Listening" = 0;
+            "High Quality" = 0;
+            Installed = 0;
+            "On Device Search" = 0;
+        };
+        "ru-RU" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "tr-TR" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "yue-CN" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "zh-CN" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "zh-HK" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+        "zh-TW" =         {
+            "Continuous Listening" = 1;
+            "High Quality" = 1;
+            Installed = 0;
+            "On Device Search" = 1;
+        };
+    };
+    "Siri Data Sharing Opt-In Status" = 1;
+}

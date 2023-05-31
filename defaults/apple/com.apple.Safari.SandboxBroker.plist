@@ -1,0 +1,7 @@
+{
+    DidMigrateDownloadFolderToSandbox = 1;
+    DidMigrateResourcesToSandbox = 1;
+    Homepage = {length = 270, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d4 };
+    "NSWindow Frame NSNavPanelAutosaveName" = "2524 452 328 216 1728 37 1920 1055 ";
+    ShowDevelopMenu = 0;
+}

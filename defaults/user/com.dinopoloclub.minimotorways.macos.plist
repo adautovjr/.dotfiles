@@ -1,0 +1,22 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1655560515;
+    CloudKitAccountInfoCache =     {
+        0563bdf8d5aa986ed4e72188079215624a62d3fa6e05d5748d43ed276abcf19c = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+    };
+    HasEnforcedMaxResolution = 1;
+    IsFirstRun = 1;
+    "Screenmanager Fullscreen mode" = 2;
+    "Screenmanager Fullscreen mode Default" = 2;
+    "Screenmanager Resolution Height" = 2234;
+    "Screenmanager Resolution Height Default" = 768;
+    "Screenmanager Resolution Use Native" = 1;
+    "Screenmanager Resolution Use Native Default" = 1;
+    "Screenmanager Resolution Width" = 3456;
+    "Screenmanager Resolution Width Default" = 1024;
+    "unity.cloud_userid" = e5d26494d0034448c8ad69d357c3bbd1;
+    "unity.player_session_count" = 4;
+    "unity.player_sessionid" = 8667690321234389486;
+}

@@ -1,0 +1,7 @@
+{
+    DeviceIdentityInfo = {length = 262, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cd };
+    NSPConfiguration = {length = 8850, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000021c4 };
+    NSPProxyAgentManagerPreferences = {length = 616, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001da };
+    NSPServiceStatusManagerInfo = {length = 1273, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000401 };
+    NSPSignatureInfo = {length = 2534, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000980 };
+}

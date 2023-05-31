@@ -1,0 +1,7 @@
+{
+    NetworkSignatures =     {
+        ExternalSignatures =         {
+            "IPv4.Router=192.168.1.1;IPv4.RouterHardwareAddress=b0:a7:b9:00:1a:cc" = "2023-05-30 18:51:27 +0000";
+        };
+    };
+}

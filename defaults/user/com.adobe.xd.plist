@@ -1,0 +1,26 @@
+{
+    AppleLanguages =     (
+        "en-BR"
+    );
+    "LeftSidebar_LastViewShown" = unifiedCCLibDocumentAssetsValue;
+    NSDisabledCharacterPaletteMenuItem = 1;
+    NSNavLastRootDirectory = "~/Downloads/Potiguar App";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    "NSSplitView Subview Frames leftSidebarSplitViewAutoSave" =     (
+        "0.000000, 0.000000, 193.000000, 1040.000000, NO, NO",
+        "195.000000, 0.000000, 1256.000000, 1040.000000, NO, NO"
+    );
+    "NSToolbar Configuration AA4D2F52-A6D2-4DFC-B435-B1D31D34DCEB" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame DocumentWindow" = "0 38 1728 1041 0 0 1728 1079 ";
+    "NSWindow Frame Draft" = "0 38 1728 1041 0 0 1728 1079 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "-250 -248 800 448 0 0 1728 1079 ";
+    "NSWindow Frame file:///Users/adautoguedes/Documents/grifespontocom_ecommerce_desktop_FINAL.xd" = "0 38 1728 1041 0 0 1728 1079 ";
+    "NSWindow Frame file:///Users/adautoguedes/Downloads/dicasa-net_ecommerce.xd" = "0 38 1728 1041 0 0 1728 1079 ";
+    "NSWindow Frame file:///Users/adautoguedes/Downloads/grifespontocom_ecommerce_desktop_FINAL.xd" = "265 223 1200 668 0 0 1728 1079 ";
+    "NSWindow Frame file:///Users/adautoguedes/Downloads/potiguar_app.xd" = "1824 75 1728 1017 1728 37 1920 1055 ";
+}

@@ -1,0 +1,95 @@
+{
+    CurrentDeviceUDID = "4CDE1C45-7AF0-4D54-AC08-85DE3300D9CB";
+    DevicePreferences =     {
+        "2F136BBF-ADD0-47B3-A1E2-ED7358C10DF6" =         {
+            ChromeTint = "";
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "2DEEDE32-FED6-4C32-9CE7-0D879787C730" =                 {
+                    WindowCenter = "{262.5, 514}";
+                    WindowScale = "1.019911504424779";
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "4CDE1C45-7AF0-4D54-AC08-85DE3300D9CB" =         {
+            ChromeTint = "";
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "2DEEDE32-FED6-4C32-9CE7-0D879787C730" =                 {
+                    WindowCenter = "{2037, 551}";
+                    WindowScale = "0.9938144329896907";
+                };
+                "67A67FB8-B496-4CEA-B83D-A2B6C4C701D1" =                 {
+                    WindowCenter = "{276.5, 514}";
+                    WindowScale = "0.9938144329896907";
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "5B812B4A-B3B3-4552-91FC-A8DA0AA28507" =         {
+            ChromeTint = "";
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "2DEEDE32-FED6-4C32-9CE7-0D879787C730" =                 {
+                    WindowCenter = "{276.5, 514}";
+                    WindowScale = "0.9938144329896907";
+                };
+                "4CD285FA-664D-417C-A326-3616E6FDE8AC" =                 {
+                    WindowCenter = "{308, 532.5}";
+                    WindowScale = "0.9556701030927834";
+                };
+                "67A67FB8-B496-4CEA-B83D-A2B6C4C701D1" =                 {
+                    WindowCenter = "{276.5, 514}";
+                    WindowScale = "0.9938144329896907";
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = "-0";
+        };
+        "9A1D8D6F-6241-44F1-B375-CACAB5A3B6CF" =         {
+            ChromeTint = "";
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "2DEEDE32-FED6-4C32-9CE7-0D879787C730" =                 {
+                    WindowCenter = "{238.5, 582.5}";
+                    WindowScale = 1;
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "FD3331AA-E891-45AA-82FA-1DD0E64A75B8" =         {
+            ChromeTint = "";
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "2DEEDE32-FED6-4C32-9CE7-0D879787C730" =                 {
+                    WindowCenter = "{864, 514}";
+                    WindowScale = "1.084364454443195";
+                };
+                "67A67FB8-B496-4CEA-B83D-A2B6C4C701D1" =                 {
+                    WindowCenter = "{261.5, 514}";
+                    WindowScale = "1.022271714922049";
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = "-0";
+        };
+    };
+    LocationMode = 5102;
+    PasteboardAutomaticSync = 1;
+    ScreenConfigurations =     {
+        "2DEEDE32-FED6-4C32-9CE7-0D879787C730" =         (
+            "{{0, 0}, {1728, 1117}}",
+            "{{1728, 37}, {1920, 1080}}"
+        );
+        "4CD285FA-664D-417C-A326-3616E6FDE8AC" =         (
+            "{{0, 0}, {1920, 1080}}"
+        );
+        "67A67FB8-B496-4CEA-B83D-A2B6C4C701D1" =         (
+            "{{0, 0}, {1728, 1117}}"
+        );
+    };
+}

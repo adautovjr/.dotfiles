@@ -1,0 +1,91 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1679317014;
+    GKActiveEnvironmentKeyV2 = 5;
+    "GKLastPrivacyNoticeVersionDisplayedForHashedPlayerID_XwXCSXeQdG6ZFi7VoHqcdPNDkILcvBi0wLdw89i1qnw=" = 3;
+    GKLastProtocolVersionUsedKeyV2 = "5.13.20.4.12.19.5.5.2";
+    GKLastPushTokenDateKey = "2022-04-28 01:17:16 +0000";
+    GKLastPushTokenEnvironment = 5;
+    GKLastPushTokenKey = {length = 32, bytes = 0xfb08ac50 29a5ad8d 8ced1484 362e4a46 ... 79191c90 7655b4a2 };
+    GKLastPushTokenPlayerID = "G:10390736781";
+    GKLoginCancelled = 76;
+    GKPushEnvironmentKeyV2 = 2;
+    GKPushTokenKeyV2 = {length = 32, bytes = 0xfb08ac50 29a5ad8d 8ced1484 362e4a46 ... 79191c90 7655b4a2 };
+    GKSavedAppInitState =     {
+        bundleID = "com.rac7.SneakySasquatchMac";
+        pid = 11007;
+        state = GKAppInitialized;
+    };
+    GKStoreFrontIdentifier = "143503-2,42";
+    GKURLPatternCacheBagURLUserDefaultsKey = {length = 300, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000f2 };
+    GKURLPatternCacheExpirationDateUserDefaultsKey = "2023-04-12 01:21:44 +0000";
+    natType = 0;
+    natTypeCache =     {
+        "10.213.89.141%utun3" =         {
+            natFlags = 1;
+            natFlagsLastUpdated = "2022-04-14 20:24:08 +0000";
+        };
+        "192.168.1.96%en0" =         {
+            natFlags = 1;
+            natFlagsLastUpdated = "2023-04-13 13:11:11 +0000";
+        };
+        "IPv4.Router=172.20.10.1;IPv4.RouterHardwareAddress=72:22:fe:e6:0b:64" =         {
+            natFlags = 448;
+            natFlagsLastUpdated = "2022-12-22 12:19:10 +0000";
+        };
+        "IPv4.Router=192.168.0.1;IPv4.RouterHardwareAddress=78:6a:1f:01:44:f1" =         {
+            natFlags = 208;
+            natFlagsLastUpdated = "2022-12-21 23:21:04 +0000";
+        };
+        "IPv4.Router=192.168.0.1;IPv4.RouterHardwareAddress=94:2c:b3:77:fd:31" =         {
+            natFlags = 208;
+            natFlagsLastUpdated = "2022-06-15 12:02:51 +0000";
+        };
+        "IPv4.Router=192.168.1.1;IPv4.RouterHardwareAddress=b0:a7:b9:00:1a:cc" =         {
+            natFlags = 1;
+            natFlagsLastUpdated = "2023-04-13 16:13:58 +0000";
+        };
+        "IPv4.Router=192.168.1.254;IPv4.RouterHardwareAddress=78:17:35:39:c6:70" =         {
+            natFlags = 208;
+            natFlagsLastUpdated = "2023-04-13 13:15:54 +0000";
+        };
+        "IPv4.Router=192.168.116.98;IPv4.RouterHardwareAddress=36:81:5a:1b:9d:5d" =         {
+            natFlags = 448;
+            natFlagsLastUpdated = "2022-04-26 22:06:16 +0000";
+        };
+        "IPv4.Router=192.168.141.178;IPv4.RouterHardwareAddress=36:81:5a:1b:9d:5d" =         {
+            natFlags = 448;
+            natFlagsLastUpdated = "2022-05-10 20:13:11 +0000";
+        };
+        "IPv4.Router=192.168.177.107;IPv4.RouterHardwareAddress=36:81:5a:1b:9d:5d" =         {
+            natFlags = 1;
+            natFlagsLastUpdated = "2022-04-11 19:13:12 +0000";
+        };
+        "IPv4.Router=192.168.195.101;IPv4.RouterHardwareAddress=36:81:5a:1b:9d:5d" =         {
+            natFlags = 448;
+            natFlagsLastUpdated = "2022-05-30 18:12:47 +0000";
+        };
+        "IPv4.Router=192.168.201.123;IPv4.RouterHardwareAddress=36:81:5a:1b:9d:5d" =         {
+            natFlags = 1;
+            natFlagsLastUpdated = "2022-04-18 19:29:15 +0000";
+        };
+        "IPv4.Router=192.168.208.114;IPv4.RouterHardwareAddress=36:81:5a:1b:9d:5d" =         {
+            natFlags = 448;
+            natFlagsLastUpdated = "2022-04-26 15:11:28 +0000";
+        };
+        "IPv4.Router=192.168.223.218;IPv4.RouterHardwareAddress=36:81:5a:1b:9d:5d" =         {
+            natFlags = 448;
+            natFlagsLastUpdated = "2022-04-11 18:13:48 +0000";
+        };
+        "IPv4.Router=192.168.67.66;IPv4.RouterHardwareAddress=36:81:5a:1b:9d:5d" =         {
+            natFlags = 448;
+            natFlagsLastUpdated = "2022-04-11 18:22:40 +0000";
+        };
+        "IPv4.Router=192.168.87.96;IPv4.RouterHardwareAddress=36:81:5a:1b:9d:5d" =         {
+            natFlags = 1;
+            natFlagsLastUpdated = "2022-05-09 18:05:08 +0000";
+        };
+    };
+}

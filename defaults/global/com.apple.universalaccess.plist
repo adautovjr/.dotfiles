@@ -1,0 +1,15 @@
+{
+    closeViewHotkeysEnabled = 0;
+    closeViewScrollWheelToggle = 0;
+    closeViewTrackpadGestureZoomEnabled = 0;
+    closeViewZoomDisplayID = 0;
+    closeViewZoomFactor = 1;
+    login = 0;
+    mouseDriver = 0;
+    sessionChange = 0;
+    slowKey = 0;
+    stickyKey = 0;
+    switchOnOffKey = 0;
+    virtualKeyboardOnOff = 0;
+    voiceOverOnOffKey = 0;
+}

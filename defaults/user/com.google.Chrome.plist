@@ -1,0 +1,13 @@
+{
+    DeveloperIDCertificateReauthorizeWinter20212022Attempts = 2;
+    DeveloperIDCertificateReauthorizeWinter20212022Success = 1;
+    LastRunAppBundlePath = "/Applications/Google Chrome.app";
+    NSNavLastRootDirectory = "~/Documents";
+    NSNavPanelExpandedSizeForOpenMode = "{1250, 448}";
+    NSNavPanelExpandedSizeForSaveMode = "{800, 448}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    "NSWindow Frame NSNavPanelAutosaveName" = "239 316 1250 448 0 0 1728 1085 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "692 418 425 137 0 0 1728 1085 ";
+    PurgeStaleScreenCapturePermissionSuccessEarly2022Attempts = 1;
+    PurgeStaleScreenCapturePermissionSuccessEarly2022Success = 1;
+}

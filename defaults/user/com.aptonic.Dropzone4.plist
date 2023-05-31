@@ -1,0 +1,36 @@
+{
+    AssignedServiceKeys = 1;
+    CurrentAppVersion = "4.5";
+    DropBars =     (
+    );
+    GridIconSize = 70;
+    HasShownSubscriptionExpired = 1;
+    LaunchAtLogin = 1;
+    MSAppCenter310AnalyticsUserDefaultsMigratedKey = 1;
+    MSAppCenter310AppCenterUserDefaultsMigratedKey = 1;
+    MSAppCenter310CrashesUserDefaultsMigratedKey = 1;
+    MSAppCenterAppDidReceiveMemoryWarning = 1;
+    MSAppCenterInstallId = "A942793A-E1C9-4689-9413-6B0E67B1F119";
+    MSAppCenterPastDevices = {length = 1161, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000393 };
+    MSAppCenterSessionIdHistory = {length = 502, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000017e };
+    MSAppCenterUserIdHistory = {length = 455, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000151 };
+    NSNavLastRootDirectory = "~";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    "NSWindow Frame NSNavPanelAutosaveName" = "464 473 800 448 0 0 1728 1079 ";
+    "NSWindow Frame SUUpdateAlert" = "554 510 620 398 0 0 1728 1079 ";
+    NumLaunches = 98;
+    PaddleUniqueIdentifier = "4C0C79E0-EA98-40E6-B830-922381F7B4A4";
+    SUAutomaticallyUpdate = 1;
+    SUEnableAutomaticChecks = 1;
+    SUHasLaunchedBefore = 1;
+    SULastCheckTime = "2023-05-30 17:41:59 +0000";
+    SULastProfileSubmissionDate = "2023-05-25 12:24:45 +0000";
+    SUScheduledCheckInterval = 86400;
+    SUSendProfileInfo = 1;
+    SUUpdateGroupIdentifier = 4286193621;
+    SUUpdateRelaunchingMarker = 0;
+    ShowBetaVersions = 0;
+    SplashScreenShownUpdates =     {
+        "3.5.0" = 1;
+    };
+}

@@ -1,0 +1,10 @@
+{
+    InteractionStoreVersion = 1;
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/app/activityActivityDate" = "2023-05-31 02:01:51 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/app/intentsActivityDate" = "2023-05-27 16:28:27 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/app/activityActivityDate" = "2023-05-31 02:01:51 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/app/intentsActivityDate" = "2023-05-27 16:28:27 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidTombstoneEventsNotification:/app/activityActivityDate" = "2022-11-10 03:50:00 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidTombstoneEventsNotification:/app/intentsActivityDate" = "2022-04-25 22:28:00 +0000";
+    "_DKThrottledActivityLastcom.apple.coreduetd.contactPriorGenerationActivityDate" = "2023-05-31 00:09:22 +0000";
+}

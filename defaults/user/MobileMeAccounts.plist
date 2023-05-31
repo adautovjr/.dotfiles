@@ -1,0 +1,127 @@
+{
+    Accounts =     (
+                {
+            AccountAlternateDSID = "000662-08-d44d94a3-22d6-48bf-81f1-bc6dde40d5b7";
+            AccountDSID = 10390736781;
+            AccountDescription = "adautovjr@yahoo.com";
+            AccountID = "adautovjr@yahoo.com";
+            AccountUUID = "AF99AC4A-46B5-4E5D-A715-7824E57AC3F7";
+            DisplayName = "Adauto Guedes";
+            Services =             (
+                                {
+                    Name = CLOUDDESKTOP;
+                    ServiceID = "com.apple.Dataclass.CloudDesktop";
+                    status = active;
+                },
+                                {
+                    Name = FAMILY;
+                    ServiceID = "com.apple.Dataclass.Family";
+                    showManageFamily = 1;
+                },
+                                {
+                    Enabled = 1;
+                    Name = "MOBILE_DOCUMENTS";
+                    ServiceID = "com.apple.Dataclass.Ubiquity";
+                    apsEnv = production;
+                    authMechanism = token;
+                    iCloudHomeDesktopEnabled =                     {
+                        iCloudHomeDesktopEnabled = 0;
+                    };
+                    iCloudHomeDocumentsEnabled =                     {
+                        iCloudHomeDocumentsEnabled = 0;
+                    };
+                    url = "https://p49-ubiquity.icloud.com:443";
+                    wsUrl = "https://p49-ubiquityws.icloud.com:443";
+                },
+                                {
+                    Name = "PHOTO_STREAM";
+                    ServiceID = "com.apple.Dataclass.Photos";
+                },
+                                {
+                    Name = "MAIL_AND_NOTES";
+                    ServiceID = "com.apple.Dataclass.Mail";
+                },
+                                {
+                    Enabled = 1;
+                    Name = CONTACTS;
+                    ServiceID = "com.apple.Dataclass.Contacts";
+                    authMechanism = token;
+                    beta = 0;
+                    protocol = dav;
+                    url = "https://p49-contacts.icloud.com:443";
+                },
+                                {
+                    Enabled = 1;
+                    Name = CALENDAR;
+                    ServiceID = "com.apple.Dataclass.Calendars";
+                    authMechanism = token;
+                    beta = 0;
+                    protocol = dav;
+                    url = "https://p49-caldav.icloud.com:443";
+                },
+                                {
+                    Enabled = 1;
+                    Name = REMINDERS;
+                    ServiceID = "com.apple.Dataclass.Reminders";
+                    authMechanism = token;
+                    beta = 0;
+                    protocol = dav;
+                    url = "https://p49-caldav.icloud.com:443";
+                },
+                                {
+                    Enabled = 1;
+                    Name = BOOKMARKS;
+                    ServiceID = "com.apple.Dataclass.Bookmarks";
+                    apsEnv = production;
+                    authMechanism = token;
+                    beta = 0;
+                    protocol = dav;
+                    url = "https://p49-bookmarks.icloud.com:443";
+                },
+                                {
+                    Enabled = 1;
+                    Name = NOTES;
+                    ServiceID = "com.apple.Dataclass.Notes";
+                },
+                                {
+                    Enabled = 1;
+                    Name = SIRI;
+                    ServiceID = "com.apple.Dataclass.Siri";
+                },
+                                {
+                    Enabled = 1;
+                    Name = "KEYCHAIN_SYNC";
+                    ServiceID = "com.apple.Dataclass.KeychainSync";
+                    authMechanism = token;
+                    escrowProxyUrl = "https://p49-escrowproxy.icloud.com:443";
+                },
+                                {
+                    Enabled = 1;
+                    Name = "FIND_MY_MAC";
+                    ServiceID = "com.apple.Dataclass.DeviceLocator";
+                    appHostname = "p49-fmipmobile.icloud.com";
+                    apsEnv = production;
+                    authMechanism = token;
+                    hostname = "p49-fmip.icloud.com";
+                    pairingURL = "https://gateway.icloud.com/fmadminws";
+                    url = "https://p49-fmip.icloud.com:443";
+                },
+                                {
+                    Enabled = 1;
+                    Name = STOCKS;
+                    ServiceID = "com.apple.Dataclass.Stocks";
+                },
+                                {
+                    Enabled = 1;
+                    Name = HOME;
+                    ServiceID = "com.apple.Dataclass.Home";
+                }
+            );
+            beta = 0;
+            firstName = Adauto;
+            isManagedAppleID = 0;
+            lastName = Guedes;
+            primaryEmailVerified = 1;
+        }
+    );
+}

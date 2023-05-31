@@ -1,0 +1,7 @@
+{
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavLastRootDirectory = "~/Downloads";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    NSTreatUnknownArgumentsAsOpen = NO;
+    "NSWindow Frame NSNavPanelAutosaveName" = "-14 33 328 167 0 0 1728 1079 ";
+}

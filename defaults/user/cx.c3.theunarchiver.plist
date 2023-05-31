@@ -1,0 +1,10 @@
+{
+    FirstLaunchDate = "2022-05-30 18:12:20 +0000";
+    LaunchCount = 5;
+    "NSWindow Frame mainWindow" = "634 662 460 22 0 0 1728 1079 ";
+    TUConfigInformationBannerDeclined = 1;
+    TUConfigInformationBannerViewedCount = 1;
+    isFreshInstall = 1;
+    orphanedTempDirectories =     (
+    );
+}

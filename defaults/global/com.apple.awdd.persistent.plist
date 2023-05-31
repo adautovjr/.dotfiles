@@ -1,0 +1,38 @@
+{
+    anonymous = 1;
+    build = 21F79;
+    collectPII = 0;
+    deviceConfig = {length = 4, bytes = 0x08015002};
+    deviceconfigurationid = 1;
+    deviceconfigurationserialnumber = 7;
+    fileconfig =     {
+    };
+    filestate =     {
+        anonymous =         {
+            id = 362;
+            mask = 384;
+        };
+        primary =         {
+            id = 361;
+            mask = 384;
+        };
+    };
+    investigationid = 1;
+    lastboottime = 1684585404773;
+    publicationtimers = 0;
+    submissionid = 413;
+    "tasked_time" = 0;
+    timers =     (
+                (
+            86400,
+            520196,
+            7
+        ),
+                (
+            14400,
+            520198,
+            7
+        )
+    );
+    uniquefilenumber = 363;
+}

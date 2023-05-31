@@ -1,0 +1,43 @@
+{
+    ConnectedClientAuditTokens =     (
+        {length = 32, bytes = 0xffffffff 00000000 00000000 00000000 ... ae860100 63030000 },
+        {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... b5860100 d0af0a00 },
+        {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... b5860100 86060000 },
+        {length = 32, bytes = 0xffffffff 00000000 00000000 00000000 ... ae860100 af030000 },
+        {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... b5860100 8c770b00 },
+        {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... b5860100 cd060000 },
+        {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... b5860100 7aa90200 },
+        {length = 32, bytes = 0xffffffff 00000000 00000000 00000000 ... ae860100 4ab20600 },
+        {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... b5860100 d3060000 },
+        {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... b5860100 07070000 }
+    );
+    ExpectedClientAuditTokens =     (
+    );
+    LastBootUUID = "97F9B45A-76CC-4008-AEEC-5314BFEFBC81";
+    LastPlayingDate = "2023-05-30 23:00:37 +0000";
+    LocalPlaybackState = 2;
+    SystemEndpoint =     {
+        Proactive =         {
+            changeType = 0;
+            changeTypeDescription = Immediate;
+            date = "2023-05-20 15:45:59 +0000";
+            event = 5;
+            eventdescription = Playback;
+            eventreason = "Playback changed for origin-adautoguedes1.mac.hpicorp.net-1280262988/client-com.spotify.client-68181 (Spotify)/player-MediaRemote-DefaultPlayer";
+            selectionreason = UserSelected;
+            timesince = "890077.5663499832";
+            type = 1;
+        };
+        UserSelected =         {
+            changeType = 0;
+            changeTypeDescription = Immediate;
+            date = "2023-05-20 15:45:59 +0000";
+            event = 5;
+            eventdescription = Playback;
+            eventreason = "Playback changed for origin-adautoguedes1.mac.hpicorp.net-1280262988/client-com.spotify.client-68181 (Spotify)/player-MediaRemote-DefaultPlayer";
+            selectionreason = "was playing recently <-0.000000> seconds ago";
+            timesince = "890077.570407033";
+            type = 0;
+        };
+    };
+}

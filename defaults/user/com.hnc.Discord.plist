@@ -1,0 +1,11 @@
+{
+    AppleTextDirection = 1;
+    NSForceRightToLeftWritingDirection = 0;
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavLastRootDirectory = "~/Documents/projects/personal/doomsdayarmsdealer/assets";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    NSNavPanelExpandedSizeForSaveMode = "{1074, 696}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    NSTreatUnknownArgumentsAsOpen = NO;
+    "NSWindow Frame NSNavPanelAutosaveName" = "2288 263 1074 696 1728 37 1920 1080 ";
+}

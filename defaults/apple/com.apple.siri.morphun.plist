@@ -1,0 +1,9 @@
+{
+    subscriptions =     {
+        subscriptions =         {
+            assistantd =             (
+                pt
+            );
+        };
+    };
+}

@@ -1,0 +1,31 @@
+{
+    AMSCloudKitRecordZoneChangeTokens =     {
+        "private:IdentifierZone" = {length = 292, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ec };
+    };
+    AMSDeviceBiometricsState = 1;
+    AMSDidSetUpServerDataCache = 1;
+    AMSFPCertExpiration = "2023-05-31 19:20:03 +0000";
+    AMSIncludeFullRequestInHARLogging = 0;
+    AMSIncludeFullResponseInHARLogging = 0;
+    AMSLastMigratedBuildVersion = 21F79;
+    AMSLogHARData = 0;
+    AMSMediaTokens =     {
+        "com.apple.amp.journeys" = {length = 559, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001c3 };
+    };
+    AMSMetricsTimingWindowStartTime = "2023-05-09 19:14:05 +0000";
+    AMSMigratedStorageToDefaultsForNonAMSInternal = 1;
+    AMSMigratedToNewAccountStore = 1;
+    "AMSSamplingSession-TLSSessionTickets" =     {
+        date = "2022-12-21 23:20:02 +0000";
+        duration = 1800;
+        result = 1;
+    };
+    "AMSSamplingSession-xp_amp_appstore_log:qJO7Vty2LO98sz+eud1os9HfnMs" =     {
+        date = "2022-05-30 18:11:58 +0000";
+        duration = 60000;
+        result = 0;
+    };
+    AMSStorefrontSuffixes =     {
+        "com.apple.TV" = " t:tv1";
+    };
+}

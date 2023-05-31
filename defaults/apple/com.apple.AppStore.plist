@@ -1,0 +1,20 @@
+{
+    ASAcknowledgedOnboardingVersion = 5;
+    AVDesktopPlaybackControlsControllerShowsDurationInsteadOfTimeRemainingDefaultsKey = 1;
+    AutoPlayVideoSetting = on;
+    "MetricsSamplingLotteryWindowStart_pageRender" = "673889825.9500951";
+    "NSWindow Frame AppStoreMainWindow" = "89 35 1474 973 0 0 1728 1079 ";
+    UserSetAutoPlayVideoSetting = 0;
+    "__uniquePageGroupID-1.WebKit2DeveloperExtrasEnabled" = 1;
+    "__uniquePageGroupID-1.WebKit2ShowsToolTipOverTruncatedText" = 1;
+    "__uniquePageGroupID-1.WebKit2SuppressesIncrementalRendering" = 1;
+    "__uniquePageGroupID-1.WebKit2UserInterfaceDirectionPolicy" = 1;
+    "__uniquePageGroupID-13.WebKit2DeveloperExtrasEnabled" = 1;
+    "__uniquePageGroupID-13.WebKit2ShowsToolTipOverTruncatedText" = 1;
+    "__uniquePageGroupID-13.WebKit2SuppressesIncrementalRendering" = 1;
+    "__uniquePageGroupID-13.WebKit2UserInterfaceDirectionPolicy" = 1;
+    kAOSUIProfilePictureCropRect = "{{91, 138}, {236, 236}}";
+    lastBootstrapDate = "693357603.6294481";
+    lastBootstrapTimeZone = "America/Fortaleza";
+    mostRecentTabIdentifier = arcade;
+}

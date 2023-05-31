@@ -1,0 +1,9 @@
+{
+    LogInfo =     {
+        LogLevels = 0x00070007;
+        LogToFile = FALSE;
+    };
+    iRATDebug =     {
+        HandoverAlert = FALSE;
+    };
+}

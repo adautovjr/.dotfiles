@@ -1,0 +1,10 @@
+{
+    AVDesktopPlaybackControlsControllerShowsDurationInsteadOfTimeRemainingDefaultsKey = 1;
+    MGRecentDocumentURLBookmarks =     (
+        {length = 712, bytes = 0x626f6f6b c8020000 00000410 30000000 ... 04000000 00000000 },
+        {length = 712, bytes = 0x626f6f6b c8020000 00000410 30000000 ... 04000000 00000000 }
+    );
+    MGRecentDocumentsSharedFileListIsValid = 1;
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    "NSWindow Frame NSNavPanelAutosaveName" = "464 473 800 448 0 0 1728 1079 ";
+}

@@ -1,0 +1,13 @@
+{
+    "Known User Voice Profiles" =     (
+                {
+            UserVoiceProfileAppDomain = "com.apple.siri";
+            UserVoiceProfileDateTrained = "1649944490.027842";
+            UserVoiceProfileID = "976B9379-1646-496E-9CEA-5EC967942BC2";
+            UserVoiceProfileLocale = "en-US";
+            UserVoiceProfilePath = "/var/folders/6s/l__2l3s91vd38k373256987w0000gn/0/com.apple.corespeechd/VoiceTrigger/SAT/com.apple.siri/en-US/976B9379-1646-496E-9CEA-5EC967942BC2";
+            UserVoiceProfilePitch = 0;
+        }
+    );
+    "Voice Profile Store Version" = 1;
+}

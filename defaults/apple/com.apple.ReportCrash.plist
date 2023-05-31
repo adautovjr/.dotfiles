@@ -1,0 +1,31 @@
+{
+    TrialCache =     {
+        experiments =         (
+                        {
+                deploymentId = 400000024;
+                experimentId = 63b8ec83fd1d345f491884ba;
+                treatmentId = "c9ac7ace-da9d-41f5-b424-a422a874751d";
+            },
+                        {
+                deploymentId = 400000012;
+                experimentId = 6317d2003d24842ff850182a;
+                treatmentId = "c28e4ee6-1b08-4f90-8e05-2809e78310a3";
+            }
+        );
+        lastCheckTime = "707041651.800936";
+        rollouts =         (
+                        {
+                deploymentId = 240000008;
+                factorPackIds =                 {
+                };
+                rolloutId = 60da5e84ab0ca017dace9abf;
+            },
+                        {
+                deploymentId = 240000015;
+                factorPackIds =                 {
+                };
+                rolloutId = 5f72dc58705eff005a46b3a9;
+            }
+        );
+    };
+}

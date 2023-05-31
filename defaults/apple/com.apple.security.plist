@@ -1,0 +1,14 @@
+{
+    DLDBSearchList =     (
+                {
+            DbName = "~/Library/Keychains/login.keychain";
+            GUID = "{87191ca3-0fc9-11d4-849a-000502b52122}";
+            SubserviceType = 6;
+        },
+                {
+            DbName = "~/Library/Keychains/openvpn.keychain";
+            GUID = "{87191ca3-0fc9-11d4-849a-000502b52122}";
+            SubserviceType = 6;
+        }
+    );
+}

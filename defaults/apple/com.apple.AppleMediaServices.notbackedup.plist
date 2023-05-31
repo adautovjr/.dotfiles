@@ -1,0 +1,15 @@
+{
+    AMSDeviceOfferEligibility =     {
+        deviceOffers =         (
+                        {
+                adamId = 1479623483;
+                description = Arcade;
+                isSubscribed = false;
+                offerIdentifier = "com.apple.AppStore";
+            }
+        );
+    };
+    AMSDidRetrieveDeviceOffers = 1;
+    AMSDidRetrieveDeviceOffersEligibility = 1;
+    AMSDidRetrieveTVOffers = 1;
+}

@@ -1,0 +1,14 @@
+{
+    IDSMultiUsers =     {
+        "F4:D4:88:8D:51:62" =         {
+            "E3:BD:E5:E1:CB:7F" =             {
+                IDSLocalID = "83F57C08-CC88-417E-88B2-44EC3F075D9F";
+                IRK = {length = 16, bytes = 0x1af7e96f6095e1ed58309554b3a7dd9c};
+            };
+            "E9:3B:74:FE:B8:E8" =             {
+                IDSLocalID = "1CCDDB85-9EAD-415C-84C5-E75E65F2A268";
+                IRK = {length = 16, bytes = 0x9e523b62d2c57e4cdd3522e6d982a987};
+            };
+        };
+    };
+}

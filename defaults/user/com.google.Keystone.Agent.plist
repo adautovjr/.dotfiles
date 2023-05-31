@@ -1,0 +1,40 @@
+{
+    ActivesInfo =     {
+        "com.google.Chrome" =         {
+            LastActiveDate = "2023-05-30 22:05:24 +0000";
+            LastActivePingDate = "2023-05-30 07:00:00 +0000";
+            LastRollCallPingDate = "2023-05-30 07:00:00 +0000";
+            "ping_freshness" = "AC82F38B-EB46-4B38-831C-E3FCE6319F97";
+        };
+        "com.google.Keystone" =         {
+            LastActiveDate = "2023-05-30 22:27:46 +0000";
+            LastActivePingDate = "2023-05-30 07:00:00 +0000";
+            LastRollCallPingDate = "2023-05-30 07:00:00 +0000";
+            "ping_freshness" = "CDB514BC-3212-4F54-A500-FC42FEEC54E4";
+        };
+    };
+    ReportingAttributes =     {
+        "com.google.Keystone" =         {
+            experiments =             {
+                aggregation = 0;
+                expiresAt = "2023-06-13 18:31:06 +0000";
+                type = KSExperimentLabelsAttribute;
+                value =                 {
+                    "_xpcproxying" =                     {
+                        aggregation = 0;
+                        expiresAt = "2023-06-13 18:31:06 +0000";
+                        type = KSStringReportingAttribute;
+                        value = success;
+                    };
+                };
+            };
+        };
+    };
+    checkInterval = 18000;
+    "firstRun-system-1.3.17.192" = "2022-05-26 13:18:19 +0000";
+    "firstRun-system-1.3.18.216" = "2022-10-27 01:18:10 +0000";
+    "lastCheck-system-1.3.17.192" = "2022-10-26 20:15:51 +0000";
+    "lastCheck-system-1.3.18.216" = "2023-05-30 22:29:03 +0000";
+    lastCheckStartDate = "2023-05-30 18:30:54 +0000";
+    lastServerCheckDate = "2023-05-30 22:27:55 +0000";
+}

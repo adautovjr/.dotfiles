@@ -1,0 +1,12 @@
+{
+    "/org/apache/jmeter/" =     {
+        "gui/" =         {
+            "action/" =             {
+                "laf.command" = "com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme";
+                "recent_file_0" = "/Users/adautoguedes/Documents/projects/personal/javaweb/tests/jp@gc - Ultimate Thread Group.jmx";
+                "recent_file_1" = "/Users/adautoguedes/Documents/projects/personal/valve/tests/http_tests.jmx";
+                "recent_file_2" = "/opt/homebrew/Cellar/jmeter/5.5/libexec/lib/ext/Thread Group.jmx";
+            };
+        };
+    };
+}

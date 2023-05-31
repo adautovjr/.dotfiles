@@ -1,0 +1,8 @@
+{
+    MobileDeviceSoftwareUpdateQueue =     {
+    };
+    debugAssertCategoriesEnabled = 0;
+    debugAssertCategoriesVersion = 3;
+    persistentUserID = "-5376101857619107275";
+    userMaxConcurrentDownloads = 3;
+}

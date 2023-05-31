@@ -1,0 +1,30 @@
+{
+    AuthenticationDelegateResponseTime = "671390775.769392";
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585404;
+    CloudKitAccountInfoCache =     {
+        82fbc5c07b51cc50947a6a81edcdd8a618646fbca50bdbf56448d49c09d7fe19 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    DidCleanLegacyAccountPrefs = 1;
+    GDRRequestMadeForRelayRepair = 1;
+    ImportedLegacyIDSAccounts2 = 1;
+    ImportedLegacyIMAccounts = 1;
+    LastKeyGeneration = "1649188685.556116";
+    MigratedToNewDisabledState = 1;
+    PurgePreviousIdentityInterval = "709420537.540862";
+    ReRegisteredForDevices = 1550;
+    ReRegisteredForDevicesHash = 6AFC02EE62640065FB6A958CECBF4E4F653D500204D145733D19CCF71195ED5A;
+    activityTopics =     (
+        "com.apple.private.alloy.willow-com.apple.HomeKit"
+    );
+    hasRegIdentityContainer = 1;
+    hasUnregIdentityContainer = 0;
+    "peer-id-manager-cleanup-interval" = "707160663.011359";
+    "performed-user-intent-migrate" = 1;
+    "persister-migration-com.apple.identityservices.userStore" = 1;
+    "persister-migration-personal-session-token-cache-v4" = 1;
+    services = {length = 7756, bytes = 0x1f8b0800 00000000 0013b55b 077814d5 ... 953e4861 9d530000 };
+    triggeredRemoteSessionVersion = 1;
+}

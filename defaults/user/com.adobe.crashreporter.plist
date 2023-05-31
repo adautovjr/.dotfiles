@@ -1,0 +1,140 @@
+{
+    "CRDialogShown_Adobe Desktop Service_5.10.0_5.10.0.573" = 0;
+    "CRDialogShown_Adobe Desktop Service_5.7.0_5.7.0.1307" = 0;
+    "CRDialogShown_Adobe Desktop Service_5.7.1_5.7.1.1" = 0;
+    "CRDialogShown_Adobe Desktop Service_5.9.0_5.9.0.373" = 0;
+    "CRDialogShown_Adobe Photoshop 2022_23.3.2_20220503.r.458" = 0;
+    "CRDialogShown_Adobe Photoshop 2023_24.6.0_20230524.m.2185" = 0;
+    "CRDialogShown_AdobeAcrobat_22.003.20281_22.003.20281" = 0;
+    "CRDialogShown_AdobeIPCBroker_7.2.0.34_vulcan" = 0;
+    "CRDialogShown_Core Sync_5.10.3.1_5.10.3.1" = 0;
+    "CRDialogShown_Core Sync_6.0.0.43_6.0.0.43" = 0;
+    "CRDialogShown_Core Sync_6.3.7.1_6.3.7.1" = 0;
+    "CRDialogShown_Creative Cloud Helper_5.10.0_5.10.0.573" = 0;
+    "CRDialogShown_Creative Cloud Helper_5.7.0_5.7.0.1307" = 0;
+    "CRDialogShown_Creative Cloud Helper_5.7.1_5.7.1.1" = 0;
+    "CRDialogShown_Creative Cloud Helper_5.9.0_5.9.0.373" = 0;
+    "CRDialogShown_Creative Cloud_5.10_5.10.0.573" = 0;
+    "CRDialogShown_Creative Cloud_5.7_5.7.0.1307" = 0;
+    "CRDialogShown_Creative Cloud_5.7_5.7.1.1" = 0;
+    "CRDialogShown_Creative Cloud_5.9_5.9.0.373" = 0;
+    "CRDialogShown_Setup_5.10_5.10.0.573" = 0;
+    "CRDialogShown_Setup_5.7_5.7.0.1307" = 0;
+    "CRDialogShown_Setup_5.9_5.9.0.373" = 0;
+    "SuppressCrash_Adobe Desktop Service_5.10.0_5.10.0.573" = 0;
+    "SuppressCrash_Adobe Desktop Service_5.7.0_5.7.0.1307" = 0;
+    "SuppressCrash_Adobe Desktop Service_5.7.1_5.7.1.1" = 0;
+    "SuppressCrash_Adobe Desktop Service_5.9.0_5.9.0.373" = 0;
+    "SuppressCrash_Adobe Photoshop 2022_23.3.2_20220503.r.458" = 0;
+    "SuppressCrash_Adobe Photoshop 2023_24.6.0_20230524.m.2185" = 0;
+    "SuppressCrash_AdobeAcrobat_22.003.20281_22.003.20281" = 0;
+    "SuppressCrash_AdobeIPCBroker_7.2.0.34_vulcan" = 0;
+    "SuppressCrash_Core Sync_5.10.3.1_5.10.3.1" = 0;
+    "SuppressCrash_Core Sync_6.0.0.43_6.0.0.43" = 0;
+    "SuppressCrash_Core Sync_6.3.7.1_6.3.7.1" = 0;
+    "SuppressCrash_Creative Cloud Helper_5.10.0_5.10.0.573" = 0;
+    "SuppressCrash_Creative Cloud Helper_5.7.0_5.7.0.1307" = 0;
+    "SuppressCrash_Creative Cloud Helper_5.7.1_5.7.1.1" = 0;
+    "SuppressCrash_Creative Cloud Helper_5.9.0_5.9.0.373" = 0;
+    "SuppressCrash_Creative Cloud_5.10_5.10.0.573" = 0;
+    "SuppressCrash_Creative Cloud_5.7_5.7.0.1307" = 0;
+    "SuppressCrash_Creative Cloud_5.7_5.7.1.1" = 0;
+    "SuppressCrash_Creative Cloud_5.9_5.9.0.373" = 0;
+    "SuppressCrash_Setup_5.10_5.10.0.573" = 0;
+    "SuppressCrash_Setup_5.7_5.7.0.1307" = 0;
+    "SuppressCrash_Setup_5.9_5.9.0.373" = 0;
+    "always_never_send" = 0;
+    closeOnCRCNNotFoundFlag = 0;
+    "guid_adautoguedes" = "46BC5676-C891-4A77-95FC-ED7C19871823";
+    "lastCrash_Adobe Desktop Service_5.10.0_5.10.0.573" = "-1";
+    "lastCrash_Adobe Desktop Service_5.7.0_5.7.0.1307" = "-1";
+    "lastCrash_Adobe Desktop Service_5.7.1_5.7.1.1" = "-1";
+    "lastCrash_Adobe Desktop Service_5.9.0_5.9.0.373" = "-1";
+    "lastCrash_Adobe Photoshop 2022_23.3.2_20220503.r.458" = "-1";
+    "lastCrash_Adobe Photoshop 2023_24.6.0_20230524.m.2185" = "-1";
+    "lastCrash_AdobeAcrobat_22.003.20281_22.003.20281" = "-1";
+    "lastCrash_AdobeIPCBroker_7.2.0.34_vulcan" = "-1";
+    "lastCrash_Core Sync_5.10.3.1_5.10.3.1" = "-1";
+    "lastCrash_Core Sync_6.0.0.43_6.0.0.43" = "-1";
+    "lastCrash_Core Sync_6.3.7.1_6.3.7.1" = "-1";
+    "lastCrash_Creative Cloud Helper_5.10.0_5.10.0.573" = "-1";
+    "lastCrash_Creative Cloud Helper_5.7.0_5.7.0.1307" = "-1";
+    "lastCrash_Creative Cloud Helper_5.7.1_5.7.1.1" = "-1";
+    "lastCrash_Creative Cloud Helper_5.9.0_5.9.0.373" = "-1";
+    "lastCrash_Creative Cloud_5.10_5.10.0.573" = "-1";
+    "lastCrash_Creative Cloud_5.7_5.7.0.1307" = "-1";
+    "lastCrash_Creative Cloud_5.7_5.7.1.1" = "-1";
+    "lastCrash_Creative Cloud_5.9_5.9.0.373" = "-1";
+    "lastCrash_Setup_5.10_5.10.0.573" = "-1";
+    "lastCrash_Setup_5.7_5.7.0.1307" = "-1";
+    "lastCrash_Setup_5.9_5.9.0.373" = "-1";
+    productPreferences =     {
+        "Adobe Desktop Service;5.10.0;5.10.0.573" =         {
+            "Adobe Desktop Service;5.10.0;5.10.0.573" = "0_1_100";
+        };
+        "Adobe Desktop Service;5.7.0;5.7.0.1307" =         {
+            "Adobe Desktop Service;5.7.0;5.7.0.1307" = "0_1_100";
+        };
+        "Adobe Desktop Service;5.7.1;5.7.1.1" =         {
+            "Adobe Desktop Service;5.7.1;5.7.1.1" = "0_1_100";
+        };
+        "Adobe Desktop Service;5.9.0;5.9.0.373" =         {
+            "Adobe Desktop Service;5.9.0;5.9.0.373" = "0_1_100";
+        };
+        "Adobe Photoshop 2022;23.3.2;20220503.r.458" =         {
+            "Adobe Photoshop 2022;23.3.2;20220503.r.458" = "0_1_100";
+        };
+        "Adobe Photoshop 2023;24.6.0;20230524.m.2185" =         {
+            "Adobe Photoshop 2023;24.6.0;20230524.m.2185" = "0_1_100";
+        };
+        "AdobeAcrobat;22.003.20281;22.003.20281" =         {
+            "AdobeAcrobat;22.003.20281;22.003.20281" = "0_1_100";
+        };
+        "AdobeIPCBroker;7.2.0.34;vulcan" =         {
+            "AdobeIPCBroker;7.2.0.34;vulcan" = "0_1_100";
+        };
+        "Core Sync;5.10.3.1;5.10.3.1" =         {
+            "Core Sync;5.10.3.1;5.10.3.1" = "0_1_100";
+        };
+        "Core Sync;6.0.0.43;6.0.0.43" =         {
+            "Core Sync;6.0.0.43;6.0.0.43" = "0_1_100";
+        };
+        "Core Sync;6.3.7.1;6.3.7.1" =         {
+            "Core Sync;6.3.7.1;6.3.7.1" = "0_1_100";
+        };
+        "Creative Cloud Helper;5.10.0;5.10.0.573" =         {
+            "Creative Cloud Helper;5.10.0;5.10.0.573" = "0_1_100";
+        };
+        "Creative Cloud Helper;5.7.0;5.7.0.1307" =         {
+            "Creative Cloud Helper;5.7.0;5.7.0.1307" = "0_1_100";
+        };
+        "Creative Cloud Helper;5.7.1;5.7.1.1" =         {
+            "Creative Cloud Helper;5.7.1;5.7.1.1" = "0_1_100";
+        };
+        "Creative Cloud Helper;5.9.0;5.9.0.373" =         {
+            "Creative Cloud Helper;5.9.0;5.9.0.373" = "0_1_100";
+        };
+        "Creative Cloud;5.10;5.10.0.573" =         {
+            "Creative Cloud;5.10;5.10.0.573" = "0_1_100";
+        };
+        "Creative Cloud;5.7;5.7.0.1307" =         {
+            "Creative Cloud;5.7;5.7.0.1307" = "0_1_100";
+        };
+        "Creative Cloud;5.7;5.7.1.1" =         {
+            "Creative Cloud;5.7;5.7.1.1" = "0_1_100";
+        };
+        "Creative Cloud;5.9;5.9.0.373" =         {
+            "Creative Cloud;5.9;5.9.0.373" = "0_1_100";
+        };
+        "Setup;5.10;5.10.0.573" =         {
+            "Setup;5.10;5.10.0.573" = "0_1_100";
+        };
+        "Setup;5.7;5.7.0.1307" =         {
+            "Setup;5.7;5.7.0.1307" = "0_1_100";
+        };
+        "Setup;5.9;5.9.0.373" =         {
+            "Setup;5.9;5.9.0.373" = "0_1_100";
+        };
+    };
+    "search_solution" = 0;
+}

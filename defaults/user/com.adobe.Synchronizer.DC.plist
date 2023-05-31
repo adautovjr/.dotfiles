@@ -1,0 +1,15 @@
+{
+    "Acrobat.com" =     {
+        UniqueIdForEureka = "8aab3107-127a-4122-8d90-979179c5c3dd";
+    };
+    WebServers =     {
+        CommentingURL = "https://comments.adobe.io";
+        EchoSignApiURL = "https://api.na1.documents.adobe.com";
+        EchoSignWebURL = "https://na1.documents.adobe.com";
+        NotificationURL = "https://notify.adobe.io/ans/{+version}/notifications";
+    };
+    pdfOwnershipNoti =     {
+        keyLastThrowTime = "2023-Jan-02 08:22:25";
+        notificationThrowCount = 3;
+    };
+}

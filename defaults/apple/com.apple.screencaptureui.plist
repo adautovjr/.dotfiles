@@ -1,0 +1,13 @@
+{
+    "com.apple.AnnotationKit.arrowHeadStyle" = 2;
+    "com.apple.AnnotationKit.brushStyle" = 0;
+    "com.apple.AnnotationKit.fillColor" = {length = 242, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b8 };
+    "com.apple.AnnotationKit.font" = {length = 459, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000159 };
+    "com.apple.AnnotationKit.hasShadow" = 0;
+    "com.apple.AnnotationKit.highlightStyle" = 765200;
+    "com.apple.AnnotationKit.strokeColor" = {length = 248, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000bd };
+    "com.apple.AnnotationKit.strokeIsDashed" = 0;
+    "com.apple.AnnotationKit.strokeWidth" = 5;
+    "com.apple.AnnotationKit.textAttributes" = {length = 285, bytes = 0x7b5c7274 66315c61 6e73695c 616e7369 ... 205c6366 3220617d };
+    "com.apple.AnnotationKit.userDefaultsVersion" = 1;
+}

@@ -1,0 +1,11 @@
+{
+    CacheCertificate =     (
+        {length = 1733, bytes = 0x308206c1 308205a9 a0030201 0202105d ... a6c3637b 1e07e4af },
+        {length = 1282, bytes = 0x308204fe 308203e6 a0030201 02020451 ... d376cfe1 93e880a2 }
+    );
+    CacheTime = 5429;
+    CachedBag = {length = 7126, bytes = 0x3c3f786d 6c207665 7273696f 6e3d2231 ... 2f706c69 73743e0a };
+    CachedSignature = {length = 256, bytes = 0x89337737 4d8cfdce 17cfcd3c 5308975f ... f638a5b7 7daa9f97 };
+    Date = "706897708.520883";
+    URL = "https://init-p01md.apple.com/bag?ix=2";
+}

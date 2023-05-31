@@ -1,0 +1,17 @@
+{
+    CSReceiverBundleIdentifierState =     {
+        "com.apple.AppStore" = 1;
+        "com.apple.CloudDocs.MobileDocumentsFileProvider" = 1;
+        "com.apple.InCallService" = 1;
+        "com.apple.Maps" = 1;
+        "com.apple.MobileSMS" = 1;
+        "com.apple.Notes" = 1;
+        "com.apple.Safari" = 1;
+        "com.apple.fileprovider.fileproviderd" = 1;
+        "com.apple.iCal" = 1;
+        "com.apple.mail" = 1;
+        "com.apple.parsecd" = 1;
+        "com.apple.reminders" = 1;
+        "com.apple.shortcuts" = 1;
+    };
+}

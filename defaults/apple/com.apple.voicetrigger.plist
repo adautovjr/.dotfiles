@@ -1,0 +1,7 @@
+{
+    "Accessory Alarm Playback Status" = 0;
+    "Accessory Media Playback Status" = 0;
+    "Accessory Timer Playback Status" = 0;
+    "VoiceTrigger Enabled" = 0;
+    VoiceTriggerEverUsed = 1;
+}

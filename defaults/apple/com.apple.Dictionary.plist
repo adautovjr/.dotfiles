@@ -1,0 +1,115 @@
+{
+    "NSWindow Frame find panel" = "68 551 357 127 0 0 1728 1079 ";
+    "last available dictionaries" =     (
+        "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/7e66d0bf940535a6ed4e0b6b29b6879cecc18477.asset/AssetData/New Oxford American Dictionary.dictionary",
+        "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/c44a79f82ee4b603475fab69c6f05ba14cd6c06c.asset/AssetData/Oxford American Writer's Thesaurus.dictionary",
+        "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/2d5c2ac20ac54dfa5feeda0e34021d49c53a1974.asset/AssetData/Portuguese.dictionary",
+        "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/1923cbd4c886d3d6fb1a2b975f868546aae81d8b.asset/AssetData/Portuguese - English.dictionary",
+        "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/c49d36dc042228ef6753e01cc04636acd0c13bec.asset/AssetData/Apple Dictionary.dictionary",
+        "/System/Library/Frameworks/CoreServices.framework/Frameworks/DictionaryServices.framework/Resources/Wikipedia.wikipediadictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/aaba887032796a455ff1634110158971867af5fd.asset/AssetData/TTY Abbreviations Dictionary.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/2f52b3fd1e18fa1c24c6c27368ec5fbfc1c1e5c2.asset/AssetData/Arabic - English.dictionary",
+        "asset:/Cantonese - English.dictionary",
+        "asset:/Simplified Chinese Thesaurus.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/08f77247dbe3c00b4192c2bea095ef55d0d1082a.asset/AssetData/The Standard Dictionary of Contemporary Chinese.dictionary",
+        "asset:/Simplified Chinese Idioms.dictionary",
+        "asset:/Simplified Chinese - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/8d62aa808bde20ea7acb76e1978491caa0f20e25.asset/AssetData/Traditional Chinese.dictionary",
+        "asset:/Traditional Chinese Common Words.dictionary",
+        "asset:/Traditional Chinese - English Idioms.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/e827d690bb1957b2a873dac3f9fd8f527bf8c0be.asset/AssetData/Traditional Chinese - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/c3096a9bb747ebf1df2718be875ad4a47572285c.asset/AssetData/Danish.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/746467125b80cda78ee52e05654c59909deba1ae.asset/AssetData/Dutch.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/45c5381838fc06d6716c0b288ae2cd2151b180e3.asset/AssetData/Dutch - English.dictionary",
+        "asset:/Oxford Dictionary of English.dictionary",
+        "asset:/Oxford Thesaurus of English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/5854e540b88dfa05befc4175b816f115444e3485.asset/AssetData/French.dictionary",
+        "asset:/French - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/5eced831f7ed623d7a623637768d077df1e15243.asset/AssetData/Duden Dictionary Data Set I.dictionary",
+        "asset:/German - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/d5f35431491e844e2357fead5bb257af348bf81b.asset/AssetData/French - German.dictionary",
+        "asset:/Gujarati - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/252b376cc5c05ce1f50856c58de9e8513470124d.asset/AssetData/Hebrew.dictionary",
+        "asset:/Hindi.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/46745a8d7aa7d0cf6a847894a73a3df8130270ae.asset/AssetData/Hindi - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/9b02838f121e30431ceaa241b6f906477a909c48.asset/AssetData/Indonesian - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/e0376863a738898b77e56dffa2f05bda19de02e9.asset/AssetData/Italian.dictionary",
+        "asset:/Italian - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/68e6295da52ca80c86dd33f0241ba4b379a93196.asset/AssetData/Sanseido Super Daijirin.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/ed794ce45bdb66071bbf389c1b07910e98f427a8.asset/AssetData/Simplified Chinese - Japanese.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/e95ca7429411d9c9181edd6905eb9df64688faf7.asset/AssetData/Sanseido The WISDOM English-Japanese Japanese-English Dictionary.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/fad15f718fb0b4c75a5fd7dc0477bf7629816562.asset/AssetData/Korean.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/efae862c620a7b530de4ac764b6e39b75c7bca15.asset/AssetData/Korean - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/fb13616f22be03c413f824374200e55cc8505157.asset/AssetData/Norwegian.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/44cb96f30bf10edfde5bea61b2fd45c3b8d2ef4b.asset/AssetData/Polish - English.dictionary",
+        "asset:/Russian.dictionary",
+        "asset:/Russian - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/748a3575ebbbad0969aa6c4673955109dfebc55e.asset/AssetData/Spanish.dictionary",
+        "asset:/Spanish - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/a4e13fd713da5012e6edc5202c537870177e5ae7.asset/AssetData/Swedish.dictionary",
+        "asset:/Tamil - English.dictionary",
+        "asset:/Telugu - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/f9a439697d969b7b8c0a056ece2e269b153c595d.asset/AssetData/Thai.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/5ebb61e77edcd63e8aad18c1ed2c8e6d96ea85a3.asset/AssetData/Thai - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/31aeb8973eeeac6e6462ac4ba6c28e864d5c60e0.asset/AssetData/Turkish.dictionary",
+        "asset:/Urdu - English.dictionary",
+        "/System/Library/AssetsV2/PreinstalledAssetsV2/InstallWithOs/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/289294c26636c6ec2b65564ac2091b036a52bbb3.asset/AssetData/Vietnamese - English.dictionary"
+    );
+    version = 3;
+    "window frames" =     (
+        "519 341 690 624 0 0 1728 1079 "
+    );
+    "window settings" =     (
+                {
+            dictionaries =             (
+                                {
+                    "disclosure opened" = 1;
+                    path = "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/7e66d0bf940535a6ed4e0b6b29b6879cecc18477.asset/AssetData/New Oxford American Dictionary.dictionary";
+                    "user choice" = 1;
+                },
+                                {
+                    "disclosure opened" = 1;
+                    path = "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/c44a79f82ee4b603475fab69c6f05ba14cd6c06c.asset/AssetData/Oxford American Writer's Thesaurus.dictionary";
+                    "user choice" = 1;
+                },
+                                {
+                    "disclosure opened" = 1;
+                    path = "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/2d5c2ac20ac54dfa5feeda0e34021d49c53a1974.asset/AssetData/Portuguese.dictionary";
+                    "user choice" = 1;
+                },
+                                {
+                    "disclosure opened" = 1;
+                    path = "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/1923cbd4c886d3d6fb1a2b975f868546aae81d8b.asset/AssetData/Portuguese - English.dictionary";
+                    "user choice" = 1;
+                },
+                                {
+                    "disclosure opened" = 1;
+                    path = "/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX/c49d36dc042228ef6753e01cc04636acd0c13bec.asset/AssetData/Apple Dictionary.dictionary";
+                    "user choice" = 1;
+                },
+                                {
+                    "disclosure opened" = 1;
+                    path = "/System/Library/Frameworks/CoreServices.framework/Frameworks/DictionaryServices.framework/Resources/Wikipedia.wikipediadictionary";
+                    "sub-dictionaries" =                     (
+                                                {
+                            "disclosure opened" = 1;
+                            identifier = "com.apple.dictionary.Wikipedia-en";
+                            "user choice" = 1;
+                        },
+                                                {
+                            "disclosure opened" = 1;
+                            identifier = "com.apple.dictionary.Wikipedia-pt";
+                            "user choice" = 0;
+                        }
+                    );
+                    "user choice" = 1;
+                }
+            );
+            "image window frame" = "{{0, 0}, {0, 0}}";
+            "image window parent frame" = "{{0, 0}, {0, 0}}";
+            "index width" = 183;
+            "search method" = 1;
+            "window ID" = 1;
+        }
+    );
+}

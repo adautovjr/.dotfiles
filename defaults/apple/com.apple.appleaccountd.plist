@@ -1,0 +1,10 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585406;
+    CloudKitAccountInfoCache =     {
+        3ffc4da684ab137853fd168a44f84e82dbb91db6e5d68cb390f1226c14130087 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    lastCloudSyncTimestampKey = "2023-05-31 00:37:17 +0000";
+}

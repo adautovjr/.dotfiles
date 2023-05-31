@@ -1,0 +1,9 @@
+{
+    NSDisabledCharacterPaletteMenuItem = 1;
+    NSDisabledDictationMenuItem = 1;
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavLastRootDirectory = "~";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    NSTreatUnknownArgumentsAsOpen = NO;
+    "NSWindow Frame NSNavPanelAutosaveName" = "-250 -248 800 448 0 0 1728 1079 ";
+}

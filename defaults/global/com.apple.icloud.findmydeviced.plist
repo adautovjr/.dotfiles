@@ -1,0 +1,11 @@
+{
+    LastLaunchVersion = 21F79;
+    "command-identityV6-id" = "1e856563-79d9-4640-8a30-ccf73eaa2bd2";
+    "command-locate-ackData" =     {
+        message = OK;
+        status = 200;
+    };
+    "command-locate-id" = "085401b5-5e10-427a-88d0-51dfcc78896b";
+    "command-message-id" = "d10fc2d1-2877-4317-a337-9979639d1e41";
+    "command-register-id" = "c722798d-6507-4b10-bb7f-898b477572a9";
+}

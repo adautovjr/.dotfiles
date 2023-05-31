@@ -1,0 +1,23 @@
+{
+    SUEnableAutomaticChecks = 0;
+    SUHasLaunchedBefore = 1;
+    "com.amazon.crashlogs.metadata.session" =     {
+        awsRegion = UnknownAWSRegion;
+        clientVersion = "4.0.7.2248";
+    };
+    "com.amazon.crashlogs.metadata.system" =     {
+        buildId = "4.0.7.2248";
+        countryOfResidence = BR;
+        deviceId = "88E5BA85-3804-4EB3-B8FD-7A56DACEF28D";
+        hardwareModel = "MacBookPro18,1";
+        openGLESVersion = "1.0";
+        osBuildNumber = "Mac OS X 12.3.1 (21E258)";
+        osName = "Mac OS X";
+        osVersion = "12.3.1";
+        packageVersionName = "4.0.7.2248";
+        process = "com.amazon.workspaces";
+        screenResolution = 3456x2234;
+        totalDiskSpaceBytes = 494384795648;
+        totalMemoryBytes = 17179869184;
+    };
+}

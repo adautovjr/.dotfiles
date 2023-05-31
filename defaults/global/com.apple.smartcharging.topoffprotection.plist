@@ -1,0 +1,184 @@
+{
+    AggDStatus =     {
+        "com.apple.das.smartcharging.analytics.countChargeSessions" = 462;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsEnabled" = 462;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsEngaged" = 27;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsFailedToEngage" = 36;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsFullCharged" = 432;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.100" = 1;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.80" = 16;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.84" = 1;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.86" = 2;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.88" = 3;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.90" = 1;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.94" = 3;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsPlugOutBatteryLevel.100" = 1;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsPlugOutBatteryLevel.78" = 1;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsPlugOutBatteryLevel.80" = 1;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsPlugOutBatteryLevel.90" = 1;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsTempDisabled" = 0;
+        "com.apple.das.smartcharging.analytics.countChargeSessionsTopOffEngaged" = 12;
+        "com.apple.das.smartcharging.analytics.countDecisionMaker.0" = 69;
+        "com.apple.das.smartcharging.analytics.countMinutesEligibleForIdle" = 162801;
+        "com.apple.das.smartcharging.analytics.countMinutesIdled" = 17461;
+        "com.apple.das.smartcharging.analytics.countMinutesTotal" = 169328;
+        "com.apple.das.smartcharging.analytics.countUndercharged" = 16;
+        "com.apple.das.smartcharging.analytics.countUnderchargedPreventable" = 13;
+        "com.apple.das.smartcharging.analytics.countUnderchargedPreventableBatteryLevel.78" = 2;
+        "com.apple.das.smartcharging.analytics.countUnderchargedPreventableBatteryLevel.80" = 10;
+        "com.apple.das.smartcharging.analytics.countUnderchargedPreventableBatteryLevel.90" = 1;
+        "com.apple.das.smartcharging.analytics.durationModelResult" = "-60";
+        "com.apple.das.smartcharging.analytics.durationModelVersion" = 1;
+        "com.apple.das.smartcharging.analytics.engageModelResult" = "-100";
+        "com.apple.das.smartcharging.analytics.engageModelVersion" = 1;
+        "com.apple.das.smartcharging.analytics.fullChargeDuration" = 90;
+    };
+    CAPluggedInStatus =     {
+        AnalyticsVersion = 1;
+        DecileClassificationBin = 9;
+        DesktopClassificationBin = 9;
+        DesktopMode = 0;
+        DesktopModeLastChange = "5484577.408475041";
+        DischargeModelVersion = hvrfemuutc;
+        DurationModelBoltID = 53vavzrjhb;
+        DurationModelResult = "-1";
+        DurationModelVersion = 1;
+        Enabled = 1;
+        EncounteredTLC = 0;
+        EngageModelBoltID = 53vavzrjhb;
+        EngageModelVersion = 1;
+        Engaged = 0;
+        EngagementModelResult = "-1";
+        EngagementModelResultCloseBelowThreshold = 0;
+        EngagementsLastMonthBucket = 5;
+        FullCharged = 1;
+        IdleDuration = 0;
+        MedianPluginLength = "1078.716666666667";
+        ModelExecutionPath = 0;
+        ModelUpdateIterations = 0;
+        NonDesktopDecisionMaker = 2;
+        NumberOfPluginEvents = 16;
+        PluginEndBatteryLevelScore = 38;
+        TempDisabled = 0;
+        UnplugBatteryLevel = 38;
+    };
+    DailyStatusReportDate = "707161713.287393";
+    bootUUIDOnLastInit = "97F9B45A-76CC-4008-AEEC-5314BFEFBC81";
+    checkpoint = 7;
+    "com.apple.das.smartcharging.analytics.countChargeSessions" = 462;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsEnabled" = 462;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsEngaged" = 27;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsFailedToEngage" = 36;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsFullCharged" = 432;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.100" = 1;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.80" = 16;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.84" = 1;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.86" = 2;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.88" = 3;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.90" = 1;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsIdleStartBatteryLevel.94" = 3;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsTempDisabled" = 0;
+    "com.apple.das.smartcharging.analytics.countChargeSessionsTopOffEngaged" = 12;
+    "com.apple.das.smartcharging.analytics.countDecisionMaker.0" = 69;
+    "com.apple.das.smartcharging.analytics.countMinutesEligibleForIdle" = 162801;
+    "com.apple.das.smartcharging.analytics.countMinutesIdled" = 17461;
+    "com.apple.das.smartcharging.analytics.countMinutesTotal" = 169328;
+    "com.apple.das.smartcharging.analytics.countUndercharged" = 16;
+    "com.apple.das.smartcharging.analytics.countUnderchargedPreventable" = 13;
+    "com.apple.das.smartcharging.analytics.countUnderchargedPreventableBatteryLevel.78" = 2;
+    "com.apple.das.smartcharging.analytics.countUnderchargedPreventableBatteryLevel.80" = 10;
+    "com.apple.das.smartcharging.analytics.countUnderchargedPreventableBatteryLevel.90" = 1;
+    currentState = 1;
+    empiricalFullChargeDuration = 90;
+    engagementsLastMonthBucket = 5;
+    fullChargeDeadline = "347165018.024308";
+    inflowInhibitStatus = 0;
+    isDesktopModeDevice = 0;
+    lastDOD0 =     (
+        1632,
+        1648,
+        1648
+    );
+    lastDOD0Update = "706674373.920511";
+    lastDesktopModeChangeDate = "701614458.103274";
+    lastEnabled = "706674373.981089";
+    lastInterrupted = "701321319.393998";
+    lastNonEngagementSignalID = 0;
+    lastQMax =     (
+        8744,
+        8746,
+        8744
+    );
+    lastQMaxUpdate = "706223681.386187";
+    lastSavedSeconds = "45479.63363003731";
+    medianPluginLength = "1249.183333333333";
+    nonDesktopModeDecisionMaker = 2;
+    numberOfPluginEvents = 17;
+    powerLogStatus =     {
+        aggDBitmap = 55;
+        batteryLevel = 100;
+        checkpoint = 7;
+        decisionMakerID = "-1";
+        durationPrediction = "-99999";
+        engagementModelVersion = 1;
+        engagementProbability = "0.6609099061939283";
+        modelVersion = 1;
+        state = 1;
+        status = 1;
+        timeTillTopOff = 900;
+    };
+    previousDecisionMaker = 0;
+    previousDecisionMakerDate = "707167301.079604";
+    recentEngagements =     {
+        "704171638.268730" = "33199.50983893871";
+        "704288006.072945" = "32395.3564440012";
+        "704725228.711194" = "28721.28829991817";
+        "706223681.490907" = "66669.93522703648";
+        "706497508.161050" = "42182.14675498009";
+        "706674373.981089" = "45479.63363003731";
+    };
+    timeline =     (
+                {
+            batteryLevel = 19;
+            date = "707161418.035535";
+            event = BypassEngaged;
+        },
+                {
+            batteryLevel = 80;
+            date = "707163701.091343";
+            event = EligibleForIdle;
+        },
+                {
+            batteryLevel = 100;
+            date = "707167301.0728379";
+            event = FullyCharged;
+        }
+    );
+    "timeline.archive" =     (
+                {
+            batteryLevel = 99;
+            date = "706822552.284987";
+            event = Plugin;
+        },
+                {
+            batteryLevel = 99;
+            date = "706822552.284987";
+            event = EligibleForIdle;
+        },
+                {
+            batteryLevel = 100;
+            date = "706822617.06682";
+            event = FullyCharged;
+        },
+                {
+            batteryLevel = 100;
+            date = "707078326.988363";
+            event = Unplug;
+        }
+    );
+    totalTimeSaved = "1048423.588092089";
+    twoStageModelDurationResult = "-99999";
+    twoStageModelEngagementResult = "0.6609099061939283";
+    twoStageModelOutput = "347165018.024308";
+    wirelessCharger = 0;
+}

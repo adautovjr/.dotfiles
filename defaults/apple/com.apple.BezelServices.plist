@@ -1,0 +1,41 @@
+{
+    BatteryHistory =     {
+        "3c-a6-f6-f3-7a-00" = 45;
+    };
+    ChargingEvents =     {
+        "3c-a6-f6-f3-7a-00 Bluetooth" =         {
+            deltaPercentage = 0;
+            duration = "1.362619833";
+            end = "2023-04-07T14:58:37Z";
+            endPercentage = 4;
+            fullCharge = 0;
+            previousEventInterval = "6984658.72441411";
+            productID = 668;
+            start = "2023-04-07T14:58:35Z";
+            startPercentage = 4;
+            transport = Bluetooth;
+            vendorID = 76;
+        };
+        "3c-a6-f6-f3-7a-00 USB" =         {
+            deltaPercentage = 96;
+            duration = "7560.140994916";
+            end = "2023-04-07T17:04:41Z";
+            endPercentage = 100;
+            fullCharge = 1;
+            previousEventInterval = "6978402.950361133";
+            productID = 668;
+            start = "2023-04-07T14:58:40Z";
+            startPercentage = 4;
+            transport = USB;
+            vendorID = 1452;
+        };
+    };
+    TransportElapsedSeconds =     {
+        "3c-a6-f6-f3-7a-00" =         {
+            SecondsBluetooth = "9308.276809034396";
+            SecondsUSB = 0;
+        };
+    };
+    afActionHistory =     {
+    };
+}

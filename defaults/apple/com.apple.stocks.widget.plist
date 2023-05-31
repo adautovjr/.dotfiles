@@ -1,0 +1,13 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1649938318;
+    CloudKitAccountInfoCache =     {
+        9e6a09ea564afca67155a44e35dc934f46647a8a8322a4d531fa5a2583a77259 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+    };
+    configuration = {length = 24608, bytes = 0x7b226465 6c657465 4c656761 63795761 ... 6f223a30 2e32357d };
+    "newsletter_manager_age" = "0001-01-01 00:00:00 +0000";
+    "newsletter_manager_include" = 0;
+    "newsletter_manager_subscription" = UNKNOWN;
+}

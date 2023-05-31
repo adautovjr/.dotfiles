@@ -1,0 +1,20 @@
+{
+    IPXDefaultDidPromoteiCloudPhotosInGettingStarted = 1;
+    IPXDefaultHasBeenLaunched = 1;
+    IPXDefaultIsRestoringViewControllers = 0;
+    IPXDefaultLibraryURLBookmark = {length = 908, bytes = 0x626f6f6b 8c030000 00000410 30000000 ... ac010000 00000000 };
+    IPXDefaultShowLibraryChooserOnLaunch = 0;
+    IPXDefaultWorkspace = {length = 1563, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000521 };
+    IPXPluginHostClearVisualizeConstraints = 1;
+    IPXWhatsNewSerialNumber = 3;
+    LastCuratedLibraryFirstTimeExperienceReadinessLogged = 1;
+    NSScrollViewShouldScrollUnderTitlebar = 0;
+    "NSWindow Frame MainWindow" = "0 0 1728 1079 0 0 1728 1079 ";
+    PXRootSettingsHideWIPAlerts = 0;
+    allPhotosPreferredIndividualItemsColumns = 5;
+    curatedLibraryInitialNavigationVersion = 1;
+    curatedLibraryZoomLevel = 4;
+    didShowCurationFooter = 1;
+    useNULayers = 1;
+    userDefaultsPhotosGridVersion = 3;
+}

@@ -1,0 +1,11 @@
+{
+    AVTRecentStickers = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000118 };
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585406;
+    CloudKitAccountInfoCache =     {
+        32c690094f7f66942583aa49ca6c642cff5a27f026c295e7f81c8f0237aa56f6 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+        760d8553b6b884a66fad9f78ea9ccae41766393fdfe538f0f95d9dd287d556bc = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+}

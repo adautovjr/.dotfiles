@@ -1,0 +1,12 @@
+{
+    "LastForcedRegisterTime-FMDFMMAccount-10390736781" = "2022-12-09 13:04:54 +0000";
+    "RegisterDigest-FMDFMMAccount-10390736781" = {length = 20, bytes = 0xc7f84b5a80e32b217e5899be241638575533c112};
+    SPStats =     {
+        mteStatus = statusFetchError;
+        mteStatusError = "Error Domain=NSCocoaErrorDomain Code=4099 \\"The connection to service named com.apple.securityd.ckks was invalidated from this process.\\" UserInfo={NSDebugDescription=The connection to service named com.apple.securityd.ckks was invalidated from this process.}";
+        octStatus = stateNotReady;
+        octStatusError = "KeyState: Ready";
+    };
+    startupRegisterInfo =     {
+    };
+}

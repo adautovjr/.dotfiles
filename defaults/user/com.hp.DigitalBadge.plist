@@ -1,0 +1,11 @@
+{
+    "NSWindow Frame DigitalBadge.OnboardingView-1-AppWindow-1" = "544 383 640 568 0 0 1728 1079 ";
+    encryptedSmartCard = {length = 1219, bytes = 0xfbb32ae3 646e4536 f56fc6cd 0f430420 ... 575abd8f 0ab9fcd3 };
+    enrollDate = "2022-04-28 17:04:43 +0000";
+    ephemeralPublicKey = {length = 65, bytes = 0x04503e06 ddace333 b6d276cc e81a17d1 ... 041fc149 c4e55dd9 };
+    pinHash = 8dccdb08576d1cfec4a074c9ddf6393e64bb7b9eebcad52457aec7ead209aad0;
+    repositoryCertificate = {length = 312, bytes = 0x30820134 3081dba0 03020102 020900c4 ... 263a764f 47b94b57 };
+    repositoryKeyRep = {length = 380, bytes = 0x04820178 31820174 3081f50c 02726b31 ... 070c026f 61010101 };
+    sharedInformation = {length = 32, bytes = 0x5ef2e8c5 d5228436 710d570b 9fc45f8d ... d07cf0ca 6e9aad80 };
+    smartCardCert = {length = 1420, bytes = 0x30820588 30820470 a0030201 0202104e ... 77e1014d c0d44c3b };
+}

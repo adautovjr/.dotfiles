@@ -1,0 +1,20 @@
+{
+    AppDataCollectionTypeNextGen = 2;
+    AppVersion = "5.5.0";
+    DataCollectionSettingNecessity = 2;
+    Duid = 0000000d00410080612F8C64DA7945C38C0C4CCD6E3952C6;
+    IndexTarget = 1;
+    IsHomenetworkRestrictiveMode = 0;
+    IsSetOnStandbyMode = 0;
+    NetworkQualityCautionDisplayed = 1;
+    RefreshToken = "/hMgodDOBzXkFS4khIEkgabbqrjkDRsz54tcdpwPfaBsenRrEyKGAw0FxVJEnHZA";
+    ServerType = 2;
+    TargetConsole = TargetPPR;
+    "com.apple.iohidmanager#71798DDB-DF08-458E-AB77-AC8EEF7C9356" =     {
+        "com.apple.iohidmanager.uuid" = "71798DDB-DF08-458E-AB77-AC8EEF7C9356";
+        "time of last save" = "697584914.19405";
+    };
+    "com.apple.iohidmanager#Bluetooth#1356#3302#88-03-4c-2c-7e-b2" =     (
+        "71798DDB-DF08-458E-AB77-AC8EEF7C9356"
+    );
+}

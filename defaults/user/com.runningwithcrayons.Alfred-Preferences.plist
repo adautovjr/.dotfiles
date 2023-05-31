@@ -1,0 +1,31 @@
+{
+    NSNavLastRootDirectory = "/Applications";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 480}";
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 258.000000, NO, NO",
+        "0.000000, 259.000000, 224.000000, 48.000000, NO, NO"
+    );
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame NSNavPanelAutosaveName" = "-25 0 800 480 0 0 1728 1079 ";
+    "NSWindow Frame alfredprefswindow" = "274 183 1180 728 0 0 1728 1079 ";
+    catalinaCacheChecked = 1;
+    lastFeature = filesearch;
+    lastFeatureTS = 699207777;
+    lastTab = workflows;
+    lastTabBuild = 2096;
+    syncfolder = "";
+    themeEditorBackground = "Monterey Graphic.heic";
+    "workflowpalette.expansion" =     {
+        actions = 1;
+        automations = 0;
+        inputs = 0;
+        outputs = 0;
+        "palette.gettingstarted" = 1;
+        "section.favourites" = 0;
+        "section.prefabs" = 0;
+        triggers = 0;
+        utilities = 0;
+    };
+}

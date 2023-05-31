@@ -1,0 +1,178 @@
+{
+    EMFDefaultsKey =     {
+        EMFDidDisplaySkinToneHelpKey = 1;
+        EMFRecentSequenceNumberKey = 65;
+        EMFRecentsKey =         (
+            "\\Ud83d\\Ude80",
+            "\\Ud83d\\Ude2c",
+            "\\Ud83d\\Ude48",
+            "\\Ud83d\\Udd0d",
+            "\\Ud83d\\Udc40",
+            "\\Ud83e\\Udd14",
+            "\\Ud83d\\Ude4c\\Ud83c\\Udffb",
+            "\\Ud83d\\Udcf6",
+            "\\U2705",
+            "\\U231b\\Ufe0f",
+            "\\Ud83e\\Udd1d",
+            "\\Ud83d\\Ude01",
+            "\\Ud83d\\Ude0c",
+            "\\Ud83e\\Udd73",
+            "\\Ud83c\\Udfc6",
+            "\\Ud83e\\Udee1",
+            "\\Ud83e\\Udd2f",
+            "\\Ud83c\\Udf89",
+            "\\Ud83e\\Udd9c",
+            "\\Ud83e\\Uddd0",
+            "\\Ud83c\\Udfce",
+            "\\Ud83e\\Udd79",
+            "\\Ud83d\\Udc88",
+            "\\Ud83d\\Ude2e\\U200d\\Ud83d\\Udca8",
+            "\\Ud83d\\Ude14",
+            "\\Ud83c\\Udff4\\U200d\\U2620\\Ufe0f",
+            "\\Ud83d\\Udd2c",
+            "\\Ud83d\\Ude42",
+            "\\Ud83e\\Udd26\\Ud83c\\Udffb\\U200d\\U2642\\Ufe0f",
+            "\\Ud83d\\Ude4f\\Ud83c\\Udffb"
+        );
+        EMFSkinToneBaseKeyPreferences =         {
+            "\\Ud83d\\Ude4c" = "\\Ud83d\\Ude4c\\Ud83c\\Udffb";
+            "\\Ud83d\\Ude4f" = "\\Ud83d\\Ude4f\\Ud83c\\Udffb";
+            "\\Ud83e\\Udd18" = "\\Ud83e\\Udd18\\Ud83c\\Udffb";
+            "\\Ud83e\\Udd1d" = "\\Ud83e\\Udd1d";
+            "\\Ud83e\\Udd26\\U200d\\U2642\\Ufe0f" = "\\Ud83e\\Udd26\\Ud83c\\Udffb\\U200d\\U2642\\Ufe0f";
+        };
+        EMFUsageHistoryKey =         {
+            "\\U231b\\Ufe0f" =             (
+                55
+            );
+            "\\U2693\\Ufe0f" =             (
+                8
+            );
+            "\\U2705" =             (
+                25,
+                54
+            );
+            "\\Ud83c\\Udf89" =             (
+                16,
+                26
+            );
+            "\\Ud83c\\Udfc6" =             (
+                39
+            );
+            "\\Ud83c\\Udfce" =             (
+                30
+            );
+            "\\Ud83c\\Udff4\\U200d\\U2620\\Ufe0f" =             (
+                20
+            );
+            "\\Ud83d\\Udc40" =             (
+                50,
+                51
+            );
+            "\\Ud83d\\Udc88" =             (
+                24
+            );
+            "\\Ud83d\\Udcf6" =             (
+                61
+            );
+            "\\Ud83d\\Udd0d" =             (
+                62
+            );
+            "\\Ud83d\\Udd2c" =             (
+                17
+            );
+            "\\Ud83d\\Ude01" =             (
+                3,
+                19,
+                34
+            );
+            "\\Ud83d\\Ude0c" =             (
+                29,
+                31
+            );
+            "\\Ud83d\\Ude14" =             (
+                21
+            );
+            "\\Ud83d\\Ude2c" =             (
+                7,
+                12,
+                13,
+                14,
+                15,
+                18,
+                38,
+                48,
+                49
+            );
+            "\\Ud83d\\Ude2e\\U200d\\Ud83d\\Udca8" =             (
+                22
+            );
+            "\\Ud83d\\Ude42" =             (
+                1,
+                2
+            );
+            "\\Ud83d\\Ude48" =             (
+                52,
+                53
+            );
+            "\\Ud83d\\Ude4c\\Ud83c\\Udffb" =             (
+                40,
+                41,
+                42
+            );
+            "\\Ud83d\\Ude4f\\Ud83c\\Udffb" =             (
+                10
+            );
+            "\\Ud83d\\Ude80" =             (
+                45,
+                46,
+                56,
+                57,
+                58,
+                59,
+                60,
+                63,
+                64
+            );
+            "\\Ud83e\\Udd14" =             (
+                4,
+                9,
+                37,
+                47
+            );
+            "\\Ud83e\\Udd18\\Ud83c\\Udffb" =             (
+                6
+            );
+            "\\Ud83e\\Udd1d" =             (
+                43,
+                44
+            );
+            "\\Ud83e\\Udd26\\Ud83c\\Udffb\\U200d\\U2642\\Ufe0f" =             (
+                11
+            );
+            "\\Ud83e\\Udd2f" =             (
+                35
+            );
+            "\\Ud83e\\Udd70" =             (
+                0
+            );
+            "\\Ud83e\\Udd73" =             (
+                5,
+                23,
+                27
+            );
+            "\\Ud83e\\Udd79" =             (
+                28
+            );
+            "\\Ud83e\\Udd9c" =             (
+                33
+            );
+            "\\Ud83e\\Uddd0" =             (
+                32
+            );
+            "\\Ud83e\\Udee1" =             (
+                36
+            );
+        };
+    };
+}

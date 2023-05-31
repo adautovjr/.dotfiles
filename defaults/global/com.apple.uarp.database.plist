@@ -1,0 +1,12 @@
+{
+    ActiveAccessories =     {
+    };
+    DASActivities =     {
+        "com.apple.UARPUpdaterServiceHID" = {length = 236, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b4 };
+        "com.apple.UARPUpdaterServiceUSBPD" = {length = 236, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b4 };
+    };
+    PeriodicLaunchCache =     {
+        "22FCD920-FACF-423E-A913-705E73DD16C5" = {length = 1734, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000584 };
+        "4C32696F-151A-454F-AD02-B61DE723B640" = {length = 1729, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000581 };
+    };
+}

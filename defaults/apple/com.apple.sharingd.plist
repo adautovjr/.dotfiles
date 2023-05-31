@@ -1,0 +1,31 @@
+{
+    AirDropRandomHashUUIDKey1 = "6ABFFCA5-16DC-4171-AD58-CC30DBACDFAF";
+    AirDropRandomHashUUIDKey2 = "959B3A57-1050-4398-A607-D1C9D2AD95AE";
+    AirDropRandomHashUUIDKey3 = "96237A92-B348-40A3-AFE9-5EEA0BE00CE3";
+    AirDropRandomHashUUIDKey4 = "6BDFFA12-31B6-4EB1-B31A-D6CFB8702B0D";
+    AutoUnlockAlreadyEnabledBefore = 1;
+    AutoUnlockDevicesMissingSessionKey =     (
+    );
+    AutoUnlockLastSeenVersion = "12.4";
+    AutoUnlockLastSeenWatchDate = "2022-11-11 19:11:20 +0000";
+    AutoUnlockPeerRetries =     {
+        "C7C45704-B1C2-4F11-8776-E56060571A27" =         {
+            AutoUnlockRetryDate = "2022-11-14 20:50:22 +0000";
+            AutoUnlockRetryMultiplier = 8;
+        };
+    };
+    AutoUnlockPresentedBluetoothError = 0;
+    AutoUnlockPresentedWiFiError = 0;
+    AutoUnlockSetupRetryVersion = 1;
+    AutoUnlockSuggestedPeers =     (
+        "C7C45704-B1C2-4F11-8776-E56060571A27"
+    );
+    AutoUnlockWatchCurrentlyInList = 1;
+    AutoUnlockWatchExistedInUnlockList = 1;
+    DiscoverableMode = Everyone;
+    "HashManager-LastConsumedHistoryTokenKey" = {length = 738, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000254 };
+    "HashManager-LastRebuiltDateKey" = "2023-05-17 15:42:29 +0000";
+    "HashManager-LastUpdatedDateKey" = "2023-05-31 01:43:23 +0000";
+    "HashManager-StoredDatabaseVersionKey" = 3;
+    OneTimeAirDropReset2 = 1;
+}

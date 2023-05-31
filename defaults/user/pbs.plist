@@ -1,0 +1,19 @@
+{
+    FinderActive =     {
+        "APPEXTENSION-com.apple.finder.CreatePDFQuickAction" = 1;
+        "APPEXTENSION-com.apple.finder.MarkupQuickAction" = 1;
+        "APPEXTENSION-com.apple.finder.RotateQuickAction" = 1;
+        "APPEXTENSION-com.apple.finder.TrimQuickAction" = 1;
+        "is.workflow.actions.image.convert.finder" = 1;
+    };
+    FinderOrdering =     {
+        "APPEXTENSION-com.apple.finder.CreatePDFQuickAction" = 2;
+        "APPEXTENSION-com.apple.finder.MarkupQuickAction" = 1;
+        "APPEXTENSION-com.apple.finder.RotateQuickAction" = 0;
+        "APPEXTENSION-com.apple.finder.TrimQuickAction" = 3;
+        "is.workflow.actions.image.convert.finder" = 4;
+    };
+    NSServicesStatus =     {
+    };
+    ServicesShortcutsPresent = 0;
+}

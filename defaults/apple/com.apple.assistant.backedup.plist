@@ -1,0 +1,33 @@
+{
+    "Cloud Sync Enabled" = 1;
+    "Cloud Sync Enabled Modification Date" = "2022-04-11 17:28:18 +0000";
+    "Cloud Sync User ID" = "_296b8236870ecd88ebb799294076f0c5";
+    "Modification Dates" =     {
+        "Logging User Identifier" = "2022-04-14 13:54:47 +0000";
+        "MultiUser VoiceIdentification Enabled" = "2022-04-25 22:01:00 +0000";
+        "Output Voice" = "2023-01-30 11:51:05 +0000";
+        "Session Language" = "2023-01-30 11:51:05 +0000";
+        "User Identifier" = "2022-04-14 13:54:47 +0000";
+    };
+    "MultiUser VoiceIdentification Enabled" = 0;
+    "Output Voice" =     {
+        Custom = 1;
+        Footprint = 2;
+        Gender = 2;
+        Language = "pt-BR";
+        Name = sandra;
+    };
+    "Session Language" = "pt-BR";
+    "Siri Data Sharing Opt-In Status History" =     (
+                {
+            "Build Version" = 21E258;
+            Date = "2022-04-14 13:55:28 +0000";
+            "New Opt-In Status" = optedIn;
+            "Previous Opt-In Status" = unspecified;
+            "Product Version" = "12.3.1";
+            Reason = "Legacy setter";
+            "Schema Version" = "1.0";
+            Source = unspecified;
+        }
+    );
+}

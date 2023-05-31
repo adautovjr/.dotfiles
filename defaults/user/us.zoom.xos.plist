@@ -1,0 +1,39 @@
+{
+    "Hotkey Have Shown Tip" = 1;
+    LottieTip = 1;
+    NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints = 0;
+    NSInitialToolTipDelay = 100;
+    NSQuitAlwaysKeepsWindows = 0;
+    "NSWindow Frame ZOOM Main Window" = "0 24 1728 1055 0 0 1728 1079 ";
+    PresAppKeyHash = "-3344485141784769194";
+    PresMeetingAppKeyHash = 4349216119461690014;
+    "User Select Language Identify" = "follow system language";
+    ZMJoinMeetingFlowAnchor = "{{664, 378}, {400, 360}}";
+    ZPSchedulerSecurityTipState = 16;
+    ZoomAutoUpdateState = ZoomAutoUpdateStateTouched;
+    ZoomAutoUpdateVersion = "5.13.11.16405";
+    "_favoriteArray" =     (
+        ":alien:=\\Ud83d\\Udc7d",
+        ":sunglasses:=\\Ud83d\\Ude0e",
+        ":cry:=\\Ud83d\\Ude22",
+        ":dog:=\\Ud83d\\Udc36",
+        ":smile:=\\Ud83d\\Ude04",
+        ":eyes:=\\Ud83d\\Udc40",
+        ":grimacing:=\\Ud83d\\Ude2c",
+        ":fingers_crossed:=\\Ud83e\\Udd1e;:fingers_crossed_tone1:=\\Ud83e\\Udd1e\\Ud83c\\Udffb;:fingers_crossed_tone2:=\\Ud83e\\Udd1e\\Ud83c\\Udffc;:fingers_crossed_tone3:=\\Ud83e\\Udd1e\\Ud83c\\Udffd;:fingers_crossed_tone4:=\\Ud83e\\Udd1e\\Ud83c\\Udffe;:fingers_crossed_tone5:=\\Ud83e\\Udd1e\\Ud83c\\Udfff",
+        ":smiley:=\\Ud83d\\Ude03"
+    );
+    "been dragged wall video" = 1;
+    kCaptureWithoutChatWindow = 1;
+    "kIM_LastOpenedSession" = "";
+    kZMHadShowFiveMinsCountDown = 0;
+    kZMHadShowOneDayCountDown = 0;
+    kZMHadShowOneHourCountDown = 0;
+    kZMHadShowSessionWarning = 0;
+    kZMShowNotificationCenter = 1;
+    kZMUserDedaultWindowOriginFrame = "{{424, 213}, {880, 660}}";
+    kZMUserDefaultMainWindowCompressed = 0;
+    kZMUserDefaultSelectedTabType = 4;
+    "tab_tip_has_poped" = 1;
+    "zoom user appearance" = 2;
+}

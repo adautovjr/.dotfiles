@@ -1,0 +1,14 @@
+{
+    AppCanShowSiriSuggestionsBlacklist =     (
+    );
+    CloudKitPersistedState = {length = 987, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000325 };
+    SuggestionsAllowGeocode = 1;
+    UserAccountsPersistedState =     (
+        "D2A4F855-4D1E-4E0A-8E55-9E9474F46F50",
+        "fadingminotaur5@gmail.com",
+        "adauto.guedes@arctouch.com",
+        "adautovjr@yahoo.com"
+    );
+    findToShowMigrationPerformed = 1;
+    spToLearnMigrationPerformed = 1;
+}

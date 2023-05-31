@@ -1,0 +1,66 @@
+{
+    AccountDisplayOrder =     (
+        Birthday,
+        Local,
+        "8E12A68F-0DDF-4C97-9ABD-39D1CEF8B649",
+        "49163B57-FAB6-4699-AED1-B67474E53132",
+        "099B87F0-0F6A-4B96-A404-7DF45A7571AC"
+    );
+    AllDayAreaHeight = 0;
+    BirthdayEventsGenerationAttemptsToResetKey = 0;
+    BirthdayEventsGenerationLastLocale = "en_BR";
+    BirthdayEventsGenerationVersion = 10;
+    CalDefaultCalendar = UseLastSelectedAsDefaultCalendar;
+    CalFirstVisibleDate = "2023-12-18 03:00:00 +0000";
+    CalForceTruthFileRestoreHashKey = 16A1;
+    CalendarListMiniMonthVisibleMonths = 1;
+    CalendarSidebarShown = 1;
+    CalendarSidebarView = 0;
+    CollapsedTopLevelNodes =     {
+        MainWindow =         (
+        );
+    };
+    DelegatesInSeparateWindows =     {
+        iCal =         {
+        };
+    };
+    DisabledCalendars =     {
+        MainWindow =         (
+            "455DB1A4-5A75-4658-94BB-88E4801E31BB"
+        );
+    };
+    LastCheckForIgnoredPseudoEvents = "707174200.541657";
+    LastReminderMigrationCleanupVersion = 1;
+    LastSaveDate = "2023-05-30 21:00:12 +0000";
+    NSDontMakeMainWindowKey = NO;
+    NSEventConcurrentProcessingEnabled = YES;
+    "NSSplitView Subview Frames CalendarSplitView" =     (
+        "0.000000, 0.000000, 375.000000, 979.000000, NO, NO",
+        "376.000000, 0.000000, 1182.000000, 979.000000, NO, NO",
+        "781.000000, 0.000000, 240.000000, 598.000000, YES, NO"
+    );
+    "NSWindow Frame 20221209T130000Z/BF61A947-ADD2-409A-9A3F-7DBD0090CF1C" = "18 451 315 610 0 0 1728 1079 ";
+    "NSWindow Frame B89DFE39-2652-4E4C-BC60-63538910A792" = "18 778 315 283 0 0 1728 1079 ";
+    "NSWindow Frame iCal" = "81 63 1558 979 0 0 1728 1079 ";
+    OwnerEmailAddress =     (
+    );
+    RemindersLastMigratedSystemVersion = 21F79;
+    SelectedEvents =     {
+        iCal =         (
+            "EB47F5EC-AAA5-46D6-897D-8C387714668C"
+        );
+    };
+    TabbedWindowGroups =     (
+    );
+    "display birthdays calendar" = 1;
+    "first minute of day time range" = 0;
+    "first shown minute of day" = "559.1397849462365";
+    "iCal version" = 134217728;
+    "last calendar view description" = Monthly;
+    "last minute of day time range" = 1440;
+    "last selected calendar list item" = "891D2A0C-CF5D-4A16-AF58-5F87FACA962A";
+    lastViewsTimeZone = "America/Fortaleza";
+    privacyPaneHasBeenAcknowledgedVersion = 4;
+    "view rects" =     {
+    };
+}

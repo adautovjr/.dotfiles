@@ -1,0 +1,38 @@
+{
+    NSColorPanelMode = 6;
+    NSColorPickerPreferredRGBEntryMode = 2;
+    NSNavLastRootDirectory = "~/Documents";
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 228.000000, 310.000000, NO, NO",
+        "0.000000, 311.000000, 228.000000, 48.000000, NO, NO"
+    );
+    "NSToolbar Configuration CommonToolbar_v5.1" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame NSColorPanel" = "304 298 228 335 0 0 1728 1079 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "-33 -144 365 188 0 0 1728 1079 ";
+    "NSWindow Frame PVInspectorPanel" = "1331 806 320 273 0 0 1728 1079 ";
+    PVContactSheetThumbnailSize = 120;
+    "PVInspectorPanelForDoctype_ImageDocument" = PVInspectorImageFileInfo;
+    "PVInspectorPanelForDoctype_NoDocument" = PVInspectorNoDocument;
+    PVInspectorWindowOpenOnStart = 0;
+    PVPDFLastSidebarWidth = 205;
+    "com.apple.AnnotationKit.arrowHeadStyle" = 2;
+    "com.apple.AnnotationKit.brushStyle" = 0;
+    "com.apple.AnnotationKit.fillColor" = {length = 242, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b8 };
+    "com.apple.AnnotationKit.font" = {length = 496, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000017a };
+    "com.apple.AnnotationKit.hasShadow" = 0;
+    "com.apple.AnnotationKit.highlightStyle" = 765200;
+    "com.apple.AnnotationKit.strokeColor" = {length = 260, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000c7 };
+    "com.apple.AnnotationKit.strokeIsDashed" = 0;
+    "com.apple.AnnotationKit.strokeWidth" = 5;
+    "com.apple.AnnotationKit.textAttributes" = {length = 285, bytes = 0x7b5c7274 66315c61 6e73695c 616e7369 ... 205c6366 3220617d };
+    "com.apple.AnnotationKit.userDefaultsVersion" = 1;
+    "com.apple.imagekit.lastresolution" = 72;
+}

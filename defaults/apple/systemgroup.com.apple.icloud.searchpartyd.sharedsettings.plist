@@ -1,0 +1,7 @@
+{
+    SPBeaconZoneCreationDateKey = "2023-05-31 02:01:50 +0000";
+    "SPSelfBeaconUUIDKey-00006000-0008316E0189801E" = "A8BA6BE4-0D65-40F8-A152-372E5A05A461";
+    SPSettingsServiceDisabledReasonsKey =     (
+    );
+    "SystemInfoDynamic.lastAutomaticTimeValue" = 1;
+}

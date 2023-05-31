@@ -1,0 +1,8 @@
+{
+    MetadataSyncState =     {
+        AttemptCount = 0;
+        BuildVersion = "Version 12.4 (Build 21F79)";
+        Date = "2023-05-19 21:23:40 +0000";
+        Status = 2;
+    };
+}

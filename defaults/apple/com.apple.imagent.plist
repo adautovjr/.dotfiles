@@ -1,0 +1,10 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585404;
+    CloudKitAccountInfoCache =     {
+        e73f1a69bd500653ddea8bc2c3b850aacedffc2ea6e124d96ce052bf3eb55df0 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    IMChatVocabularyUpdaterDidPerformInitialUpdateKey = 1;
+}

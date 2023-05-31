@@ -1,0 +1,30 @@
+{
+    NSNavLastRootDirectory = "~/Documents/projects/personal/Godot-Multiplayer-Shooter/dist";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    "NSWindow Frame NSNavPanelAutosaveName" = "464 473 800 448 0 0 1728 1079 ";
+    bookmarks =     {
+        "/Users/adautoguedes/Documents/projects/personal/Godot-Multiplayer-Shooter/dist" = {length = 836, bytes = 0x626f6f6b 44030000 00000410 30000000 ... 04000000 00000000 };
+        "/Users/adautoguedes/Downloads" = {length = 660, bytes = 0x626f6f6b 94020000 00000410 30000000 ... 04000000 00000000 };
+    };
+    "com.fiplab.flcore.adDisplayCounts" =     {
+        "app-counts" =         {
+            "com.fiplab.diskaid" = 1;
+        };
+    };
+    "com.fiplab.flcore.apiURLString" = "https://api.fiplabcdn.com/";
+    "com.fiplab.flcore.firstLaunch" = 1;
+    "com.fiplab.flcore.intervals" = "";
+    "com.fiplab.flcore.lastUpdateVersion" = "1.5";
+    "com.fiplab.flcore.pageVersions" =     {
+        "apps_version" = "18.141";
+        "campaign_page_version" = "54.6";
+        "gad_version" = "-1";
+        "rapp_version" = "18.2044";
+        "rating_page_version" = "43.0";
+        "sad_version" = "18.733";
+    };
+    "com.fiplab.flcore.totalLaunches" = 3;
+    "com.fiplab.flcore.updateLaunches" = 3;
+    "com.fiplab.flcore.updates" = 1;
+    "com.fiplab.flcore.versionLaunchDate" = "2022-05-09 18:06:40 +0000";
+}

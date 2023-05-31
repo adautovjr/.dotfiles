@@ -1,0 +1,12 @@
+{
+    "KSCKDidSetupRecordZoneProd-TextReplacements" = 1;
+    "KSCKSubscriptionProd-TextReplacements" = 1;
+    KSDidMigrateToCloudKitOnCloud = 1;
+    "KSDidPushAllLocalRecordsOnce-2" = 1;
+    "KSDidPushMigrationStatusOnce-2" = 1;
+    "KSLastKnownUserID-TextReplacements" = "_ee36679c3767a42cde273fa9fa9abf5b";
+    "KSSampleShortcutWasImported_CK" = 1;
+    kDidMigrateToUUIDRecordName = 0;
+    kTRCKLastSyncTime = "2023-05-30 18:49:48 +0000";
+    kTRCKSyncCount = 1;
+}

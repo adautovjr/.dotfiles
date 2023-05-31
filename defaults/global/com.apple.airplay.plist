@@ -1,0 +1,5 @@
+{
+    accessControlType = 2;
+    p2pAllow = 1;
+    pairPIN = 1;
+}

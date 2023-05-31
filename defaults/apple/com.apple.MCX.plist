@@ -1,0 +1,78 @@
+{
+    ".GlobalPreferences" =     {
+    };
+    "com.allcovered.pacserver" =     {
+    };
+    "com.apple.AdLib" =     {
+    };
+    "com.apple.AppleFileServer" =     {
+    };
+    "com.apple.DiscRecording" =     {
+    };
+    "com.apple.MCX" =     {
+    };
+    "com.apple.MCX.FileVault2" =     {
+    };
+    "com.apple.NetworkBrowser" =     {
+    };
+    "com.apple.Safari" =     {
+    };
+    "com.apple.SetupAssistant.managed" =     {
+    };
+    "com.apple.ShareKitHelper" =     {
+    };
+    "com.apple.SoftwareUpdate" =     {
+    };
+    "com.apple.SubmitDiagInfo" =     {
+    };
+    "com.apple.SystemConfiguration" =     {
+    };
+    "com.apple.TCC.configuration-profile-policy" =     {
+    };
+    "com.apple.Terminal" =     {
+    };
+    "com.apple.applicationaccess" =     {
+    };
+    "com.apple.applicationaccess.new" =     {
+    };
+    "com.apple.appstore" =     {
+    };
+    "com.apple.coremediaio.support" =     {
+    };
+    "com.apple.dashboard" =     {
+    };
+    "com.apple.desktop" =     {
+    };
+    "com.apple.dock" =     {
+    };
+    "com.apple.fileproviderd" =     {
+    };
+    "com.apple.finder" =     {
+    };
+    "com.apple.gamed" =     {
+    };
+    "com.apple.loginwindow" =     {
+    };
+    "com.apple.mDNSResponder" =     {
+    };
+    "com.apple.notificationsettings" =     {
+    };
+    "com.apple.preferences.users" =     {
+    };
+    "com.apple.screensaver" =     {
+    };
+    "com.apple.security.FDERecoveryKeyEscrow" =     {
+    };
+    "com.apple.smb.server" =     {
+    };
+    "com.apple.system-extension-policy" =     {
+    };
+    "com.apple.systempreferences" =     {
+    };
+    "com.apple.systemuiserver" =     {
+    };
+    "com.apple.webcontent-filter" =     {
+    };
+    "com.paloaltonetworks.GlobalProtect.client" =     {
+    };
+}

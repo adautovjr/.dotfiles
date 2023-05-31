@@ -1,0 +1,9 @@
+{
+    IMCSBypassIndexVersionCheckV2 = 1;
+    IMCSDoNotIndex =     (
+    );
+    IMCSIdxProductVersion = "12.4";
+    IMCSIdxVersion = 21;
+    IMCSIndexLastIndexDate = "2023-05-30 21:09:49 +0000";
+    IMCSLastIndexedRowID = 1;
+}

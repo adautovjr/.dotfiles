@@ -1,0 +1,17 @@
+{
+    displayOrder =     (
+        "com.apple.share.System.add-to-safari-reading-list",
+        "com.apple.share.Mail.compose",
+        "com.apple.messages.ShareExtension",
+        "com.apple.share.AirDrop.send",
+        "com.apple.Notes.SharingExtension",
+        "com.apple.share.System.add-to-iphoto",
+        "com.apple.share.CopyLink.invite",
+        "com.apple.reminders.sharingextension",
+        "com.apple.share.CloudSharing.invite",
+        "com.apple.iphonesimulator.ShareExtension",
+        "com.aptonic.Dropzone4.Dropzone-Share-Extension-Non-MAS",
+        "com.apple.iBooksX.SharingExtension"
+    );
+    userHasOrdered = 1;
+}

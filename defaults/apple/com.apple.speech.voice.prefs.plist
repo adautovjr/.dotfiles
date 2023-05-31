@@ -1,0 +1,52 @@
+{
+    SpeechDataInstallationLog =     {
+        "VOICEID:com.apple.speech.synthesis.voice.custom.siri.aaron.premium" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.custom.siri.aaron.premium";
+            LastInitiator = SpeechDataDownloadInitiatorSiri;
+            SuccessfulDate = "671637590.121704";
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.custom.siri.catherine.premium" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.custom.siri.catherine.premium";
+            LastInitiator = SpeechDataDownloadInitiatorSiri;
+            SuccessfulDate = "671641011.46617";
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.custom.siri.damon.premium" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.custom.siri.damon.premium";
+            LastInitiator = SpeechDataDownloadInitiatorSiri;
+            SuccessfulDate = "671638657.7435369";
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.custom.siri.sandra.premium" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.custom.siri.sandra.premium";
+            LastInitiator = SpeechDataDownloadInitiatorSiri;
+            SuccessfulDate = "702320699.147476";
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.custom.siri.simone.premium" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.custom.siri.simone.premium";
+            LastInitiator = SpeechDataDownloadInitiatorSiri;
+            SuccessfulDate = "671638439.240013";
+        };
+    };
+    SpeechDataPurgeList =     {
+    };
+    VoiceStatistics =     {
+        LastMessageTracerTimeStamp = "693940327.43793";
+        PerVoiceTable =         {
+            "com.apple.speech.synthesis.voice.Alex.compact" =             {
+                LastUseTimeStamp = "671984737.264522";
+                UsageCount = 5;
+            };
+            "com.apple.speech.synthesis.voice.custom.siri.aaron.compact" =             {
+                LastUseTimeStamp = "671637531.203768";
+                UsageCount = 2;
+            };
+            "com.apple.speech.synthesis.voice.custom.siri.aaron.premium" =             {
+                LastUseTimeStamp = "671638238.453554";
+                UsageCount = 2;
+            };
+            "com.apple.speech.synthesis.voice.custom.siri.catherine.premium" =             {
+                LastUseTimeStamp = "693940327.43793";
+                UsageCount = 101;
+            };
+        };
+    };
+}

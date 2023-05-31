@@ -1,0 +1,13 @@
+{
+    LegacyShortcutsZoneSubscriptionUnsubscribed = 1;
+    WFDefaultShortcutsVersion = 2;
+    WFDidUnconflictShortcuts = 1;
+    WFLastSyncedFlagsHash = 3735928557;
+    WFRecentDocuments =     (
+        "DECB4004-C1DA-40A2-9D24-C857B86592FC",
+        "CF3648C9-9D99-4DD4-B9B4-506AF634C038",
+        "DD92A013-3652-48D5-B8CA-1A124B78484D",
+        "F911FBB2-9794-42C6-BEB4-893F2C0A187A"
+    );
+    WFServicesShortcutsMigrated = 1;
+}

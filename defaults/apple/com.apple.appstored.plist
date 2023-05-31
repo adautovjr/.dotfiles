@@ -1,0 +1,36 @@
+{
+    AdPlatformsStatusConditionSetDate = "2023-05-12 14:51:29 +0000";
+    ArcadeDeviceGUID = F4D4888ED805;
+    ArcadeDeviceID = "8A231827-B45C-41C8-B2FF-9B4A38B03CDB";
+    ArcadeDeviceIDCreationDate = "2022-07-11 11:45:44 +0000";
+    ArcadePayoutDeviceID = "474150CA-0463-4DED-9D96-762EFBFA9D5A";
+    ArcadePayoutIntervalStartDate = "2023-05-19 16:10:27 +0000";
+    ArcadePayoutLaunchesIntervalStartDate = "2023-05-19 16:10:27 +0000";
+    ArcadePayoutResetDate = "2023-06-04 03:00:00 +0000";
+    "ArcadeSubscriptionInfo:10390736781" =     {
+        subscriptionAdamId = 1479623483;
+        subscriptionIntroPriceType = null;
+        subscriptionIsSpecialAccess = 0;
+        subscriptionState = Paid;
+    };
+    ArcadeSubscriptionState = Paid;
+    ArcadeSummaryIntervalStartDate = "2023-05-19 16:10:27 +0000";
+    ArcadeSummaryLaunchesIntervalStartDate = "2023-05-19 16:10:27 +0000";
+    BadgeCount = 4;
+    CrossfireIntervalStartDate = "2023-05-29 03:28:59 +0000";
+    CrossfireLaunchesIntervalStartDate = "2023-05-29 03:28:59 +0000";
+    LastOSBuildVersion = 21F79;
+    LastOSInstallDate = "2022-07-17 03:07:50 +0000";
+    LastUpdatesCheck = "2023-05-30 17:42:35 +0000";
+    LastUpdatesPerform = "2023-05-30 17:42:35 +0000";
+    LastWeeklyAnalyticsPostDate = "2023-05-30 21:46:42 +0000";
+    OncePerBoot =     {
+        fsEntitlements = 1;
+    };
+    "TargetDateAd Platforms Status Conditions" = "2023-06-21 18:32:15 +0000";
+    TargetDateArcadePostPayout = "2023-05-31 05:42:06 +0000";
+    TargetDateArcadePostSummary = "2023-05-31 05:42:05 +0000";
+    TargetDateCrossfirePost = "2023-05-31 05:47:33 +0000";
+    TargetDateSbsync = "2023-05-31 19:20:04 +0000";
+    WelcomeNotificationLastAppStoreConnectionProductVersion = "12.4";
+}

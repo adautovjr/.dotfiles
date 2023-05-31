@@ -1,0 +1,34 @@
+{
+    AppleCurrentKeyboardLayoutInputSourceID = "com.apple.keylayout.Brazilian-Pro";
+    AppleDictationAutoEnable = 1;
+    AppleEnabledInputSources =     (
+                {
+            InputSourceKind = "Keyboard Layout";
+            "KeyboardLayout ID" = 72;
+            "KeyboardLayout Name" = "Brazilian - Pro";
+        },
+                {
+            "Bundle ID" = "com.apple.CharacterPaletteIM";
+            InputSourceKind = "Non Keyboard Input Method";
+        },
+                {
+            "Bundle ID" = "com.apple.PressAndHold";
+            InputSourceKind = "Non Keyboard Input Method";
+        },
+                {
+            "Bundle ID" = "com.apple.inputmethod.ironwood";
+            InputSourceKind = "Non Keyboard Input Method";
+        }
+    );
+    AppleSelectedInputSources =     (
+                {
+            InputSourceKind = "Keyboard Layout";
+            "KeyboardLayout ID" = 72;
+            "KeyboardLayout Name" = "Brazilian - Pro";
+        },
+                {
+            "Bundle ID" = "com.apple.PressAndHold";
+            InputSourceKind = "Non Keyboard Input Method";
+        }
+    );
+}

@@ -1,0 +1,48 @@
+{
+    DefaultExposeTab = ExposeTab;
+    DidShowPrefBundleIDs =     (
+        "com.apple.preferences.softwareupdate",
+        "com.apple.preferences.AppleIDPrefPane"
+    );
+    DisableAutoLoginButtonIsHidden = 1;
+    "ICQ_iCloudFirstRunNotificationShown" = "000662-08-d44d94a3-22d6-48bf-81f1-bc6dde40d5b7";
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavLastRootDirectory = "~/Documents";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    "NSOutlineView Items DSKSourceOfPicturesOutlineView" =     (
+        DSKAppleRootSource
+    );
+    NSQuitAlwaysKeepsWindows = 0;
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 258.000000, NO, NO",
+        "0.000000, 259.000000, 224.000000, 48.000000, NO, NO"
+    );
+    "NSSplitView Subview Frames keyboard.shortcuts.splitview" =     (
+        "0.000000, 0.000000, 171.000000, 239.000000, NO, NO",
+        "180.000000, 0.000000, 405.000000, 239.000000, NO, NO"
+    );
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame Main Window Frame SystemPreferencesApp 8.0" = "394 404 668 515 0 0 1728 1079 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "-11 342 800 448 0 0 1728 1079 ";
+    SecurityPrefTab = Privacy;
+    ShowAllMode = 0;
+    SoundTab = output;
+    ThirdPartyCount = 0;
+    "com.apple.PreferenceSync.ExcludeSyncKeys" =     (
+        "Main Window Frame SystemPreferencesApp 8.0",
+        "com.apple.preference.keyboard.lastselectedtab"
+    );
+    "com.apple.SecurityPref.Privacy.LastSourceSelected" = 0;
+    "com.apple.datetimepref.lastselectedtab" = TimeZone;
+    "com.apple.dtandsspref.lastselectedtab" = "com.apple.preference.desktopscreeneffect.desktop";
+    "com.apple.preference.battery" =     {
+        hasBeenWarnedAboutEnergyUsage = 1;
+    };
+    "com.apple.preference.keyboard.lastselectedtab" = hotkeysTabIdentifier;
+    "com.apple.preferences.accounts.outline.usersparent" = 1;
+    "com.apple.preferences.sharing.selectedservice" = 0;
+    kAOSUIProfilePictureCropRect = "{{91, 138}, {236, 236}}";
+    "trackpad.lastselectedtab" = 0;
+}

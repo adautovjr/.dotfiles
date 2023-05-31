@@ -1,0 +1,25 @@
+{
+    helpBubble =     (
+        "Need Help?",
+        "This tool at HP is designed to help with new employee onboarding. If you have issues, please email support@allcovered.com"
+    );
+    pathToPlistFile = "/Users/adautoguedes/Library/Preferences/menu.nomad.DEPNotifyUserInput.plist";
+    registrationButtonLabel = "Register Your Mac";
+    registrationMainTitle = "Register Mac at HP";
+    registrationPicturePath = "/Users/adautoguedes/Library/Application Support/com.jamfsoftware.selfservice.mac/Documents/Images/brandingimage.png";
+    statusTextAlignment = center;
+    textField1Bubble =     (
+        "Computer Name Field",
+        "The computer name is important for creation of the machine certificate. Please type in your HP Domain UserName ie. LastFirs and computer number. If this is your only Mac use 1. If you have others please incement by one."
+    );
+    textField1IsOptional = false;
+    textField1Label = "HP Username & Computer Number";
+    textField1Placeholder = smithjoh2;
+    textField2Bubble =     (
+        "Email address",
+        "This field is used to ensure the correct email is assocated with your computer."
+    );
+    textField2IsOptional = false;
+    textField2Label = "HP Email";
+    textField2Placeholder = "john.smith@hp.com";
+}

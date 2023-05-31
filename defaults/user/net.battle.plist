@@ -1,0 +1,11 @@
+{
+    "EncryptionKey/CacheDatabase" = {length = 48, bytes = 0x9e2e4eed 58e5e953 f5542f30 f7145ee2 ... 72a53155 f4d0923d };
+    "Launch Options/BNA/CONNECTION_STRING_CN" = "cn.actual.battle.net";
+    "Launch Options/BNA/CONNECTION_STRING_CXX" = "cn-ptr.actual.battle.net";
+    "Launch Options/BNA/CONNECTION_STRING_EU" = "eu.actual.battle.net";
+    "Launch Options/BNA/CONNECTION_STRING_KR" = "kr.actual.battle.net";
+    "Launch Options/BNA/CONNECTION_STRING_US" = "us.actual.battle.net";
+    "Launch Options/BNA/CONNECTION_STRING_XX" = "test.actual.battle.net";
+    "Launch Options/URI_TOKEN" = 0d1f654f;
+    "Launcher/Locale" = ptBR;
+}

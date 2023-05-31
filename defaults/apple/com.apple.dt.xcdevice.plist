@@ -1,0 +1,5 @@
+{
+    DVTForceExternalBehavior = 1;
+    DVTIgnoredDevices =     (
+    );
+}

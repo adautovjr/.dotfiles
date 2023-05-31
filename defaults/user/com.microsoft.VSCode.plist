@@ -1,0 +1,9 @@
+{
+    AppleTextDirection = 1;
+    NSForceRightToLeftWritingDirection = 0;
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavLastRootDirectory = "~/Downloads";
+    NSNavPanelExpandedSizeForOpenMode = "{1116, 448}";
+    NSTreatUnknownArgumentsAsOpen = NO;
+    "NSWindow Frame NSNavPanelAutosaveName" = "-408 -248 1116 448 0 0 1728 1079 ";
+}

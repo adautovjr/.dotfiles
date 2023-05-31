@@ -1,0 +1,71 @@
+{
+    "Account Status Server Change Token" = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000df };
+    Accounts =     {
+        "7D958500-E1CC-44CF-9B40-AB0B17D8BFD8" =         {
+            "Ace Host" = br11sa;
+            "Build Version" = 21F79;
+            "Connection Policy" =             {
+                "$class" = ConnectionPolicy;
+                "$group" = "com.apple.ace.system";
+                "$v" = "12.4";
+                disableMPTCP = 0;
+                enableOptimisticDNS = 1;
+                enableTCPNagle = 0;
+                enableTLS13 = 0;
+                enableTLS13ZeroRTT = 0;
+                enableTcpFastOpen = 0;
+                enabled = 1;
+                globalTimeout = 0;
+                mptcpFallbackPort = "-2147483648";
+                policyId = "odns_odns-on_v1";
+                routes =                 (
+                );
+                timeToLive = 86400;
+            };
+            "Connection Policy Date" = "2023-05-30 18:50:50 +0000";
+            "Connection Policy Hostname" = "https://guzzoni.apple.com";
+            "Last Assistant Data Anchor" = 5403de4a1a21120a21fe086d248f3710250ef2b3;
+            "Validation Expiration" = "2023-06-01 16:24:44 +0000";
+            "Validation Version" = 1;
+        };
+    };
+    "Borealis Education Header Display Count" = 5;
+    "Country Code" = BR;
+    "Experiment Identifierinvocation_feedback_experiment" = "8D1FC7EE-670E-4908-8A2A-B01A620C3A23";
+    "Experiment Identifiersiri_vox_sounds_experiment" = "B80D0930-ED78-477C-ADEB-CE89E3B5B697";
+    "Experiment Identifiersiri_vox_tap_to_siri_behavior_experiment" = "39885E31-2974-4BBB-B35A-1FDDBE987074";
+    "Flush Session Tickets Cache" = 0;
+    "Has Set Up Account Status Subscription" = 1;
+    "Has Set Up Key Value Subscription" = 1;
+    "Has Set Up MultiUser Shared Record Subscription" = 1;
+    "Has Set Up Voice Trigger Subscription" = 1;
+    "Initial Interstitial Delay" = "3.5";
+    "Initial Interstitial Delay - stark" = 5;
+    "Initial Interstitial Delay for VoiceTrigger One-Shot without Audio Ducking" = "1.75";
+    "Key Value Server Change Token v2" = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000df };
+    "Last Known Analytics Store State" = 0;
+    "Last Metrics Upload Date" = "2023-05-30 17:55:41 +0000";
+    "Last client experiment check date" = "2023-05-31 01:35:07 +0000";
+    "Last server experiment check date" = "2023-05-31 01:35:07 +0000";
+    "MultiUser Shared Data Needs Sync" = 1;
+    "MultiUser Shared Data Server Change Token" = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000df };
+    "Myriad Device Adjust" = "-10";
+    "Myriad Device Class" = 9;
+    "Myriad Device Delay" = 0;
+    "Myriad Device Trump Delay" = "1.75";
+    "Myriad VTEndtimeDistanceThreshold" = "0.5";
+    "PHS Asset Manifest" =     {
+    };
+    "PHS Asset Manifest V2" =     {
+        "MacBookPro18,1" =         {
+            languages =             (
+                "en-US"
+            );
+            modificationDate = "2023-05-31 01:35:19 +0000";
+            productType = "MacBookPro18,1";
+        };
+    };
+    "Server Has Provisioned Myriad" = 1;
+    "Voice Trigger Needs Sync" = 1;
+    "Voice Trigger Server Change Token" = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000df };
+}

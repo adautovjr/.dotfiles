@@ -1,0 +1,9 @@
+{
+    classes =     {
+        "com.apple.pivtoken" = "51440188-504C-4A16-9462-5EA29A592DC1";
+        "com.hp.DigitalBadge.SoftToken" = "614911EF-554C-4FF5-8D54-760E8A398C48";
+    };
+    tokens =     {
+        "com.hp.DigitalBadge.SoftToken:CCCC034C560C44DCA16AC1696E3CC44D" = {length = 6091, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000164f };
+    };
+}

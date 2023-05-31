@@ -1,0 +1,15 @@
+{
+    NSDisabledCharacterPaletteMenuItem = 1;
+    NSNavLastRootDirectory = "~/Documents/projects/personal/doomsdayarmsdealer/assets";
+    NSNavPanelExpandedSizeForOpenMode = "{1168, 798}";
+    NSNavPanelExpandedSizeForSaveMode = "{800, 448}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    "NSWindow Frame NSNavPanelAutosaveName" = "0 0 800 448 0 0 1728 1079 ";
+    VMMemoryUsagePercent642022 = 70;
+    VMMemoryUsagePercent642023 = 70;
+    "butler.gen_ai_fill" = 1;
+    "butler.synthetic_fill_first_layer" = 1;
+    "paletteEnhancedFontTypeKey 2022" = 1;
+    "uiLanguageKey 2022" = "en_US";
+    "uiLanguageKey 2023" = "en_US";
+}

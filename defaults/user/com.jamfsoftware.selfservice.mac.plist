@@ -1,0 +1,16 @@
+{
+    "NSWindow Frame Self Service" = "406 164 1085 685 0 0 1728 1079 ";
+    "com.jamfsoftware.selfservice.brandinginfo" =     {
+        appName = "Self Service";
+        iconURL = "https://achp.jamfcloud.com//stored-images?id=1";
+    };
+    "com.jamfsoftware.selfservice.featureflags" =     {
+        "BROWSE_EXPAND_CONTRACT_ENABLED" = 1;
+        "ERROR_MODAL_SHOWN" = 0;
+        "HISTORY_VIEW_SHOWN" = 1;
+        "HOME_VIEW_SHOWN" = 1;
+        "NOTIFICATIONS_VIEW_SHOWN" = 1;
+        "SHOW_ERRORS_IN_NOTIFICATION_CENTER" = 1;
+        "USE_JAMF_BINARY_ENABLED" = 1;
+    };
+}

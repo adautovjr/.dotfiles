@@ -1,0 +1,26 @@
+{
+    "/Users/adautoguedes/Library/Application Support/CallHistoryTransactions/transactions.log" = 0;
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585405;
+    CloudKitAccountInfoCache =     {
+        d36194539768b06edda15146d543802d046f53e3ddc4b24050e485fb73b7bfdd = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    SyncHistory =     (
+        "2023-05-27 13:10:47 +0000",
+        "2023-05-23 14:10:22 +0000",
+        "2023-05-18 17:23:10 +0000",
+        "2023-05-14 16:15:16 +0000",
+        "2023-05-14 16:00:14 +0000",
+        "2023-05-13 18:57:41 +0000",
+        "2023-05-13 15:31:28 +0000",
+        "2023-05-09 17:14:22 +0000"
+    );
+    "com.apple.callhistory.cloud-storage2" =     {
+        previousServerChangeTokenData = {length = 293, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ed };
+        transactionRecordZoneFetchDate = "2023-05-23 17:30:34 +0000";
+        transactionRecordZoneSubscriptionCreationDate = "2022-11-12 03:34:34 +0000";
+    };
+    kCHSyncInProgressKey = "2023-05-23 17:30:33 +0000";
+}

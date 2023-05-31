@@ -1,0 +1,4 @@
+{
+    RunCompletelyDisabled = NO;
+    SyncServicesResetWorldRunOnce = 1;
+}

@@ -1,0 +1,8 @@
+{
+    "com.apple.DiagnosticExtensions.extensionTracker" =     {
+        XPCActivity =         {
+            EarliestExpirationDate = "4001-01-01 00:00:00 +0000";
+            XPCActivityScheduledDate = "4001-01-01 02:00:00 +0000";
+        };
+    };
+}

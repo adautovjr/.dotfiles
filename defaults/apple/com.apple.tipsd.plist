@@ -1,0 +1,25 @@
+{
+    ConsecutiveNotificationsCount = 3;
+    DeliveryEventIdentifierToDeliveryEventMap = {length = 1290, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000040e };
+    DeliveryInfoVersion = 93c6896f754a03411af465c9f2c13f6b7a997aa25af2e6900d25024dc4eeecfe;
+    DiscoverabilityDeliveryInfoMap = {length = 2217, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000071b };
+    Experiment = {length = 274, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d7 };
+    "TPSAnalyticsHistoricTipsDataProcessor_DateLastRun" = {length = 223, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000a8 };
+    TPSAnalyticsStore =     {
+        TPSLastNotificationTime = "2022-04-18 17:34:24 +0000";
+        TPSNotificationCount = 3;
+    };
+    "TPSAnalyticsUsageEventsProcessor_DateLastRun" = {length = 223, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000a8 };
+    TPSDCloudHintDisplayed =     (
+        "CID-sharescreen-share-screen-during",
+        "CID-essentials-collection-get-mac-discover"
+    );
+    TPSLastMajorVersion = 12;
+    TPSLastNotificationDate = "2022-04-18 17:34:24 +0000";
+    TPSOfflineLastProcessedRemoteContentIdentifier = "en-93c6896f754a03411af465c9f2c13f6b7a997aa25af2e6900d25024dc4eeecfe";
+    TPSTipsAppInstalled = 1;
+    TPSWaitingToShowWelcomeNotification = 0;
+    TPSWelcomeNotificationReminderState = 1;
+    TPSWelcomeNotificationStartDate = "2022-04-05 20:29:26 +0000";
+    TPSWelcomeNotificationViewedVersion = 12;
+}

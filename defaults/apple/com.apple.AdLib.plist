@@ -1,0 +1,6 @@
+{
+    allowApplePersonalizedAdvertising = 1;
+    allowIdentifierForAdvertising = 1;
+    "partiality-segment" = "https://partiality.itunes.apple.com/WebObjects/MZPartiality.woa/wa/IAD/segment";
+    personalizedAdsMigrated = 1;
+}

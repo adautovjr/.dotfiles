@@ -1,0 +1,19 @@
+{
+    bypassAvailability = 0;
+    debugUI = 0;
+    enableAlbumsDomain = 1;
+    enableArtDomain = 1;
+    enableBooksDomain = 1;
+    enableCoarseClassification = 1;
+    enableLandmarkDomain = 1;
+    enableNatureDomain = 1;
+    enablePetsDomain = 1;
+    enablePhotosApp = 1;
+    enableQuickLook = 1;
+    enableSafariApp = 1;
+    enableScreenshots = 1;
+    firstTimeExperience = 1;
+    initialized = 1;
+    sendLocationInfo = 1;
+    sendOCRText = 1;
+}

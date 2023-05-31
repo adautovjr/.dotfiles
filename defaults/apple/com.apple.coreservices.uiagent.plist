@@ -1,0 +1,8 @@
+{
+    CSUIHasSafariBeenLaunched = 1;
+    CSUIHaveCenteredGatekeeperProgressWindow = 1;
+    CSUILastOSVersionWhereSafariRecommendationWasMade = "12.1";
+    CSUIRecommendSafariBackOffInterval = 259200;
+    CSUIRecommendSafariNextNotificationDate = "2022-04-08 20:29:38 +0000";
+    "NSWindow Frame CSUIGatekeeperProgressWindow" = "664 782 400 70 0 0 1728 1079 ";
+}

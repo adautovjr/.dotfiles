@@ -1,0 +1,58 @@
+{
+    DVTDownloadableAutomaticUpdate = 0;
+    DVTFontAndColorLastUpdatedToolsVersion = "13.3.1";
+    DVTIgnoredDevices =     (
+    );
+    IBAppliesAutoResizingRulesWhileResizing = 0;
+    IBPreferencesMigrated = 1;
+    "IDEAnalyticsMetricsNotifications.AnalyticsMetricsNotificationsController.lastRefreshAttemptDate" = "2023-05-31 01:37:21 +0000";
+    IDEAppStatisticsXcodeVersionMetricsHistoryStorage =     {
+        13E500a = "2022-04-13 22:59:08 +0000";
+        13F100 = "2023-05-31 01:35:15 +0000";
+    };
+    IDEDefaultPrimaryEditorFrameSizeForPaths =     {
+        "file:///Users/adautoguedes/Downloads/Banco%20de%20Dados/05%20Implementac%CC%A7a%CC%83o/link-para-github.md" =         {
+            height = 750;
+            width = 800;
+        };
+        "file:///Users/adautoguedes/Downloads/agent.py" =         {
+            height = 750;
+            width = 800;
+        };
+        "file:///Users/adautoguedes/Downloads/openid" =         {
+            height = 750;
+            width = 800;
+        };
+        "file:///Users/adautoguedes/Library/Preferences/com.apple.finder.plist" =         {
+            height = 750;
+            width = 800;
+        };
+    };
+    IDEExtensionsBuiltPriorToXcode12 =     (
+    );
+    IDEKeyBindingCurrentPreferenceSet = "Default.idekeybindings";
+    IDEKeyBindingExcludedPreferenceSet =     (
+        Default
+    );
+    IDELastLSRegisterHashes =     {
+        "/Applications/Xcode.app/Contents/Applications/Accessibility Inspector.app" = {length = 20, bytes = 0xcd7916362729f257d5791e567dec9e15e9a57435};
+        "/Applications/Xcode.app/Contents/Applications/FileMerge.app" = {length = 20, bytes = 0x2e210a5f40b589739647c98d5302f8b085e7e433};
+        "/Applications/Xcode.app/Contents/Applications/Instruments.app" = {length = 20, bytes = 0x1ede2fac647b061dd42ec234f7a3fd9e969a7dc2};
+        "/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app" = {length = 20, bytes = 0x35073999ed8f30ec0e58e242784920a9e0dbd794};
+        "/System/Library/CoreServices/CoreTypes.bundle" = {length = 20, bytes = 0xae828c7a54ed3c8b9ed471e7d4d2ec6a891aa710};
+    };
+    IDERecentEditorDocuments =     (
+        {length = 1052, bytes = 0x626f6f6b 1c040000 00000410 30000000 ... 08020000 00000000 },
+        {length = 912, bytes = 0x626f6f6b 90030000 00000410 30000000 ... ac010000 00000000 },
+        {length = 912, bytes = 0x626f6f6b 90030000 00000410 30000000 ... ac010000 00000000 },
+        {length = 1072, bytes = 0x626f6f6b 30040000 00000410 30000000 ... 1c020000 00000000 }
+    );
+    IDESourceControlKnownSSHHostsDefaultsKey =     {
+    };
+    IDEUserWantsToEnableDeveloperSystemPolicyMode = 0;
+    "IDE_CA_Daily_LastReport" = "671583240.450511";
+    "NSTableView Columns v3 PlistColumns" = {length = 586, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000019c };
+    "NSTableView Sort Ordering v2 PlistColumns" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b5 };
+    "NSTableView Supports v2 PlistColumns" = 1;
+    XCFontAndColorCurrentDarkTheme = "Default (Dark).xccolortheme";
+}

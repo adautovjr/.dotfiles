@@ -1,0 +1,30 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585404;
+    CloudKitAccountInfoCache =     {
+        244b64f59bb1f9c9f7e2492c46d075171f3355e94ba420c796fe2b7339edb7d6 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    ScreenTimeSyncDisabled = 1;
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/app/intentsActivityDate" = "2023-05-28 01:36:55 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/app/mediaUsageActivityDate" = "2023-05-31 01:58:32 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/app/webUsageActivityDate" = "2023-05-31 00:07:26 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/notification/usageActivityDate" = "2023-05-30 21:47:16 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/portrait/entityActivityDate" = "2023-05-24 09:22:02 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/portrait/topicActivityDate" = "2023-05-14 06:20:32 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/app/mediaUsageActivityDate" = "2023-05-31 01:58:32 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/app/webUsageActivityDate" = "2023-05-31 00:07:26 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/notification/usageActivityDate" = "2023-05-30 21:47:16 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/portrait/entityActivityDate" = "2023-05-24 09:22:02 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/portrait/topicActivityDate" = "2023-04-14 14:00:13 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidTombstoneEventsNotification:/portrait/entityActivityDate" = "2023-02-13 22:25:18 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidTombstoneEventsNotification:/portrait/topicActivityDate" = "2023-04-12 12:56:21 +0000";
+    "_DKThrottledActivityLasthandshake:76FCA2D8-0681-5C17-82A1-3C5235A8F775ActivityDate" = "2022-04-25 22:33:22 +0000";
+    "_DKThrottledActivityLasthandshake:9E14A96E-39E3-5884-9F27-EC11E52F8654ActivityDate" = "2023-05-20 12:24:20 +0000";
+    "_DKThrottledActivityLasthandshake:C3B138BC-15BE-5335-B54F-478840573CFFActivityDate" = "2023-05-22 16:47:42 +0000";
+    "_DKThrottledActivityLasthandshake:rapport:A0B806C8-E487-46D2-9D83-80DCF6105D0CActivityDate" = "2022-12-23 16:28:38 +0000";
+    "_DKThrottledActivityLasthandshake:rapport:B0100BD7-89D0-45E4-97AE-A48D4ED18DBDActivityDate" = "2022-11-12 01:35:57 +0000";
+    "_DKThrottledActivityLasthandshake:rapport:C7C45704-B1C2-4F11-8776-E56060571A27ActivityDate" = "2022-11-11 19:56:41 +0000";
+    "_DKThrottledActivityLasthandshake:rapport:F6D40F3F-40B6-4859-B9F7-AAADC0E6FAF3ActivityDate" = "2022-04-25 22:01:22 +0000";
+}

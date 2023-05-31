@@ -1,0 +1,44 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1649757320;
+    PLBackgroundJobServiceBundleRecordsHighPriorityKey =     (
+    );
+    PLBackgroundJobServiceBundleRecordsLowPriorityKey =     (
+        "/Users/adautoguedes/Pictures/Photos Library.photoslibrary"
+    );
+    PLBackgroundJobServiceBundleRecordsMediumPriorityKey =     (
+        "/Users/adautoguedes/Pictures/Photos Library.photoslibrary"
+    );
+    PLBackgroundJobServiceBundleRecordsVeryLowPriorityKey =     (
+    );
+    PLBackgroundMigrationPaths =     {
+    };
+    PLDeviceDataFeedbackDate = "2023-05-28 01:43:52 +0000";
+    "PLIncompleteMaintenanceTaskPaths.curatedlibraryprocessing" =     (
+    );
+    "PLIncompleteMaintenanceTaskPaths.periodicmaintenance" =     (
+    );
+    PLLibraryBookmarkManagerBookmarksByPath =     {
+        "/Users/adautoguedes/Library/Photos/Libraries/Syndication.photoslibrary" = {length = 800, bytes = 0x626f6f6b 20030000 00000410 30000000 ... 04000000 00000000 };
+        "/Users/adautoguedes/Pictures/Photos Library.photoslibrary" = {length = 716, bytes = 0x626f6f6b cc020000 00000410 30000000 ... 04000000 00000000 };
+    };
+    PLSyndicationLastUpdateDate = "2023-05-30 21:09:48 +0000";
+    SystemLibraryPath = "/Users/adautoguedes/Pictures/Photos Library.photoslibrary";
+    "com.apple.photolibraryd.purgeNotification.3.purge_markers" =     {
+        "1B53B51D-2BB1-4B90-A748-093DF3BC4AEA" =         (
+            "A149803C-8672-436A-91BD-83898777659B",
+            200157
+        );
+    };
+    "com.apple.photolibraryd.purgeNotification.purge_markers" =     {
+        "1B53B51D-2BB1-4B90-A748-093DF3BC4AEA" =         (
+            "A149803C-8672-436A-91BD-83898777659B",
+            27142748
+        );
+    };
+    kPLPhotoStreamMPSStateHandledKey = 1;
+    kPLPhotoStreamMPSStateNextCheckDateKey = "2022-04-12 16:10:19 +0000";
+    kPLSharedAlbumNextPollDate = "2023-06-04 04:38:52 +0000";
+}

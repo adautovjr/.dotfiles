@@ -1,0 +1,7 @@
+{
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavLastRootDirectory = "~/Documents/projects/personal/hail2theking/assets/audio";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    NSTreatUnknownArgumentsAsOpen = NO;
+    "NSWindow Frame NSNavPanelAutosaveName" = "-250 -248 800 448 0 0 1728 1079 ";
+}

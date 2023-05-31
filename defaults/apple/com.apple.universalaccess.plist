@@ -1,0 +1,12 @@
+{
+    closeViewHotkeysEnabled = 0;
+    closeViewZoomDisplayID = 0;
+    closeViewZoomFactor = 1;
+    "com.apple.custommenu.apps" =     (
+        "net.kovidgoyal.kitty"
+    );
+    login = 0;
+    selectedTab = 15;
+    sessionChange = 0;
+    voiceOverOnOffKey = 0;
+}

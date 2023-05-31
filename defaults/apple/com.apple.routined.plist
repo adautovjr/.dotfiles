@@ -1,0 +1,33 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1684585406;
+    CloudKitAccountInfoCache =     {
+        e31ff936c76d25a6ae4de637f78db12705bbf9082c63f76793656b4d08672a3c = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    LastAssetContentVersionDownloaded = 11;
+    LastAssetUpdateDate = "2023-05-30 17:55:23 +0000";
+    "LastLaunchDate.routined" = "2023-05-31 01:54:00 +0000";
+    LastSuccessfulAssetUpdateDate = "2023-05-30 17:55:23 +0000";
+    LearnedLocationEngineTrainVisitsLastAttemptDate = "2023-05-30 21:16:41 +0000";
+    RTDefaultsABTestDeviceSeed = "E70AB91C-E649-45A0-BA9A-44E23989EB4A";
+    RTDefaultsLearnedLocationEngineLocationOfInterestMetricsSubmitted = 0;
+    RTDefaultsPersistenceMirroringManagerBackgroundLastExportDate = "2023-05-30 18:53:25 +0000";
+    RTDefaultsPersistenceMirroringManagerBackgroundLastImportDate = "2023-05-30 18:53:22 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.assets" = "2023-05-30 17:55:22 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.learnedLocationEngine.train" = "2023-05-30 21:16:41 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.locationAwareness.heartbeat" = "2023-05-31 01:54:01 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.metrics.daily" = "2023-05-30 17:53:56 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.persistence.mirroring.background" = "2023-05-30 18:53:07 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.persistence.mirroring.post-install" = "2022-07-18 14:10:44 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.purge" = "2023-05-30 18:52:01 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.assets" = "2023-05-30 17:55:23 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.learnedLocationEngine.train" = "2023-05-30 21:16:42 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.locationAwareness.heartbeat" = "2023-05-31 01:54:01 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.metrics.daily" = "2023-05-30 17:53:56 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.persistence.mirroring.background" = "2023-05-30 18:53:25 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.persistence.mirroring.post-install" = "2022-07-18 14:10:45 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.purge" = "2023-05-30 18:52:02 +0000";
+    learnedLocationEngineTrainLocationsOfInterestLastCompletionDate = "2023-05-30 18:54:02 +0000";
+}

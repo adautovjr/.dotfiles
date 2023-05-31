@@ -1,0 +1,1768 @@
+{
+    NSApplicationCrashOnExceptions = 0;
+    "PPr4:LIB:9bb2b3e1f4d9f768:5" =     {
+        browseHeight = 140;
+        browseVisible = 0;
+        columnSets =         (
+                        {
+                artwork = 0;
+                columns =                 (
+                                        {
+                        field = 1;
+                        moveable = 0;
+                        resizeable = 0;
+                        reversed = 0;
+                        sortable = 0;
+                        width = 45;
+                    },
+                                        {
+                        field = 125;
+                        moveable = 1;
+                        resizeable = 0;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 15;
+                    },
+                                        {
+                        field = 2;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 200;
+                    },
+                                        {
+                        field = 130;
+                        moveable = 1;
+                        resizeable = 0;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 27;
+                    },
+                                        {
+                        field = 13;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 59;
+                    },
+                                        {
+                        field = 4;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 125;
+                    },
+                                        {
+                        field = 3;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 125;
+                    },
+                                        {
+                        field = 8;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 80;
+                    },
+                                        {
+                        field = 154;
+                        moveable = 1;
+                        resizeable = 0;
+                        reversed = 1;
+                        sortable = 1;
+                        width = 27;
+                    },
+                                        {
+                        field = 22;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 1;
+                        sortable = 1;
+                        width = 45;
+                    }
+                );
+                order = 7;
+                reversed = 0;
+                sortColumn = 5;
+                viewGrouping = 0;
+                viewMode = 0;
+            },
+                        {
+                artwork = 0;
+                columns =                 (
+                                        {
+                        field = 126;
+                        moveable = 0;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 230;
+                    },
+                                        {
+                        field = 1;
+                        moveable = 0;
+                        resizeable = 0;
+                        reversed = 0;
+                        sortable = 0;
+                        width = 45;
+                    },
+                                        {
+                        field = 125;
+                        moveable = 1;
+                        resizeable = 0;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 15;
+                    },
+                                        {
+                        field = 2;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 200;
+                    },
+                                        {
+                        field = 130;
+                        moveable = 1;
+                        resizeable = 0;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 27;
+                    },
+                                        {
+                        field = 13;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 59;
+                    },
+                                        {
+                        field = 4;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 125;
+                    },
+                                        {
+                        field = 3;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 125;
+                    },
+                                        {
+                        field = 8;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 0;
+                        sortable = 1;
+                        width = 80;
+                    },
+                                        {
+                        field = 154;
+                        moveable = 1;
+                        resizeable = 0;
+                        reversed = 1;
+                        sortable = 1;
+                        width = 27;
+                    },
+                                        {
+                        field = 22;
+                        moveable = 1;
+                        resizeable = 1;
+                        reversed = 1;
+                        sortable = 1;
+                        width = 45;
+                    }
+                );
+                order = 5;
+                reversed = 0;
+                sortColumn = 0;
+                viewGrouping = 0;
+                viewMode = 5;
+            }
+        );
+        composersSplitWidth = 0;
+        maximized = 0;
+        modifiedDate = "2023-03-15 22:20:06 +0000";
+        textArtworkVisible = 0;
+        thumbArtworkVisible = 1;
+        unwatchedSplitWidth = 0;
+        viewMode = 0;
+        windowHPos = 257;
+        windowHeight = 720;
+        windowVPos = 156;
+        windowWidth = 1220;
+        zoomed = 0;
+    };
+    "RDoc:132:Documents" = {length = 662, bytes = 0x00000001 00000000 00000000 00000000 ... 00000000 00000000 };
+    StoreUserInfo =     {
+        10390736781 =         {
+            UserHandle = "";
+            UserName = "Adauto Guedes";
+        };
+    };
+    bwui =     {
+        "sidebar-hidden" =         (
+                        {
+                distinguishedPlaylistKind = 4;
+                mediaViewMode = 5;
+                setbyuserinteraction = 0;
+            },
+                        {
+                distinguishedPlaylistKind = 4;
+                mediaViewMode = 10;
+                setbyuserinteraction = 0;
+            },
+                        {
+                distinguishedPlaylistKind = 4;
+                mediaViewMode = 41;
+                setbyuserinteraction = 0;
+            },
+                        {
+                distinguishedPlaylistKind = 47;
+                mediaViewMode = 38;
+                setbyuserinteraction = 0;
+            },
+                        {
+                distinguishedPlaylistKind = 64;
+                mediaViewMode = 38;
+                setbyuserinteraction = 0;
+            }
+        );
+        "sidebar-shown" =         (
+                        {
+                distinguishedPlaylistKind = 4;
+                mediaViewMode = 4;
+                setbyuserinteraction = 0;
+            },
+                        {
+                distinguishedPlaylistKind = 4;
+                mediaViewMode = 6;
+                setbyuserinteraction = 0;
+            },
+                        {
+                distinguishedPlaylistKind = 4;
+                mediaViewMode = 8;
+                setbyuserinteraction = 0;
+            },
+                        {
+                distinguishedPlaylistKind = 4;
+                mediaViewMode = 9;
+                setbyuserinteraction = 0;
+            }
+        );
+    };
+    checkedHLSKeysTime = 3761763569;
+    controllableInterfaceGUID = "-6517055642918106923";
+    debugAssertCategoriesEnabled = 0;
+    debugAssertCategoriesVersion = 3;
+    doesStoreSupportCloudMusicLibrary = 1;
+    encoderName = "AAC Encoder";
+    eqPrefsVersion = 1;
+    firstLaunchShowWelcomeScreenState = 2;
+    "gnot:1:Gracenote Match Registered User ID" = {length = 181, bytes = 0x57456378 41364745 34424f36 70786a42 ... 59497047 32717000 };
+    "gnot:2:Gracenote CDDB Lookup Registered User ID" = {length = 181, bytes = 0x57456378 4135426c 3356564d 30646844 ... 2b6c614f 6c644a00 };
+    haveRadioState = 1;
+    "imported-eq-presets" = 1;
+    lastMusicTabs =     {
+        classic =         (
+        );
+        subscriber =         (
+                        {
+                id = "my_music";
+            },
+                        {
+                id = "for_you";
+                url = "https://se2.itunes.apple.com/WebObjects/MZStoreElements2.woa/wa/justForYou";
+            },
+                        {
+                id = new;
+            },
+                        {
+                id = radio;
+            },
+                        {
+                id = search;
+                url = "https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search";
+            }
+        );
+        undecided =         (
+                        {
+                id = "for_you";
+                url = "https://se2.itunes.apple.com/WebObjects/MZStoreElements2.woa/wa/justForYou";
+            },
+                        {
+                id = radio;
+            },
+                        {
+                id = "my_music";
+            },
+                        {
+                id = search;
+                url = "https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search";
+            }
+        );
+        voiceSubscriber =         (
+                        {
+                id = "for_you";
+                url = "https://se2.itunes.apple.com/WebObjects/MZStoreElements2.woa/wa/justForYou";
+            },
+                        {
+                id = radio;
+            },
+                        {
+                id = "my_music";
+            },
+                        {
+                id = search;
+                url = "https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search";
+            }
+        );
+    };
+    "library-bookmark" = {length = 972, bytes = 0x626f6f6b cc030000 00000410 30000000 ... d4010000 00000000 };
+    "media-folder-bookmark" = {length = 952, bytes = 0x626f6f6b b8030000 00000410 30000000 ... c8010000 00000000 };
+    "notifications-warming-last-displayed-time" = 700611455;
+    preloadFilesIntoMemory = 0;
+    refreshedHLSKeysTime = 3738608777;
+    "rprf:0000000000000000" = {length = 128, bytes = 0x72737066 3f800000 3f800000 00000000 ... 00000000 00000000 };
+    "rspl:1:AirTunes Speaker List" = {length = 630, bytes = 0x3c3f786d 6c207665 7273696f 6e3d2231 ... 2f706c69 73743e0a };
+    showWelcomeScreenState = 2;
+    sidebarItemInfo =     {
+        selected =         {
+            group = 2;
+            id = 102;
+        };
+    };
+    storeBrowseColumns =     {
+        "Columns.columnInfo" =         (
+                        {
+                "ColumnInfo.moveable" = 1;
+                "ColumnInfo.resizable" = 1;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 1;
+                "ColumnInfo.trackField" = 26;
+                "ColumnInfo.width" = 115;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            }
+        );
+        "Columns.numColumns" = 1;
+        "Columns.sortColumnIndex" = 0;
+    };
+    storeMediaTypeFlags = 3398;
+    storePublishedPlaylistColumns =     {
+        "Columns.columnInfo" =         (
+                        {
+                "ColumnInfo.moveable" = 1;
+                "ColumnInfo.resizable" = 1;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 1;
+                "ColumnInfo.trackField" = 26;
+                "ColumnInfo.width" = 115;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            },
+                        {
+                "ColumnInfo.moveable" = 0;
+                "ColumnInfo.resizable" = 0;
+                "ColumnInfo.reverseSort" = 0;
+                "ColumnInfo.sortable" = 0;
+                "ColumnInfo.trackField" = 0;
+            }
+        );
+        "Columns.numColumns" = 1;
+        "Columns.sortColumnIndex" = 0;
+    };
+    storeSupportsCloudPurchases = 1;
+    storeSupportsPasswordSettings = 1;
+    storeSupportsPreviousPurchases = 1;
+    storeSupportsUPP = 1;
+    userMaxConcurrentDownloads = 3;
+}

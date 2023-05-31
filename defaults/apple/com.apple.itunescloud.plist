@@ -1,0 +1,65 @@
+{
+    ICDefaultsCachedSubscriptionStatus =     {
+        lastKnownActiveDSID = 10390736781;
+        lastKnownOSVersion = 21F79;
+        responses =         {
+            "{\\"phoneNumber\\":\\"\\",\\"dsid\\":\\"10390736781\\",\\"storefrontID\\":\\"143503\\"}" =             {
+                status =                 {
+                    "_ICMusicSubscriptionStatusAdditionalProperties" =                     {
+                        carrierBundlingStatusType = 0;
+                    };
+                    acceptSilentAuth = 1;
+                    account =                     {
+                    };
+                    family =                     {
+                    };
+                    match =                     {
+                        status = Disabled;
+                    };
+                    music =                     {
+                        isFamilySubscription = 0;
+                        isNotEligibleForFreeTrial = 1;
+                        isPurchaser = 0;
+                        reason = Individual;
+                        status = Enabled;
+                    };
+                    status = 0;
+                    terms =                     (
+                    );
+                };
+                valid = 1;
+            };
+        };
+    };
+    ICDefaultsKeyLastActiveAccountDSID = 10390736781;
+    ICDefaultsKeyLastCookieHeadersForRevokingMusicUserTokens =     {
+        Cookie = "X-Dsid=10390736781; xp_ab=1#Jv0scgz+-2+HmMUI2C01#IJtoLUK+-2+_FTEbxq01#Zh4zkDd+-2+Utk2R3g0#yNFpB6B+-2+QU9gZjs00; itspod=42; mz_mt0-10390736781=AhYNTvPfbGb141QvjCyQCkJrCfJinVzFCa1EqQSIORkTMOWhi0ncLSQaq9hjx7bieoYhulad8xMbsclqGkHpBMO86OYXfSy5oESQcY3TJpB2t6vG9m0FcakgncTS84R8mG2nzjSQ7O+EEUppfoFhQpCEWjyYEevUbcVL7bUY/mWWAGC/951jjocPzNfTBs5B67/HSs8=; mt-tid-10390736781=Ao2d7QMPKPcCUsBxx1KxTzwyfcRWR/Lv9UczGVwHtBRJzm7zWGG6/1Hm1F3X/Tq8GHabsimzUdgFhKDrffGUiXNjGZkhQiX7DYQTNzZnhksESwiKizReJ5AbRSTE0ySx4yzYVvqa7FIGOLsY/76Wa5KMWijHEgA+5CCe2FH2N/wrlWrpc16NZkbykULhI+M/FWRioRrU3HM9sjxXGRfTEhpBDyfVRRa9i19bZBgBvpZ7QtcZZcXfzCE2YV8U27awtiesMGM=; wosid-lite=zLKh4SC6bUWvUigNgQwGEM; amia-10390736781=MpTOyJw4flgkdTYuNwC0SyU2XJHKsRxQC1A/7pSMi2mqbH+YBaHfLrf4yawKDyPO9L8htENGW7gI2jX6xAJ7Kg==; mz_at0-10390736781=AwQAAAEBAAH70AAAAABkNfgInGHOsg2Le2dC9BLf/+gG6pX2i/c=; countryVerified=1; mz_at_ssl-10390736781=AwUAAAEBAAH70AAAAABjv0qL601r5Nif0aQ6fnStuIwOYfmyHHU=; pldfltcid=d687fc592b1440a2a6ee8617ad5cfb5a042; ns-mzf-inst=108-110-443-96-11-8240-427100--st44; fspc=AAAAAAAAAAGfX3n1/9pt2Khlc6Vp7oJRiOqbEnOpGlnsnM7O54Xe+/c06vhw4ndToVEEMT+JSaLJa9h4idZQUk3vmR4tjmDoiNS9JDKgLSRIHUKQa5fkrw==; xp_ci=3z1wesIbz2VBz4gOzCMjzKi0eLbod; fsic=AAAAAAAAAAHVZkvI1HObi5eyIdHO+jeMiJEBpdoZRpvPvNgly4Ajt4Yzeg2OiWhQnhuP4EVU1D1QZzJiO7GGEBS8Lj220dbl0gkc79IprzeSFUmXxFqLv85SrqS3NFwkwo59Dm1zpE+Pf1JY9c/oHUV1+4aHTx1+j58RqVQJ/S8A7VutsuGZ/kwf/Sxv2Bvrq2xT5PcYymezd38W/3afwd72XCtMonsmEkeDOShCegTeEsxBEKtYpl5DTU89Aaut0NPbOJBqgsAq9cJVRaemQsoT8WzSddRx; TrPod=4; fstv=AAAAAAAAAAFBCa9zvMrwNa4G/ahw4zRpk4omcHMxT2N60rr7Y+pxt39qIMblrzThvN+FuyyzirHBA72LX78M5PDLSwdRC7o8C35KDkhWwArfHJ/qDy8Ndw==; vrep=CI2f2NomEgQIDhAAEgQICRAAEgQIBxAAEgQICxAAEgQIERAAEgQIBhAAEgQIChAAEgQIEhAAEgQIDxAAEgQIDBAAEgQIEBAAEgQIAhAAEgQIARAAEgQIBRAAEgQIBBAAEgQIDRAAEgQIAxAAEgQICBAA; fsnw=AAAAAAAAAAF0HQG2sqqmwiGw37vCL2FiSliDJI9F3HjBK3OUUYFJE87VUe1scK02L6TRgWZ8gSIRQ2Hegg1M7k/sh3FzgEyoU6gjMrivIT3EUwDk6STcNA==; ndsid=jwWezXw6oPQWZnZ2uTt0U0; mzf_in=427100; hsaccnt=1; fsas=AAAAAAAAAAF5SFlTfVoK6oHWl0nIoWuiG583WZ0nwszE3ConRVUPdEUACc0YaazPOQSgNMqpyMttdYqjHiI/r3qe67DgtRy4YP/V9YUicgEY2w0JKcwoJdsrzJec2XQAapdYhosztR8zWJFqnF5BTK/SHEIhZgDL7jDZRShLAHIbYMSZ8KrEAx9RdnIUAd+2agn0sBlWDmf/Nq26lJOLIJSMvoGoQy78Wo7o2HpHQHTWEsw8c39d77fqhGmnyajZOP+m9JWKt69Vsw7zypaH+ji+/goKR1JtOU5ybHj1tBGgOyoQoLVBZOB6vnxGMvO+fldVPJGx7PNslzzq9c3Oglda9CwtFL/6; amp=Kk6x5FfIxz8Q0cGW2v9Eo2l7hZS6wu5pn5lV7LR+g4pN+mQbHO0IBoScTu/aoc2FpVxyQ4YW/G3Ims+RBGi/xYBscgwInPq9xqDxf9bMG8Y=; mt-asn-10390736781=5; mz_at_mau-10390736781=AwIAAAEBAAH70AAAAABjv0qLxhimoqPB3ajP/ezDECL0ORj7NxY=; ampsc=6gw+zlMiq1AEfYfC6bf43ZAKUdCH89NBDrRRAmL6O8VzJUPsypwmAFTiaoSSNU2DMyCwO0lQ9cQyGHXmL8gNrjPGKfWFvphSV/ZKNFv12mOM9utwp/QXg06OtvGWMWaq; mt-tkn-10390736781=AgXxxq9pn6yjtJJI5Sal7y3hFXYvbUx0saQa2Ewq9dsrv6riX/nAvurshojxdabfG0/zSvFNZn084iG3D82pnzFb3ZeGMvIkhSg+OaIYUd1snGvDQD3sYQz/IppgqZXId+RxD0fKwXMJ79cNkrPPbT2xYGoNFmZtdLkeGiHFOv30BSclb/Ux4pUuwhmvNcx+3cFx6vk=; ndcd=wc1.1.w-855182.1.2.u5nszgAKpWN72kjUspG7mA%2C%2C.skkWbkSOQ_SPvzltmsl2yMMDxNLP6kfHgk3H3V6gcok4md35aYfw8y7ojVmRxtNtd4V7va9pi7LK-ML0bj2PIQQy7RxbOiwl9gOEJlGrsXJyPy37QfLEntPRzpG5gF6EMwWP8rWNlpBM9JVWKSQNU5junwL6wLBLHRBskDb9Jm4%2C; fsac=AAAAAAAAAAExgjoj0VsAjZJfuvHz/ecsoRrU6BcTJ2gRV8BA+LFIlZM5JqkT4sS8290PILp7lWC2r7WwjYbNbpRDLJ+L3oK4K1iX8tLxpi70nugYLmyx2OWX49oIboChZ4xd+n4K5kFtbgLesw7GYyKZqedNIYnhcROt/KfJq1/ax6QapN4thLpl1Zz6yDHMPyiHxsZ68GOPQJdw4hFIWWz06DKe6vHZPe7uP24xo37n4RROB0iL6PIS61F17X2EdYIZ1F/kVjTmG60Ng19lyV4G2eXJ3FIalg6EoZ2Af+WeukBoALt5GsW3seH6JazAj4lmaBn/KZUi2UxCYk6nfG8CdbVkcjraBkcMumB0g4D9zZvSFnztEjoElX+zD8W8ua/YAJ0wjcc=";
+    };
+    ICDefaultsKeyLastKnownSubscriptionStatusBaseCacheKey =     {
+        phoneNumber = "";
+        storefrontID = 143503;
+    };
+    ICDefaultsKeyLastKnownUserAgeVerificationState =     {
+        10390736781 =         {
+            ICAgeVerificationStateKeyDSID = 10390736781;
+            ICAgeVerificationStateKeyStatus = 1;
+            ICAgeVerificationStateKeyTreatment = 0;
+        };
+    };
+    ICDefaultsKeyMediaLibraryAccessApplicationIdentifiersWithTCCAcceptanceDates =     {
+    };
+    ICDefaultsRegisteredPushNotificationState =     {
+        accountStates =         {
+            10390736781 =             {
+                APNSToken = {length = 32, bytes = 0xfb08ac50 29a5ad8d 8ced1484 362e4a46 ... 79191c90 7655b4a2 };
+                mediaKinds =                 (
+                    "feature-movie",
+                    song,
+                    "tv-episode",
+                    "music-video",
+                    book
+                );
+            };
+        };
+    };
+}

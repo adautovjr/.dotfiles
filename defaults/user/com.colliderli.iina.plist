@@ -1,0 +1,16 @@
+{
+    MainWindowLastPosition = "{{544, 359}, {640, 360}}";
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 258.000000, NO, NO",
+        "0.000000, 259.000000, 224.000000, 48.000000, NO, NO"
+    );
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame SUUpdateAlert" = "554 510 620 398 0 0 1728 1079 ";
+    SUEnableAutomaticChecks = 1;
+    SUFeedURL = "https://www.iina.io/appcast.xml";
+    SUHasLaunchedBefore = 1;
+    SULastCheckTime = "2022-07-21 22:00:21 +0000";
+    SUSendProfileInfo = 0;
+}

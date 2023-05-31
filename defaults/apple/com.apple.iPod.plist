@@ -1,0 +1,21 @@
+{
+    Devices =     {
+        1C6D89A3CDB78417 =         {
+            "Build Version" = 16H71;
+            Connected = "2022-12-15 23:28:15 +0000";
+            "Device Class" = iPhone;
+            "Family ID" = 10035;
+            "Firmware Version" = 256;
+            "Firmware Version String" = "12.5.6";
+            ID = 1C6D89A3CDB78417;
+            IMEI = 358759058713735;
+            MEID = 35875905871373;
+            "Product Type" = "iPhone6,1";
+            "Region Info" = "J/A";
+            "Serial Number" = F17LQMSZFFFR;
+            "Use Count" = 3;
+        };
+    };
+    "com.apple.PreferenceSync.ExcludeAllSyncKeys" = 1;
+    "conn:128:Last Connect" = {length = 4, bytes = 0xdfc133df};
+}

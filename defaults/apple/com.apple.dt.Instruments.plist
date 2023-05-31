@@ -1,0 +1,22 @@
+{
+    "NSWindow Frame InstrumentsWindow" = "222 137 1284 823 0 0 1728 1079 ";
+    XCFontAndColorCurrentDarkTheme = "Default (Dark).xccolortheme";
+    XRCallTreeSmartExpansionFraction = "0.75";
+    XRCompressRunData = 1;
+    XRDockSamplingDuration = 5;
+    XRDockSamplingDurationUnits = sec;
+    XRDockSamplingInterval = 1;
+    XRDockSamplingIntervalUnits = ms;
+    XRDockSamplingRecentsLimit = 10;
+    XRFileBrowserExpandBundles = 1;
+    XRFileExplorerShowHiddenFiles = 0;
+    XRInstrumentInspectorShowAdvancedOtherTab = 0;
+    XRKPerfMaxFrames = 128;
+    XRMainWindowSplitterValue = 320;
+    XRMaxWindowModeEpochFactor = "2.0";
+    XRMostRecentTargetType = 0;
+    XRSortProcessListsByIdentifier = 1;
+    "stack.displayFilePath" = 1;
+    "stack.displayLibraries" = 1;
+    "stack.inverted" = 1;
+}

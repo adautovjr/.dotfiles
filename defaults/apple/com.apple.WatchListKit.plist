@@ -1,0 +1,23 @@
+{
+    "AMSBagTracker_NowPlayingEnabledKey" = 1;
+    "AMSBagTracker_SportsEnabledKey" = 0;
+    PreviouslyBadgedTVOffers =     (
+        0
+    );
+    hasMigratedToNewBadgingSystem = 1;
+    lastKnownTVAppEnabledValue = 1;
+    storedConfig =     {
+        activeUser = 1;
+        rrkvp =         {
+            caller = wlk;
+            locale = "en-GB";
+            pfm = desktop;
+            sf = 143503;
+            utscf = "OjAAAAEAAAAAAAIAEAAAAAwADQAQAA~~";
+            utsk = "6e3013c6d6fae3c2::::::fdd60f5a1aeecd71";
+            v = 56;
+        };
+        utsc = "7:17965";
+    };
+    storedConfigTimestamp = 1650399280;
+}

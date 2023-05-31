@@ -1,0 +1,14 @@
+{
+    HasRequestedAccessibilityPermission = 1;
+    HasRequestedInputMonitoringPermission = 1;
+    HasRunBefore = 1;
+    HideIcon = 0;
+    InvertScrollingOn = 0;
+    PrefsLastUsedPanel = scrolling;
+    ReverseTrackpad = 0;
+    ReverseX = 1;
+    ReverseY = 0;
+    SUHasLaunchedBefore = 1;
+    SULastCheckTime = "2022-04-11 22:08:10 +0000";
+    TerminatedWithPrefsWindowOpen = 0;
+}

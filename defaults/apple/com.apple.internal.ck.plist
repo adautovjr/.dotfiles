@@ -1,0 +1,13 @@
+{
+    ByteCodeCacheEnabled = 1;
+    DefaultBootTimeUpdateScripts = 1;
+    DefaultCacheKey = assistantd;
+    DefaultWarmupScriptsExtension = ".es2017.min.js";
+    DictationOnDeviceSamplingDisabled = 0;
+    DictationSamplingRates = "{}";
+    DisableFBFForUEI = false;
+    HasSetUpRecordZoneSubscription = 1;
+    ServerChangeToken = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000df };
+    WarmupModularScriptIdentifiers = "";
+    WarmupScriptIdentifiers = "RunWrapper.min.js,tslib.min.js";
+}

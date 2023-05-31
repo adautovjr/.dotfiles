@@ -1,0 +1,50 @@
+{
+    CellularBytesRecved =     {
+        starttimestamp = 1649188662369;
+        value = 0;
+    };
+    CellularBytesSent =     {
+        starttimestamp = 1649188662369;
+        value = 0;
+    };
+    MOMMSSendFailedCount =     {
+        starttimestamp = 1649188662368;
+        value = 0;
+    };
+    MOMMSSendSuccessfulCount =     {
+        starttimestamp = 1649188662368;
+        value = 0;
+    };
+    MOSMSSendFailedCount =     {
+        starttimestamp = 1649188662367;
+        value = 0;
+    };
+    MOSMSSendSuccessfulCount =     {
+        starttimestamp = 1649188662366;
+        value = 0;
+    };
+    MTMMSRecvFailedCount =     {
+        starttimestamp = 1649188662368;
+        value = 0;
+    };
+    MTMMSRecvSuccessfulCount =     {
+        starttimestamp = 1649188662368;
+        value = 0;
+    };
+    MTSMSRecvFailedCount =     {
+        starttimestamp = 1649188662367;
+        value = 0;
+    };
+    MTSMSRecvSuccessfulCount =     {
+        starttimestamp = 1649188662367;
+        value = 0;
+    };
+    "SRUMB_Attempt_Count" =     {
+        starttimestamp = 1649188662369;
+        value = 0;
+    };
+    VVMNotificationsRecvedCount =     {
+        starttimestamp = 1649188662368;
+        value = 0;
+    };
+}

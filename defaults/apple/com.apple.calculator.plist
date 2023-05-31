@@ -1,0 +1,7 @@
+{
+    "NSWindow Frame Calc_History_Window" = "504 696 227 348 0 0 1728 1079 ";
+    "NSWindow Frame Calc_Main_Window" = "669 551 232 321 0 0 1728 1079 ";
+    "Programmer_InputMode" = 16;
+    ViewDefaultsKey = Basic;
+    ViewPathDefaultsKey = "##BUILTIN##/BasicAndSci.calcview";
+}

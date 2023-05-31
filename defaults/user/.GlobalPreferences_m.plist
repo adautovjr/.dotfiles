@@ -1,0 +1,9 @@
+{
+    AppleLanguages =     (
+        "en-BR",
+        "pt-BR"
+    );
+    AppleLocale = "en_BR";
+    "Sig_AppleLanguages" = "UserAccountUpdater(712): 2022-04-05 12:57:44 (PDT)";
+    "Sig_AppleLocale" = "DirectoryTools(663): 2022-04-05 12:57:35 (PDT)";
+}

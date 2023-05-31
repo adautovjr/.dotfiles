@@ -1,0 +1,113 @@
+{
+    "home-sharing-computer-id" = "";
+    "home-sharing-enabled" = 0;
+    "home-sharing-group-id" = "";
+    "home-sharing-sequence-id" = 100;
+    "home-sharing-settings" =     {
+        "home-sharing-update-play-counts" = 0;
+        "home-sharing-user-id" = 0;
+        "home-sharing-user-name" = "";
+    };
+    "photo-sharing-enabled" = 0;
+    "photo-sharing-settings" =     {
+        apertureAlbums =         (
+        );
+        apertureCopyOriginalPhotos = 0;
+        apertureCustomAlbumOrder = 0;
+        apertureSyncAllAlbums = 0;
+        apertureSyncAllFaces = 0;
+        apertureSyncMode = 0;
+        apertureSyncPhotoVideos = 0;
+        iPhotoAlbums =         (
+        );
+        iPhotoCopyOriginalPhotos = 0;
+        iPhotoCustomAlbumOrder = 0;
+        iPhotoPrefsMajorVersion = 0;
+        iPhotoPrefsMinorVersion = 0;
+        iPhotoSyncAllAlbums = 0;
+        iPhotoSyncAllFaces = 0;
+        iPhotoSyncMode = 0;
+        iPhotoSyncPhotoVideos = 0;
+        iPhotoUpgradedDistinguishedAlbums = 0;
+        "photo-sharing-source-id" = 0;
+        photosAppAlbums =         (
+        );
+        photosAppAutoIncludeEnabled = 0;
+        photosAppCopyOriginalPhotos = 0;
+        photosAppCustomAlbumOrder = 0;
+        photosAppEventCount = 255;
+        photosAppOnlyFavorites = 0;
+        photosAppSyncAllAlbums = 0;
+        photosAppSyncAllFaces = 0;
+        photosAppSyncMode = 0;
+        photosAppSyncPhotoVideos = 0;
+        photosFolderAlbums =         (
+        );
+        photosFolderCopyOriginalPhotos = 0;
+        photosFolderCustomAlbumOrder = 0;
+        photosFolderInfo =         {
+            syncFolderIsFromMac = 0;
+            syncFolderIsValid = 0;
+        };
+        photosFolderSyncMode = 0;
+        photosFolderSyncPhotoVideos = 0;
+        psAlbumAlbums =         (
+        );
+        psAlbumCopyOriginalPhotos = 0;
+        psAlbumCustomAlbumOrder = 0;
+        psAlbumSyncMode = 0;
+        psAlbumSyncPhotoVideos = 0;
+        psElementsAlbums =         (
+        );
+        psElementsCopyOriginalPhotos = 0;
+        psElementsCustomAlbumOrder = 0;
+        psElementsSyncMode = 0;
+        psElementsSyncPhotoVideos = 0;
+    };
+    "public-sharing-enabled" = 0;
+    "public-sharing-is-protected" = 0;
+    "public-sharing-settings" =     {
+        "public-sharing-playlists" =         (
+                        {
+                "public-sharing-playlist-domain" = 2;
+                "public-sharing-playlist-id" = 459454801877801775;
+                "public-sharing-playlist-name" = Rentals;
+                "public-sharing-playlist-shared" = 0;
+            },
+                        {
+                "public-sharing-playlist-domain" = 8;
+                "public-sharing-playlist-id" = 4723744558218670340;
+                "public-sharing-playlist-name" = Audiobooks;
+                "public-sharing-playlist-shared" = 1;
+            },
+                        {
+                "public-sharing-playlist-domain" = 1;
+                "public-sharing-playlist-id" = 6520471316828910374;
+                "public-sharing-playlist-name" = Music;
+                "public-sharing-playlist-shared" = 1;
+            },
+                        {
+                "public-sharing-playlist-domain" = 2;
+                "public-sharing-playlist-id" = "-7021277476680785141";
+                "public-sharing-playlist-name" = "TV Shows";
+                "public-sharing-playlist-shared" = 1;
+            },
+                        {
+                "public-sharing-playlist-domain" = 2;
+                "public-sharing-playlist-id" = "-1691190583069393568";
+                "public-sharing-playlist-name" = Movies;
+                "public-sharing-playlist-shared" = 1;
+            },
+                        {
+                "public-sharing-playlist-domain" = 2;
+                "public-sharing-playlist-id" = "-1323024490274686303";
+                "public-sharing-playlist-name" = "Home Videos";
+                "public-sharing-playlist-shared" = 1;
+            }
+        );
+        "public-sharing-share-all-playlists" = 0;
+    };
+    "shared-library-id" = 6196730914616243722;
+    "shared-library-machine-id" = "-1786837750558459619";
+    "shared-library-name" = "Adauto Guedes\\U2019s Library";
+}
