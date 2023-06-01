@@ -15,6 +15,6 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew install bundle
 
-brew bundle -file $HOME/Brewfile
+brew bundle --file $HOME/Brewfile
 
 # xcode-select --install
