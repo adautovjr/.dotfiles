@@ -1,6 +1,0 @@
-[user]
-name = Adauto Guedes
-email = adauto.guedes@hp.com
-
-[core]
-sshCommand = ssh -i ~/.ssh/id_hp_rsa

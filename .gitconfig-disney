@@ -1,0 +1,6 @@
+[user]
+name = Adauto AJ Guedes
+email = 21382-Adauto.Guedes.-ND@users.noreply.gitlab.disney.com
+
+[core]
+sshCommand = ssh -i ~/.ssh/id_disney_rsa
