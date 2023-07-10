@@ -12,4 +12,8 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew bundle install
 
+sudo sh -c 'echo /opt/homebrew/bin/fish >> /etc/shells'
+
+chsh -s /opt/homebrew/bin/fish $USER
+
 # xcode-select --install
