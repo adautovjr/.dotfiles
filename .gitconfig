@@ -4,3 +4,5 @@
   path = ~/.gitconfig-at
 [includeIf "gitdir:~/Documents/projects/disney/"]
   path = ~/.gitconfig-disney
+[push]
+	autoSetupRemote = true
